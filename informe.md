@@ -1,6 +1,6 @@
 # Informe: Dashboard de pedidos de una distribuidora
 
-Trabajo final de Streamlit - Integrantes: (completar con los 3 nombres)
+Trabajo final de Streamlit - Integrantes: Joaquin Papagianacopoulos, Santiago Martire, Agustin Pellegrino
 
 ## 1. Objetivo
 
