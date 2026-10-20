@@ -1,8 +1,8 @@
-﻿import streamlit as st
+import streamlit as st
 import plotly.express as px
 from limpieza import cargar_y_limpiar
 
-st.set_page_config(page_title="Dashboard Ventas - Distribuidora de Bebidas", layout="wide")
+st.set_page_config(page_title="Dashboard de Pedidos - Distribuidora", layout="wide")
 
 
 @st.cache_data
@@ -10,118 +10,160 @@ def traer_datos():
     return cargar_y_limpiar()
 
 
-datos, resumen = traer_datos()
+pedidos, lineas, resumen = traer_datos()
 
-meses = ["Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"]
-
-st.title("Ventas de una distribuidora de bebidas 2023-2024")
-st.write("Dashboard para analizar que se vende, donde se vende y cuanto ganamos.")
+st.title("Pedidos de una distribuidora de golosinas y bebidas")
+st.write("Dashboard para analizar cuanto vendemos, a quien, que productos mueven el negocio y como trabaja el equipo.")
 
 st.sidebar.header("Filtros")
-anios = st.sidebar.multiselect("Año", sorted(datos["anio"].unique()), default=sorted(datos["anio"].unique()))
-regiones = st.sidebar.multiselect("Region", sorted(datos["region"].unique()), default=sorted(datos["region"].unique()))
-categorias = st.sidebar.multiselect("Categoria", sorted(datos["categoria"].unique()), default=sorted(datos["categoria"].unique()))
+periodos = st.sidebar.multiselect("Mes", sorted(pedidos["periodo"].unique()), default=sorted(pedidos["periodo"].unique()))
+vendedores = st.sidebar.multiselect("Vendedor", sorted(pedidos["vendedor"].unique()), default=sorted(pedidos["vendedor"].unique()))
+zonas = st.sidebar.multiselect("Zona", sorted(pedidos["zona"].unique()), default=sorted(pedidos["zona"].unique()))
 
-filtrado = datos[
-    datos["anio"].isin(anios)
-    & datos["region"].isin(regiones)
-    & datos["categoria"].isin(categorias)
+pedidos_f = pedidos[
+    pedidos["periodo"].isin(periodos)
+    & pedidos["vendedor"].isin(vendedores)
+    & pedidos["zona"].isin(zonas)
+]
+lineas_f = lineas[
+    lineas["periodo"].isin(periodos)
+    & lineas["vendedor"].isin(vendedores)
+    & lineas["zona"].isin(zonas)
 ]
 
-if filtrado.empty:
+if pedidos_f.empty:
     st.warning("No hay datos con los filtros elegidos.")
     st.stop()
 
-ingresos = filtrado["ingreso"].sum()
-ganancia = filtrado["ganancia"].sum()
+total = pedidos_f["total"].sum()
 col1, col2, col3, col4 = st.columns(4)
-col1.metric("Ingresos", "$ {:,.0f}".format(ingresos))
-col2.metric("Ganancia", "$ {:,.0f}".format(ganancia))
-col3.metric("Margen", "{:.1f} %".format(ganancia / ingresos * 100))
-col4.metric("Cantidad de ventas", "{:,}".format(len(filtrado)))
+col1.metric("Ventas", "$ {:,.0f}".format(total))
+col2.metric("Pedidos", "{:,}".format(len(pedidos_f)))
+col3.metric("Ticket promedio", "$ {:,.0f}".format(pedidos_f["total"].mean()))
+col4.metric("Clientes distintos", "{:,}".format(pedidos_f["cliente_nombre"].nunique()))
 
-tab1, tab2, tab3, tab4 = st.tabs(["Evolucion", "Productos", "Regiones y vendedores", "Datos"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(["Evolucion", "Productos", "Clientes y vendedores", "Operacion", "Datos"])
 
 with tab1:
-    st.subheader("Los ingresos tienen estacionalidad")
-    por_mes = filtrado.groupby("periodo")["ingreso"].sum().reset_index()
-    grafico = px.line(por_mes, x="periodo", y="ingreso", markers=True,
-                      labels={"periodo": "Mes", "ingreso": "Ingresos ($)"})
+    st.subheader("Ventas por mes")
+    por_mes = pedidos_f.groupby("periodo").agg(ventas=("total", "sum"), pedidos=("total", "count"),
+                                               ticket=("total", "mean")).reset_index()
+    grafico = px.bar(por_mes, x="periodo", y="ventas", labels={"periodo": "Mes", "ventas": "Ventas ($)"})
+    grafico.update_xaxes(type="category")
     st.plotly_chart(grafico, width="stretch")
-    st.write("Las ventas se disparan en noviembre y diciembre por las fiestas. El resto del año se mantienen bastante parejas.")
+    st.write("Hay un salto en el tiempo: tenemos marzo y abril de 2025 y despues desde fines de abril de 2026.")
 
-    st.subheader("Que categoria vende mas en cada mes")
-    tabla = filtrado.groupby(["mes", "categoria"])["ingreso"].sum().reset_index()
-    tabla["mes"] = tabla["mes"].apply(lambda m: meses[m - 1])
-    grafico = px.bar(tabla, x="mes", y="ingreso", color="categoria",
-                     category_orders={"mes": meses},
-                     labels={"mes": "Mes", "ingreso": "Ingresos ($)", "categoria": "Categoria"})
+    izq, der = st.columns(2)
+
+    with izq:
+        st.subheader("Cantidad de pedidos por mes")
+        grafico = px.bar(por_mes, x="periodo", y="pedidos", labels={"periodo": "Mes", "pedidos": "Pedidos"})
+        grafico.update_xaxes(type="category")
+        st.plotly_chart(grafico, width="stretch")
+
+    with der:
+        st.subheader("Ticket promedio por mes")
+        grafico = px.bar(por_mes, x="periodo", y="ticket", labels={"periodo": "Mes", "ticket": "Ticket promedio ($)"})
+        grafico.update_xaxes(type="category")
+        st.plotly_chart(grafico, width="stretch")
+
+    st.subheader("Ventas por dia de la semana")
+    dias = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado", "Domingo"]
+    por_dia = pedidos_f.groupby("dia_semana")["total"].sum().reset_index()
+    grafico = px.bar(por_dia, x="dia_semana", y="total", category_orders={"dia_semana": dias},
+                     labels={"dia_semana": "Dia", "total": "Ventas ($)"})
     st.plotly_chart(grafico, width="stretch")
 
 with tab2:
     izq, der = st.columns(2)
 
     with izq:
-        st.subheader("Ingresos por categoria")
-        por_categoria = filtrado.groupby("categoria")["ingreso"].sum().reset_index()
-        grafico = px.pie(por_categoria, names="categoria", values="ingreso")
+        st.subheader("Top 10 productos por ingreso")
+        top = lineas_f.groupby("producto")["ingreso"].sum().sort_values().tail(10).reset_index()
+        grafico = px.bar(top, x="ingreso", y="producto", orientation="h",
+                         labels={"producto": "Producto", "ingreso": "Ingreso ($)"})
         st.plotly_chart(grafico, width="stretch")
 
     with der:
-        st.subheader("Margen de ganancia por categoria")
-        margen = filtrado.groupby("categoria")[["ingreso", "ganancia"]].sum().reset_index()
-        margen["margen"] = margen["ganancia"] / margen["ingreso"] * 100
-        grafico = px.bar(margen, x="categoria", y="margen",
-                         labels={"categoria": "Categoria", "margen": "Margen (%)"})
+        st.subheader("Top 10 marcas por ingreso")
+        marcas = lineas_f.groupby("marca")["ingreso"].sum().sort_values().tail(10).reset_index()
+        grafico = px.bar(marcas, x="ingreso", y="marca", orientation="h",
+                         labels={"marca": "Marca", "ingreso": "Ingreso ($)"})
         st.plotly_chart(grafico, width="stretch")
 
-    st.subheader("Top 10 productos por ganancia")
-    top = filtrado.groupby("producto")["ganancia"].sum().sort_values().tail(10).reset_index()
-    grafico = px.bar(top, x="ganancia", y="producto", orientation="h",
-                     labels={"producto": "Producto", "ganancia": "Ganancia ($)"})
+    st.subheader("Top 10 productos por unidades vendidas")
+    unidades = lineas_f.groupby("producto")["cantidad"].sum().sort_values().tail(10).reset_index()
+    grafico = px.bar(unidades, x="cantidad", y="producto", orientation="h",
+                     labels={"producto": "Producto", "cantidad": "Unidades"})
     st.plotly_chart(grafico, width="stretch")
 
-    st.subheader("Los descuentos afectan la ganancia")
-    por_descuento = filtrado.groupby("descuento")["ganancia"].mean().reset_index()
-    por_descuento["descuento"] = (por_descuento["descuento"] * 100).astype(int).astype(str) + " %"
-    grafico = px.bar(por_descuento, x="descuento", y="ganancia",
-                     labels={"descuento": "Descuento", "ganancia": "Ganancia promedio por venta ($)"})
+    st.subheader("Descuentos otorgados")
+    descuento = lineas_f["descuento"].sum()
+    ingreso = lineas_f["ingreso"].sum()
+    st.write("Se descontaron $ {:,.0f} en total, que es el {:.1f} % de lo que se vendio.".format(
+        descuento, descuento / (ingreso + descuento) * 100))
+    desc_marca = lineas_f.groupby("marca")["descuento"].sum().sort_values().tail(10).reset_index()
+    grafico = px.bar(desc_marca, x="descuento", y="marca", orientation="h",
+                     labels={"marca": "Marca", "descuento": "Descuento ($)"})
     st.plotly_chart(grafico, width="stretch")
 
 with tab3:
-    st.subheader("Crecimiento de cada region")
-    por_region = filtrado.groupby(["anio", "region"])["ingreso"].sum().reset_index()
-    por_region["anio"] = por_region["anio"].astype(str)
-    grafico = px.bar(por_region, x="region", y="ingreso", color="anio", barmode="group",
-                     labels={"region": "Region", "ingreso": "Ingresos ($)", "anio": "Año"})
+    st.subheader("Top 10 clientes")
+    por_cliente = pedidos_f.groupby("cliente_nombre")["total"].sum().sort_values()
+    top10 = por_cliente.tail(10).reset_index()
+    grafico = px.bar(top10, x="total", y="cliente_nombre", orientation="h",
+                     labels={"cliente_nombre": "Cliente", "total": "Compras ($)"})
     st.plotly_chart(grafico, width="stretch")
-    st.write("La region Sur es la que mas crecio entre 2023 y 2024.")
+    porcentaje = por_cliente.tail(10).sum() / total * 100
+    st.write("Los 10 mejores clientes representan el {:.1f} % de las ventas.".format(porcentaje))
 
     izq, der = st.columns(2)
 
     with izq:
-        st.subheader("Ganancia por vendedor")
-        por_vendedor = filtrado.groupby("vendedor")["ganancia"].sum().sort_values().reset_index()
-        grafico = px.bar(por_vendedor, x="ganancia", y="vendedor", orientation="h",
-                         labels={"vendedor": "Vendedor", "ganancia": "Ganancia ($)"})
+        st.subheader("Ventas por vendedor")
+        por_vendedor = pedidos_f.groupby("vendedor")["total"].sum().reset_index()
+        grafico = px.pie(por_vendedor, names="vendedor", values="total")
         st.plotly_chart(grafico, width="stretch")
 
     with der:
-        st.subheader("Medios de pago")
-        por_pago = filtrado.groupby("medio_pago")["ingreso"].sum().reset_index()
-        grafico = px.pie(por_pago, names="medio_pago", values="ingreso")
+        st.subheader("Ticket promedio por vendedor")
+        ticket = pedidos_f.groupby("vendedor")["total"].mean().reset_index()
+        grafico = px.bar(ticket, x="vendedor", y="total",
+                         labels={"vendedor": "Vendedor", "total": "Ticket promedio ($)"})
         st.plotly_chart(grafico, width="stretch")
 
 with tab4:
+    st.subheader("Armado, reparto y deuda")
+    st.write("Estos datos se empezaron a registrar en septiembre de 2026, por eso antes figuran en cero.")
+    recientes = pedidos_f[pedidos_f["periodo"] >= "2026-09"]
+
+    if recientes.empty:
+        st.info("Elegi septiembre u octubre de 2026 en el filtro de mes para ver esta seccion.")
+    else:
+        por_estado = recientes.groupby("periodo")[["armado", "a_reparto", "deuda_generada"]].mean() * 100
+        por_estado = por_estado.reset_index().melt(id_vars="periodo", var_name="etapa", value_name="porcentaje")
+        grafico = px.bar(por_estado, x="periodo", y="porcentaje", color="etapa", barmode="group",
+                         labels={"periodo": "Mes", "porcentaje": "% de pedidos", "etapa": "Etapa"})
+        st.plotly_chart(grafico, width="stretch")
+
+    st.subheader("Estado de los pedidos")
+    por_estado = pedidos_f.groupby("estado")["total"].agg(["count", "sum"]).reset_index()
+    por_estado.columns = ["Estado", "Pedidos", "Monto ($)"]
+    st.dataframe(por_estado)
+
+    st.subheader("Pedidos hechos desde la web")
+    st.write("Pedidos web recibidos:", int((pedidos_f["origen"] == "web").sum()))
+
+with tab5:
     st.subheader("Limpieza de datos realizada")
-    st.write("Filas originales:", resumen["filas_originales"])
-    st.write("Filas duplicadas eliminadas:", resumen["duplicados"])
-    st.write("Descuentos vacios completados con 0:", resumen["descuentos_nulos"])
-    st.write("Vendedores vacios marcados como 'Sin asignar':", resumen["vendedores_nulos"])
-    st.write("Ventas con cantidad absurda eliminadas:", resumen["cantidades_absurdas"])
-    st.write("Filas finales:", resumen["filas_finales"])
+    st.write("Pedidos originales:", resumen["filas_originales"])
+    st.write("Pedidos eliminados o cancelados descartados:", resumen["eliminados_cancelados"])
+    st.write("Pedidos con total en cero descartados:", resumen["total_cero"])
+    st.write("Pedidos con vendedor '-' renombrados a 'Sin asignar':", resumen["vendedor_sin_asignar"])
+    st.write("Pedidos sin zona completados con 'Sin zona':", resumen["zona_vacia"])
+    st.write("Pedidos finales:", resumen["filas_finales"])
+    st.write("Lineas de producto obtenidas de la columna items:", resumen["lineas"])
 
-    st.subheader("Tabla de ventas filtrada")
-    st.dataframe(filtrado.drop(columns=["periodo"]))
-    st.download_button("Descargar CSV", filtrado.to_csv(index=False), "ventas_filtradas.csv")
-
+    st.subheader("Tabla de pedidos filtrada")
+    st.dataframe(pedidos_f)
+    st.download_button("Descargar CSV", pedidos_f.to_csv(index=False), "pedidos_filtrados.csv")

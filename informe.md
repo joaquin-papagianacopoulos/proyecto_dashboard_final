@@ -1,57 +1,68 @@
-﻿# Informe: Dashboard de ventas de una distribuidora de bebidas
+# Informe: Dashboard de pedidos de una distribuidora
 
-Trabajo final de Streamlit - Integrantes: Joaquin Papagianacopoulos, Agustin Pellegrino, Santiago Martire
+Trabajo final de Streamlit - Integrantes: (completar con los 3 nombres)
 
 ## 1. Objetivo
 
-Armar un dashboard que le sirva al dueño de una distribuidora de bebidas para responder tres preguntas: qué productos nos dan más plata, en qué momento del año y en qué zonas vendemos más, y dónde estamos perdiendo ganancia.
+Armar un dashboard para una distribuidora de golosinas y bebidas que permita responder: cuánto vendemos, cómo evoluciona mes a mes, qué productos y clientes sostienen el negocio, cómo rinde cada vendedor y cómo funciona el armado y reparto de pedidos.
 
 ## 2. El dataset
 
-No encontramos datos reales de una distribuidora, así que **generamos un dataset simulado** con el script `generar_datos.py`. Lo armamos con comportamientos parecidos a la realidad (más cerveza en verano, más vino en diciembre, etc.) y le agregamos errores a propósito para poder practicar la limpieza.
+Usamos datos **reales** exportados de la base de pedidos de la distribuidora (archivo `datos/pedidos.csv`). Cada fila es un pedido y tiene 26 columnas: cliente, vendedor, fecha, total, estado, zona, datos de armado y reparto, origen (interno o web) y una columna `items` con el detalle de productos en formato JSON.
 
-Tiene 2253 filas (2023 y 2024) y estas columnas: id de venta, fecha, región, categoría, producto, precio unitario, costo unitario, cantidad, descuento, vendedor y medio de pago.
+- 4790 pedidos, del 21/03/2025 al 20/10/2026.
+- 358 clientes distintos.
+- Hay un salto en el tiempo: tenemos marzo y abril de 2025 y después desde el 30/04/2026. Los pedidos de 2025 son datos históricos cargados todos juntos, sin vendedor ni zona.
 
 ## 3. Tratamiento de datos
 
-La limpieza está en `limpieza.py`. Los problemas que encontramos y qué hicimos:
+La limpieza está en `limpieza.py`.
 
 | Problema | Cantidad | Solución |
 |---|---|---|
-| Filas duplicadas | 40 | Se eliminaron con `drop_duplicates` |
-| Regiones mal escritas ("centro ", "NORTE", " sur") | 80 | Se sacaron espacios y se unificó el formato |
-| Descuentos vacíos | 60 | Se completaron con 0 (asumimos que no hubo descuento) |
-| Vendedores vacíos | 45 | Se marcaron como "Sin asignar" para no perder la venta |
-| Cantidades negativas | 8 | Se pasaron a positivo (error de carga) |
-| Cantidades absurdas (5000 unidades) | 5 | Se eliminaron las filas |
+| Pedidos eliminados o cancelados | 81 | Se descartaron |
+| Pedidos con total en cero | 29 | Se descartaron |
+| Vendedor con valor "-" | 2072 | Se renombró a "Sin asignar" |
+| Zona vacía | 2089 | Se completó con "Sin zona" |
+| Columnas casi vacías (datos web, armado_log, etc.) | varias | No se usaron en el análisis |
 
-Después creamos columnas nuevas: año, mes, ingreso (precio x cantidad menos descuento), costo y ganancia (ingreso menos costo).
+Quedaron **4680 pedidos**.
 
-Resultado final: 2208 filas limpias.
+Lo más importante fue la columna `items`: es un texto JSON con la lista de productos de cada pedido. La recorrimos con un `for` y la convertimos en una tabla propia de **101.881 líneas** (una por producto vendido), con producto, precio, precio original y cantidad. Después:
+
+- Limpiamos los nombres de producto (le sacamos los símbolos `*` y `-` del principio).
+- Creamos la **marca** tomando la primera palabra del nombre (por ejemplo FELFORT, ARC). Es una aproximación simple.
+- Calculamos ingreso (precio x cantidad) y descuento (precio original menos precio, por cantidad).
+
+Comprobamos que la suma de las líneas coincide con el total de los pedidos (diferencia menor a $1).
+
+También agregamos columnas de mes y día de la semana a partir de la fecha.
 
 ## 4. Storytelling
 
-**Planteo.** La distribuidora creció en 2024, pero ¿creció bien?
+**Planteo.** La distribuidora vende cerca de 450 pedidos por mes. ¿Dónde está el negocio y qué se puede mejorar?
 
-**Hallazgo 1: Los vinos son el negocio.** Los vinos generan el 53% de los ingresos totales (unos $81,7 millones de $154,5 millones), con una cantidad de unidades parecida a la de las otras categorías (la cerveza es la que más unidades vende). Lo que pasa es que cada botella de vino vale mucho más. Si el vino tiene un problema, toda la empresa lo siente.
+**Hallazgo 1: El ticket promedio sube, la cantidad de pedidos no.** Entre mayo y septiembre de 2026 el pedido promedio pasó de $329.000 a $401.000 (+22%), mientras que la cantidad de pedidos se mantuvo entre 420 y 480 por mes. Crecemos vendiendo más por pedido, no atendiendo más pedidos. (Octubre aparece más bajo porque el mes está incompleto.)
 
-**Hallazgo 2: Noviembre y diciembre son los meses clave.** Un mes normal factura alrededor de $11,8 millones, pero noviembre llega a $17,3 millones y diciembre a $20,8 millones. Hay que tener stock y camiones listos antes de esos meses.
+**Hallazgo 2: El negocio es de lunes a viernes, con el viernes arriba.** Casi no hay pedidos sábado y domingo. El viernes concentra el 24% de las ventas.
 
-**Hallazgo 3: La región Sur explotó.** Pasó de $10,8 millones en 2023 a $24,7 millones en 2024 (más del doble). Ahora casi alcanza a la región Centro, que se mantuvo casi igual. Es la zona donde más conviene invertir.
+**Hallazgo 3: Pocos productos y marcas pesan mucho.** Felfort (7,7% de los ingresos) y ARC (6,6%) son las marcas que más facturan. En unidades, lo que más sale son los Don Satur (grasa y agridulce), que son productos baratos pero de altísimo volumen. Entonces conviene mirar el top por ingreso y por unidades por separado, porque cuentan historias distintas.
 
-**Hallazgo 4: Las aguas dejan más margen y las gaseosas menos.** Las aguas tienen un margen de 42,7% y las gaseosas solo 30%. Además las cervezas casi duplicaron sus ingresos en 2024 (de $9,3 a $16,3 millones), mientras que las gaseosas subieron solo 8%, menos que la inflación simulada, o sea que en realidad retrocedieron.
+**Hallazgo 4: La cartera de clientes está repartida.** Los 10 mejores clientes suman el 27% de las ventas y hay 358 clientes distintos. No dependemos de uno solo, aunque algunos clientes (estaciones de servicio, por ejemplo) compran montos muy grandes.
 
-**Hallazgo 5: Los descuentos se comen la ganancia.** Una venta sin descuento deja en promedio $30.300 de ganancia; con 15% de descuento deja $17.800, un 41% menos. Conviene revisar a quién se le da el descuento más alto.
+**Hallazgo 5: Los vendedores tienen perfiles distintos.** Cristian tiene el ticket promedio más alto ($479.000), Matias ($368.000) y Joaquin ($242.000). Cristian y Matias venden más plata por pedido; Joaquin hace muchos pedidos de menor monto.
 
-**Aclaración.** Los precios de 2024 incluyen una suba del 25% que pusimos en el dataset para simular inflación. Por eso el crecimiento de ingresos de 2024 (+38%) es en parte aumento de precios y no solo más ventas.
+**Hallazgo 6: Los descuentos son chicos.** Se descontó en total el 1,5% de lo que se hubiera vendido a precio original.
 
-**Conclusión.** La empresa crece, pero depende mucho del vino y de las fiestas de fin de año. Recomendamos reforzar la zona Sur, empujar las aguas por su margen y poner un límite a los descuentos altos.
+**Hallazgo 7: Armado y reparto se empezaron a medir en septiembre 2026.** En septiembre se registraba el armado en el 80% de los pedidos y en octubre en el 99%. El reparto subió de 49% a 95%. Es una mejora en el uso del sistema que permite medir la operación de ahora en adelante.
+
+**Conclusión.** El negocio es estable en cantidad de pedidos y crece por ticket. Para seguir creciendo conviene sumar clientes nuevos y hacer que los vendedores con ticket bajo se acerquen al de los mejores, cuidando el stock de las marcas líderes.
 
 ## 5. Cómo está armado el dashboard
 
-- Filtros en la barra lateral: año, región y categoría.
-- Cuatro indicadores arriba: ingresos, ganancia, margen y cantidad de ventas.
-- Cuatro pestañas: Evolución, Productos, Regiones y vendedores, y Datos (con el detalle de la limpieza y botón para descargar el CSV).
+- Filtros en la barra lateral: mes, vendedor y zona.
+- Cuatro indicadores: ventas, pedidos, ticket promedio y clientes distintos.
+- Cinco pestañas: Evolución, Productos, Clientes y vendedores, Operación y Datos (con el detalle de la limpieza y descarga del CSV).
 - Gráficos hechos con Plotly.
 
 ## 6. Cómo ejecutarlo
