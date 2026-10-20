@@ -1,0 +1,2254 @@
+id_venta,fecha,region,categoria,producto,precio_unitario,costo_unitario,cantidad,descuento,vendedor,medio_pago
+536,2023-07-01,Norte,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Martin,Tarjeta
+1054,2023-12-17,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.0,Valentina,Efectivo
+1131,2024-01-14,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.05,Martin,Transferencia
+750,2023-10-22,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.15,Tomas,Transferencia
+243,2023-03-23,Norte,Gaseosas,Naranja 1.5L,1700,1100,48,0.0,Lucia,Transferencia
+1789,2024-09-01,Sur,Gaseosas,Lima limon 2.25L,2500,1688,12,0.0,Valentina,Efectivo
+170,2023-02-06,Centro,Aguas,Agua con gas 2L,1200,650,12,0.1,Lucia,Efectivo
+684,2023-09-20,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Tomas,Efectivo
+112,2023-01-04,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Diego,Efectivo
+1964,2024-11-18,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.15,Valentina,Efectivo
+574,2023-07-11,Centro,Vinos,Cabernet 750ml,6900,4000,12,0.0,Valentina,Efectivo
+1119,2024-01-12,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.15,Sofia,Transferencia
+556,2023-07-01,Oeste,Aguas,Agua saborizada 1.5L,1400,800,12,0.1,Valentina,Transferencia
+1083,2023-12-07,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Martin,Transferencia
+2060,2024-11-13,Oeste,Jugos,Jugo manzana 1L,2250,1375,6,0.1,Tomas,Transferencia
+1738,2024-08-14,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.1,Valentina,Transferencia
+1814,2024-09-14,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Lucia,Transferencia
+1584,2024-06-09, sur,Cervezas,Negra botella 1L,3500,2125,48,0.0,Sofia,Tarjeta
+953,2023-12-10,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Tomas,Tarjeta
+1409,2024-03-15,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.15,Sofia,Efectivo
+1780,2024-09-06,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Lucia,Transferencia
+1865,2024-10-21,Oeste,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Diego,Transferencia
+2035,2024-11-18,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.0,Lucia,Tarjeta
+486,2023-06-10,Centro,Cervezas,Rubia lata 473ml,1500,900,96,0.15,Lucia,Efectivo
+448,2023-05-06,Sur,Vinos,Malbec 750ml,6500,3800,6,0.15,Lucia,Transferencia
+1855,2024-09-21,Centro,Jugos,Jugo naranja 1L,2250,1375,96,0.05,Lucia,Efectivo
+936,2023-11-10,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Sofia,Transferencia
+1081,2023-12-12,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.05,Diego,Tarjeta
+1400,2024-03-07,Centro,Vinos,Espumante 750ml,10625,6250,24,0.05,Diego,Efectivo
+7,2023-01-14,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Diego,Transferencia
+2029,2024-11-15,Sur,Vinos,Espumante 750ml,10625,6250,12,0.0,Sofia,Efectivo
+1970,2024-11-01,Sur,Cervezas,IPA lata 473ml,2875,1625,12,0.1,Tomas,Efectivo
+881,2023-11-21,Centro,Aguas,Agua sin gas 2L,1100,600,96,0.0,Sofia,Efectivo
+587,2023-07-14,Norte,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Sofia,Efectivo
+608,2023-08-23,Norte,Gaseosas,Naranja 1.5L,1700,1100,48,,Tomas,Tarjeta
+1611,2024-06-17,Norte,Vinos,Espumante 750ml,10625,6250,12,0.05,Tomas,Efectivo
+1499,2024-04-22,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.1,Sofia,Transferencia
+1071,2023-12-20,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Lucia,Efectivo
+41,2023-01-12,Sur,Cervezas,Negra botella 1L,2800,1700,48,0.0,Lucia,Tarjeta
+1182,2024-01-09,Norte,Vinos,Malbec 750ml,8125,4750,6,0.0,Valentina,Tarjeta
+1297,2024-02-10,Norte,Vinos,Cabernet 750ml,8625,5000,48,0.0,Lucia,Transferencia
+237,2023-03-25,Centro,Gaseosas,Cola 2.25L,2200,1500,48,0.0,Lucia,Tarjeta
+1469,2024-04-12,Oeste,Vinos,Malbec 750ml,8125,4750,12,0.05,Lucia,Transferencia
+109,2023-01-28,Sur,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Lucia,Tarjeta
+330,2023-04-28,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.1,Valentina,Transferencia
+1957,2024-11-02,Norte,Gaseosas,Naranja 1.5L,2125,1375,12,0.1,Martin,Tarjeta
+1110,2024-01-06,Sur,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Lucia,Transferencia
+1040,2023-12-10,Norte,Vinos,Malbec 750ml,6500,3800,6,0.0,Valentina,Transferencia
+1665,2024-07-20,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Tomas,Transferencia
+969,2023-12-12,Sur,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Sofia,Tarjeta
+465,2023-05-21,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Tomas,Transferencia
+942,2023-11-15,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Tomas,Transferencia
+2036,2024-11-15,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.0,Lucia,Tarjeta
+698,2023-09-13,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.0,Martin,Efectivo
+196,2023-02-13,Oeste,Vinos,Malbec 750ml,6500,3800,12,0.1,Diego,Tarjeta
+1280,2024-02-19,Centro,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Valentina,Transferencia
+561,2023-07-28,Oeste,Aguas,Agua sin gas 2L,1100,600,24,0.1,Valentina,Tarjeta
+1211,2024-02-18,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Diego,Transferencia
+901,2023-11-10,Centro,Aguas,Agua con gas 2L,1200,650,24,0.05,Lucia,Tarjeta
+1216,2024-02-22,Centro,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Valentina,Efectivo
+997,2023-12-28,Norte,Cervezas,Negra botella 1L,2800,1700,6,0.15,Diego,Tarjeta
+57,2023-01-28,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.15,Valentina,Transferencia
+1247,2024-02-28,Norte,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Valentina,Tarjeta
+986,2023-12-10,Centro,Cervezas,Negra botella 1L,2800,1700,48,0.0,Martin,Efectivo
+862,2023-11-10,Oeste,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Diego,Transferencia
+2151,2024-12-08,Sur,Aguas,Agua con gas 2L,1500,812,12,0.15,Tomas,Transferencia
+821,2023-10-22,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.1,Sofia,Efectivo
+1152,2024-01-02,Centro,Aguas,Agua con gas 2L,1500,812,24,0.0,Martin,Efectivo
+1344,2024-03-10,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.0,Sofia,Transferencia
+1283,2024-02-06,Norte,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Diego,Tarjeta
+620,2023-08-07,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.1,,Efectivo
+127,2023-02-06,Oeste,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Lucia,Transferencia
+66,2023-01-10,Oeste,Aguas,Agua sin gas 2L,1100,600,48,0.15,Diego,Transferencia
+2071,2024-12-11,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.15,Sofia,Efectivo
+1167,2024-01-13,Norte,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Martin,Transferencia
+51,2023-01-12,Norte,Cervezas,Rubia lata 473ml,1500,900,48,0.0,Tomas,Transferencia
+1013,2023-12-09,Centro,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Sofia,Transferencia
+554,2023-07-19,Norte,Cervezas,Negra botella 1L,2800,1700,24,,Tomas,Efectivo
+835,2023-10-16,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Tomas,Efectivo
+570,2023-07-09,Norte,Vinos,Cabernet 750ml,6900,4000,12,0.0,Martin,Tarjeta
+1517,2024-05-25,Centro,Cervezas,Rubia lata 473ml,1875,1125,96,0.0,Tomas,Transferencia
+2082,2024-12-18,Centro,Gaseosas,Lima limon 2.25L,2500,1688,48,0.1,Diego,Efectivo
+1066,2023-12-19,Norte,Vinos,Espumante 750ml,8500,5000,24,0.1,Lucia,Tarjeta
+2009,2024-11-17,Centro,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,Lucia,Transferencia
+1103,2024-01-11,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Lucia,Transferencia
+2167,2024-12-22,Sur,Vinos,Cabernet 750ml,8625,5000,48,0.0,Diego,Tarjeta
+2189,2024-12-11,Oeste,Vinos,Espumante 750ml,10625,6250,24,0.15,Lucia,Tarjeta
+286,2023-03-18,Centro,Vinos,Malbec 750ml,6500,3800,48,0.1,Tomas,Efectivo
+1973,2024-11-19,Norte,Cervezas,IPA lata 473ml,2875,1625,24,0.05,Valentina,Tarjeta
+305,2023-03-28,Centro,Jugos,Jugo manzana 1L,1800,1100,48,0.0,Diego,Tarjeta
+1003,2023-12-16, sur,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Tomas,Efectivo
+206,2023-02-15,centro ,Vinos,Espumante 750ml,8500,5000,6,,Martin,Tarjeta
+1860,2024-10-05,NORTE,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Sofia,Tarjeta
+1088,2024-01-25,NORTE,Gaseosas,Naranja 1.5L,2125,1375,24,0.05,Valentina,Efectivo
+349,2023-04-25,Norte,Aguas,Agua sin gas 2L,1100,600,12,0.0,Martin,Tarjeta
+2095,2024-12-22,Oeste,Cervezas,Negra botella 1L,3500,2125,12,0.0,Valentina,Transferencia
+1029,2023-12-18,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.0,Sofia,Efectivo
+1287,2024-02-06,Norte,Aguas,Agua sin gas 2L,1375,750,96,0.05,Martin,Efectivo
+637,2023-08-08,Sur,Vinos,Cabernet 750ml,6900,4000,6,0.0,Diego,Efectivo
+1471,2024-04-14,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.0,Martin,Efectivo
+444,2023-05-18,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.0,Tomas,Transferencia
+1551,2024-05-23,Centro,Vinos,Cabernet 750ml,8625,5000,12,0.05,Lucia,Efectivo
+1542,2024-05-12, sur,Vinos,Espumante 750ml,10625,6250,12,,Valentina,Efectivo
+1930,2024-10-06,Sur,Vinos,Espumante 750ml,10625,6250,96,0.05,Valentina,Transferencia
+662,2023-08-16,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Martin,Transferencia
+1562,2024-05-07,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Martin,Transferencia
+307,2023-03-28,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Lucia,Transferencia
+980,2023-12-01,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.1,Martin,Efectivo
+1933,2024-10-05,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.15,Diego,Transferencia
+1364,2024-03-07,Centro,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Martin,Transferencia
+1605,2024-06-24,Centro,Vinos,Malbec 750ml,8125,4750,12,0.0,Diego,Transferencia
+616,2023-08-27,Centro,Cervezas,Negra botella 1L,2800,1700,-48,,Sofia,Efectivo
+859,2023-11-07,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.05,Diego,Transferencia
+847,2023-11-26,Norte,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Diego,Efectivo
+454,2023-05-07,Sur,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Tomas,Tarjeta
+794,2023-10-16,Centro,Aguas,Agua con gas 2L,1200,650,6,0.1,Martin,Transferencia
+478,2023-06-28,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.0,,Tarjeta
+1820,2024-09-26,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.0,Tomas,Tarjeta
+1816,2024-09-02,Norte,Aguas,Agua saborizada 1.5L,1750,1000,96,0.0,Diego,Efectivo
+121,2023-02-10,Centro,Gaseosas,Lima limon 2.25L,2000,1350,48,0.0,Valentina,Efectivo
+1882,2024-10-15,Sur,Cervezas,Rubia lata 473ml,1875,1125,48,0.1,Tomas,Tarjeta
+846,2023-11-26,Norte,Gaseosas,Cola 2.25L,2200,1500,24,0.0,Lucia,Efectivo
+2077,2024-12-14,Centro,Gaseosas,Lima limon 2.25L,2500,1688,48,0.15,Valentina,Tarjeta
+1104,2024-01-21,Sur,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Valentina,Efectivo
+2187,2024-12-11,Centro,Vinos,Malbec 750ml,8125,4750,24,0.0,Martin,Efectivo
+1349,2024-03-01,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Lucia,Efectivo
+672,2023-09-09,Centro,Gaseosas,Naranja 1.5L,1700,1100,48,0.0,Diego,Transferencia
+1381,2024-03-13,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.0,Valentina,Efectivo
+1886,2024-10-26,Norte,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Sofia,Tarjeta
+761,2023-10-17,Oeste,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Tomas,Transferencia
+1153,2024-01-21,Sur,Aguas,Agua con gas 2L,1500,812,12,0.05,Valentina,Efectivo
+485,2023-06-16,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Diego,Transferencia
+2210,2024-12-16,Oeste,Jugos,Jugo manzana 1L,2250,1375,12,0.15,Lucia,Transferencia
+855,2023-11-15,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.05,Sofia,Efectivo
+2031,2024-11-20,Oeste,Vinos,Malbec 750ml,8125,4750,48,0.0,Sofia,Tarjeta
+1920,2024-10-08,Centro,Vinos,Cabernet 750ml,8625,5000,24,0.0,Valentina,Tarjeta
+1184,2024-01-17,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.05,Sofia,Transferencia
+1293,2024-02-03,Sur,Vinos,Cabernet 750ml,8625,5000,6,0.0,Valentina,Tarjeta
+1298,2024-02-16,Sur,Vinos,Cabernet 750ml,8625,5000,12,0.05,Sofia,Transferencia
+1541,2024-05-14,Centro,Vinos,Malbec 750ml,8125,4750,6,0.05,Tomas,Transferencia
+1148,2024-01-17,Sur,Aguas,Agua con gas 2L,1500,812,6,0.0,Sofia,Tarjeta
+1359,2024-03-15,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Diego,Tarjeta
+1653,2024-07-10,Sur,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Diego,Efectivo
+624,2023-08-17,Sur,Cervezas,Negra botella 1L,2800,1700,24,0.0,Tomas,Transferencia
+922,2023-11-14,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.0,Diego,Tarjeta
+779,2023-10-09,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.1,Valentina,Efectivo
+1274,2024-02-25,Norte,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Valentina,Efectivo
+1334,2024-03-02,Norte,Gaseosas,Naranja 1.5L,2125,1375,96,0.0,Diego,Efectivo
+2054,2024-11-10,Sur,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Diego,Efectivo
+593,2023-07-05,Oeste,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Martin,Transferencia
+871,2023-11-18,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.1,Valentina,Efectivo
+1692,2024-07-12,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Valentina,Tarjeta
+2157,2024-12-25,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.0,Tomas,Tarjeta
+487,2023-06-07,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Sofia,Tarjeta
+1675,2024-07-03,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.0,Sofia,Tarjeta
+767,2023-10-27,Oeste,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Valentina,Transferencia
+2191,2024-12-08,Centro,Vinos,Malbec 750ml,8125,4750,24,0.05,Martin,Efectivo
+298,2023-03-03,Norte,Vinos,Espumante 750ml,8500,5000,12,0.0,Valentina,Tarjeta
+135,2023-02-15,Sur,Gaseosas,Lima limon 2.25L,2000,1350,6,0.05,Tomas,Efectivo
+1604,2024-06-23,Oeste,Vinos,Espumante 750ml,10625,6250,6,0.1,Tomas,Tarjeta
+926,2023-11-06,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.1,Tomas,Tarjeta
+1876,2024-10-23,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.05,Valentina,Tarjeta
+1418,2024-03-12,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.05,Martin,Transferencia
+1463,2024-04-27,Oeste,Aguas,Agua sin gas 2L,1375,750,24,0.1,Lucia,Tarjeta
+1556,2024-05-20,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Sofia,Tarjeta
+1079,2023-12-10,Centro,Jugos,Jugo naranja 1L,1800,1100,96,0.0,Diego,Transferencia
+509,2023-06-12,Norte,Vinos,Espumante 750ml,8500,5000,12,0.0,Martin,Efectivo
+1419,2024-03-04,Sur,Jugos,Jugo manzana 1L,2250,1375,96,0.0,Sofia,Transferencia
+1978,2024-11-02,Sur,Cervezas,Negra botella 1L,3500,2125,12,0.0,Tomas,Tarjeta
+259,2023-03-06,Oeste,Cervezas,Negra botella 1L,2800,1700,96,0.0,Sofia,Efectivo
+1115,2024-01-25,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.1,Valentina,Tarjeta
+443,2023-05-23,Sur,Vinos,Espumante 750ml,8500,5000,12,0.1,Tomas,Efectivo
+1648,2024-07-18,Centro,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Sofia,Transferencia
+921,2023-11-28,Sur,Vinos,Cabernet 750ml,6900,4000,96,0.0,Diego,Efectivo
+1206,2024-01-03,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Sofia,Transferencia
+124,2023-02-01,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.1,Valentina,Efectivo
+1642,2024-07-11,Sur,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Sofia,Efectivo
+1664,2024-07-17,Sur,Aguas,Agua con gas 2L,1500,812,6,0.0,Diego,Efectivo
+973,2023-12-12,Sur,Cervezas,IPA lata 473ml,2300,1300,6,0.15,Martin,Tarjeta
+2014,2024-11-15,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,48,0.05,Diego,Tarjeta
+1205,2024-01-17,Norte,Jugos,Jugo manzana 1L,2250,1375,12,0.05,,Tarjeta
+1824,2024-09-24,Sur,Vinos,Espumante 750ml,10625,6250,6,0.1,Valentina,Efectivo
+2200,2024-12-14,Norte,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Sofia,Tarjeta
+1869,2024-10-01,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Martin,Transferencia
+2098,2024-12-03,Centro,Cervezas,IPA lata 473ml,2875,1625,96,0.0,Sofia,Transferencia
+580,2023-07-20,Norte,Vinos,Malbec 750ml,6500,3800,6,0.0,Tomas,Transferencia
+538,2023-07-24,Norte,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Lucia,Efectivo
+670,2023-09-03,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Valentina,Tarjeta
+2201,2024-12-26,Norte,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Martin,Efectivo
+202,2023-02-02,Centro,Vinos,Espumante 750ml,8500,5000,6,0.1,Tomas,Tarjeta
+1945,2024-10-22,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Tomas,Tarjeta
+1223,2024-02-22,Centro,Gaseosas,Lima limon 2.25L,2500,1688,48,0.0,Tomas,Transferencia
+768,2023-10-23,Sur,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Martin,Efectivo
+283,2023-03-23,Centro,Aguas,Agua con gas 2L,1200,650,12,0.0,Lucia,Transferencia
+681,2023-09-05,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Diego,Efectivo
+2090,2024-12-24,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.15,Martin,Transferencia
+18,2023-01-07,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.15,Valentina,Transferencia
+1488,2024-04-01,Oeste,Jugos,Jugo naranja 1L,2250,1375,12,0.05,Diego,Transferencia
+2131,2024-12-24,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.1,Valentina,Efectivo
+1265,2024-02-25,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Sofia,Efectivo
+1854,2024-09-14,Centro,Jugos,Jugo naranja 1L,2250,1375,48,0.05,Lucia,Tarjeta
+2105,2024-12-18,Norte,Cervezas,Rubia lata 473ml,1875,1125,48,0.15,Valentina,Tarjeta
+419,2023-05-05,Norte,Cervezas,Rubia lata 473ml,1500,900,12,0.1,Sofia,Tarjeta
+195,2023-02-08,Norte,Vinos,Malbec 750ml,6500,3800,12,0.1,Martin,Transferencia
+1126,2024-01-20,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.0,Martin,Transferencia
+2133,2024-12-12,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Tomas,Tarjeta
+2055,2024-11-26,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Lucia,Transferencia
+978,2023-12-12,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Lucia,Tarjeta
+2043,2024-11-09,Norte,Vinos,Espumante 750ml,10625,6250,48,0.0,Diego,Efectivo
+764,2023-10-06,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.05,Tomas,Tarjeta
+2074,2024-12-04,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Valentina,Tarjeta
+2037,2024-11-05,Norte,Vinos,Malbec 750ml,8125,4750,24,0.1,Lucia,Transferencia
+984,2023-12-18,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.1,Valentina,Efectivo
+103,2023-01-19,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Tomas,Efectivo
+1840,2024-09-14,Norte,Jugos,Jugo manzana 1L,2250,1375,48,0.1,Valentina,Transferencia
+511,2023-06-14,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.05,Sofia,Tarjeta
+242,2023-03-20,Sur,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Martin,Efectivo
+481,2023-06-11,Sur,Cervezas,Rubia lata 473ml,1500,900,96,0.0,Martin,Transferencia
+166,2023-02-23,Sur,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Martin,Efectivo
+1069,2023-12-02,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Valentina,Transferencia
+1028,2023-12-27,Oeste,Aguas,Agua con gas 2L,1200,650,6,0.0,Lucia,Tarjeta
+590,2023-07-11,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.05,Valentina,Tarjeta
+550,2023-07-12,Norte,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Lucia,Efectivo
+416,2023-05-06,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Martin,Efectivo
+588,2023-07-03,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Diego,Tarjeta
+1074,2023-12-16,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Tomas,Transferencia
+629,2023-08-01,Oeste,Aguas,Agua saborizada 1.5L,1400,800,12,0.1,Sofia,Transferencia
+679,2023-09-02,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.0,Tomas,Efectivo
+1862,2024-10-04,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Diego,Transferencia
+840,2023-11-18,Oeste,Gaseosas,Naranja 1.5L,1700,1100,12,,Lucia,Transferencia
+1012,2023-12-11,Oeste,Aguas,Agua saborizada 1.5L,1400,800,48,0.05,Diego,Efectivo
+369,2023-04-16,Centro,Vinos,Malbec 750ml,6500,3800,6,0.05,Sofia,Efectivo
+77,2023-01-12,Oeste,Aguas,Agua con gas 2L,1200,650,6,0.0,Tomas,Transferencia
+496,2023-06-04,Oeste,Vinos,Cabernet 750ml,6900,4000,12,0.1,Martin,Tarjeta
+108,2023-01-13,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Tomas,Tarjeta
+429,2023-05-17,Sur,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Diego,Tarjeta
+693,2023-09-17,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Valentina,Tarjeta
+1879,2024-10-23,Oeste,Cervezas,IPA lata 473ml,2875,1625,12,0.15,Tomas,Efectivo
+376,2023-04-06,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,Tomas,Transferencia
+2179,2024-12-28,Centro,Vinos,Espumante 750ml,10625,6250,48,0.05,Tomas,Efectivo
+903,2023-11-20, sur,Aguas,Agua sin gas 2L,1100,600,12,0.0,Martin,Efectivo
+1602,2024-06-18,Sur,Vinos,Malbec 750ml,8125,4750,24,,Sofia,Transferencia
+1375,2024-03-25,centro ,Aguas,Agua sin gas 2L,1375,750,24,0.05,Diego,Transferencia
+76,2023-01-17,Sur,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Diego,Efectivo
+613,2023-08-19,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Diego,Transferencia
+2061,2024-11-28,Oeste,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Diego,Efectivo
+1579,2024-06-09,Centro,Gaseosas,Naranja 1.5L,2125,1375,48,0.1,Sofia,Tarjeta
+1770,2024-08-26,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Tomas,Efectivo
+635,2023-08-17,Centro,Vinos,Malbec 750ml,6500,3800,12,0.1,Diego,Transferencia
+564,2023-07-08,Sur,Vinos,Cabernet 750ml,6900,4000,6,0.0,Tomas,Transferencia
+765,2023-10-18,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.0,Sofia,Transferencia
+1261,2024-02-16,Oeste,Cervezas,IPA lata 473ml,2875,1625,12,0.0,Lucia,Tarjeta
+1142,2024-01-09,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.0,,Transferencia
+731,2023-09-22,NORTE,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Valentina,Transferencia
+48,2023-01-23,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.05,Tomas,Transferencia
+407,2023-05-25,Oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Sofia,Transferencia
+1256,2024-02-10,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.1,,Efectivo
+675,2023-09-02,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.1,Valentina,Transferencia
+1035,2023-12-17,Centro,Aguas,Agua saborizada 1.5L,1400,800,12,0.05,Diego,Efectivo
+1534,2024-05-27,Centro,Aguas,Agua sin gas 2L,1375,750,48,0.05,Martin,Transferencia
+88,2023-01-05,Norte,Vinos,Espumante 750ml,8500,5000,24,0.0,Lucia,Transferencia
+586,2023-07-22,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Tomas,Efectivo
+886,2023-11-25,Oeste,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Sofia,Efectivo
+1105,2024-01-01,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.1,Diego,Transferencia
+201,2023-02-02,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.1,Martin,Transferencia
+336,2023-04-17,Norte,Cervezas,Negra botella 1L,2800,1700,24,0.0,Tomas,Tarjeta
+704,2023-09-04,Centro,Aguas,Agua sin gas 2L,1100,600,48,0.05,Tomas,Efectivo
+1118,2024-01-14,Centro,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Tomas,Efectivo
+1124,2024-01-01,Norte,Cervezas,Rubia lata 473ml,1875,1125,12,0.15,Valentina,Efectivo
+631,2023-08-06,Oeste,Aguas,Agua sin gas 2L,1100,600,12,0.0,Lucia,Efectivo
+1106,2024-01-13,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.1,Martin,Tarjeta
+1673,2024-07-23,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.05,Valentina,Efectivo
+780,2023-10-05,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Valentina,Efectivo
+758,2023-10-19,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.15,Valentina,Efectivo
+371,2023-04-12,Oeste,Vinos,Espumante 750ml,8500,5000,6,0.0,Valentina,Transferencia
+227,2023-03-26,Sur,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Valentina,Transferencia
+1644,2024-07-23,Sur,Gaseosas,Cola 2.25L,2750,1875,12,0.15,Valentina,Transferencia
+1218,2024-02-15,Sur,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Lucia,Transferencia
+1756,2024-08-17,Norte,Vinos,Cabernet 750ml,8625,5000,24,0.0,Martin,Efectivo
+2130,2024-12-25,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.15,Tomas,Efectivo
+1944,2024-10-20,Sur,Jugos,Jugo manzana 1L,2250,1375,6,,Lucia,Efectivo
+1139,2024-01-13,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Martin,Efectivo
+932,2023-11-04,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.05,Lucia,Efectivo
+426,2023-05-05,Oeste,Aguas,Agua sin gas 2L,1100,600,12,0.0,Tomas,Efectivo
+182,2023-02-10,Norte,Aguas,Agua con gas 2L,1200,650,12,0.05,Tomas,Efectivo
+1786,2024-09-04,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Tomas,Tarjeta
+281,2023-03-24,Oeste,Aguas,Agua sin gas 2L,1100,600,12,0.05,,Tarjeta
+1563,2024-05-24,Centro,Jugos,Jugo manzana 1L,2250,1375,48,0.15,Tomas,Transferencia
+293,2023-03-28,Centro,Vinos,Espumante 750ml,8500,5000,6,0.1,Martin,Efectivo
+1133,2024-01-10,Oeste,Cervezas,Negra botella 1L,3500,2125,48,0.0,Tomas,Efectivo
+271,2023-03-14,Norte,Aguas,Agua sin gas 2L,1100,600,12,0.15,Sofia,Transferencia
+737,2023-09-24,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.15,Tomas,Transferencia
+1164,2024-01-21,oeste,Aguas,Agua sin gas 2L,1375,750,24,0.0,Diego,Transferencia
+322,2023-04-24,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.05,Diego,Transferencia
+342,2023-04-14,Oeste,Cervezas,Rubia lata 473ml,1500,900,24,0.15,Tomas,Efectivo
+1483,2024-04-24,Oeste,Vinos,Cabernet 750ml,8625,5000,24,0.0,Martin,Tarjeta
+1727,2024-08-03,Centro,Cervezas,Negra botella 1L,3500,2125,48,0.0,Diego,Efectivo
+304,2023-03-10,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Lucia,Transferencia
+1246,2024-02-20,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.0,Diego,Efectivo
+422,2023-05-03,Norte,Aguas,Agua sin gas 2L,1100,600,12,0.0,Lucia,Tarjeta
+1116,2024-01-14,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.15,Tomas,Efectivo
+822,2023-10-27,Sur,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Martin,Transferencia
+1468,2024-04-12,CENTRO,Vinos,Malbec 750ml,8125,4750,6,0.15,Valentina,Efectivo
+269,2023-03-01,Norte,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Martin,Transferencia
+1273,2024-02-09,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Tomas,Transferencia
+55,2023-01-08,centro ,Aguas,Agua sin gas 2L,1100,600,96,0.05,Valentina,Transferencia
+368,2023-04-12,Centro,Vinos,Malbec 750ml,6500,3800,12,0.1,Diego,Transferencia
+944,2023-11-06,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Sofia,Tarjeta
+803,2023-10-18,Oeste,Vinos,Cabernet 750ml,6900,4000,6,0.0,Martin,Tarjeta
+1525,2024-05-21,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.05,Lucia,Tarjeta
+1897,2024-10-09,Centro,Aguas,Agua saborizada 1.5L,1750,1000,24,0.15,Valentina,Efectivo
+141,2023-02-03,Norte,Cervezas,IPA lata 473ml,2300,1300,48,0.15,Martin,Transferencia
+782,2023-10-14,Oeste,Cervezas,Negra botella 1L,2800,1700,24,0.05,Martin,Transferencia
+162,2023-02-21,Sur,Cervezas,IPA lata 473ml,2300,1300,48,0.05,Diego,Transferencia
+2079,2024-12-15,Norte,Gaseosas,Cola 2.25L,2750,1875,96,0.05,Sofia,Tarjeta
+1625,2024-06-03,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.05,Tomas,Transferencia
+1219,2024-02-17,Sur,Gaseosas,Cola 2.25L,2750,1875,24,0.0,Lucia,Efectivo
+896,2023-11-28,Centro,Aguas,Agua sin gas 2L,1100,600,6,0.05,Diego,Efectivo
+1507,2024-05-03,Norte,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Valentina,Tarjeta
+914,2023-11-09,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,Sofia,Transferencia
+390,2023-04-22,Norte,Jugos,Jugo manzana 1L,1800,1100,24,0.15,Martin,Transferencia
+762,2023-10-23,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.1,Valentina,Efectivo
+577,2023-07-15,Sur,Vinos,Espumante 750ml,8500,5000,24,0.0,Valentina,Tarjeta
+440,2023-05-24,Centro,Vinos,Espumante 750ml,8500,5000,48,0.0,Tomas,Efectivo
+404,2023-05-09,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.05,Valentina,Tarjeta
+1163,2024-01-28,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Tomas,Tarjeta
+830,2023-10-20,Sur,Jugos,Jugo manzana 1L,1800,1100,24,0.1,Tomas,Tarjeta
+1072,2023-12-09,Oeste,Jugos,Jugo manzana 1L,1800,1100,96,0.05,Tomas,Tarjeta
+808,2023-10-18,Centro,Vinos,Espumante 750ml,8500,5000,24,0.05,Lucia,Tarjeta
+2097,2024-12-16,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.0,Martin,Efectivo
+769,2023-10-18, sur,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Valentina,Transferencia
+25,2023-01-24,Centro,Cervezas,Rubia lata 473ml,1500,900,96,0.0,Valentina,Transferencia
+548,2023-07-17,Centro,Cervezas,Negra botella 1L,2800,1700,6,0.0,Valentina,Transferencia
+727,2023-09-13,Norte,Vinos,Espumante 750ml,8500,5000,96,0.0,Sofia,Transferencia
+987,2023-12-25,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.05,Diego,Tarjeta
+802,2023-10-24,Norte,Vinos,Cabernet 750ml,6900,4000,12,0.1,Sofia,Tarjeta
+1917,2024-10-18,Sur,Vinos,Cabernet 750ml,8625,5000,6,0.0,Valentina,Transferencia
+694,2023-09-02,Sur,Cervezas,Negra botella 1L,2800,1700,6,0.0,Martin,Transferencia
+2025,2024-11-12,Sur,Vinos,Malbec 750ml,8125,4750,6,0.1,Diego,Efectivo
+1635,2024-06-28,Norte,Jugos,Jugo manzana 1L,2250,1375,12,0.1,Valentina,Efectivo
+1462,2024-04-04,Norte,Aguas,Agua con gas 2L,1500,812,24,0.1,Diego,Efectivo
+526,2023-06-03,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.05,Tomas,Transferencia
+1227,2024-02-03,Norte,Cervezas,Rubia lata 473ml,1875,1125,24,0.05,Tomas,Efectivo
+178,2023-02-24,Norte,Aguas,Agua sin gas 2L,1100,600,24,0.05,Lucia,Tarjeta
+1646,2024-07-22,Norte,Gaseosas,Cola 2.25L,2750,1875,24,0.0,Diego,Transferencia
+1850,2024-09-26,Norte,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Diego,Transferencia
+4,2023-01-12,Centro,Gaseosas,Cola 2.25L,2200,1500,24,0.0,Diego,Tarjeta
+2094,2024-12-24,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.05,Valentina,Efectivo
+1827,2024-09-17,Centro,Vinos,Malbec 750ml,8125,4750,6,0.1,Martin,Tarjeta
+1649,2024-07-06,Sur,Gaseosas,Cola 2.25L,2750,1875,24,0.15,Martin,Transferencia
+1651,2024-07-11,Centro,Cervezas,IPA lata 473ml,2875,1625,24,0.05,Lucia,Tarjeta
+445,2023-05-04,Sur,Vinos,Malbec 750ml,6500,3800,24,0.0,Tomas,Tarjeta
+1627,2024-06-12,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Lucia,Efectivo
+789,2023-10-04,Sur,Aguas,Agua sin gas 2L,1100,600,6,,Tomas,Transferencia
+1975,2024-11-18,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.0,Sofia,Tarjeta
+615,2023-08-26,Norte,Cervezas,Negra botella 1L,2800,1700,6,0.05,Lucia,Tarjeta
+1315,2024-02-12,Norte,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Diego,Efectivo
+1326,2024-03-10,Oeste,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Tomas,Efectivo
+2153,2024-12-28,Norte,Aguas,Agua sin gas 2L,1375,750,24,0.0,Tomas,Tarjeta
+1767,2024-08-01,Oeste,Jugos,Jugo naranja 1L,2250,1375,-12,0.05,Valentina,Transferencia
+276,2023-03-08,Norte,Aguas,Agua con gas 2L,1200,650,24,0.0,Martin,Transferencia
+1290,2024-02-23,Centro,Aguas,Agua con gas 2L,1500,812,48,0.05,Martin,Transferencia
+1397,2024-03-19,Norte,Vinos,Cabernet 750ml,8625,5000,6,0.0,Valentina,Tarjeta
+2052,2024-11-10,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Valentina,Efectivo
+1428,2024-04-05,Oeste,Gaseosas,Cola 2.25L,2750,1875,24,0.05,Tomas,Tarjeta
+9,2023-01-02,Norte,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Martin,Tarjeta
+1829,2024-09-06,Oeste,Vinos,Malbec 750ml,8125,4750,12,0.05,Sofia,Transferencia
+528,2023-06-21,Centro,Jugos,Jugo naranja 1L,1800,1100,48,0.0,Tomas,Transferencia
+49,2023-01-26,Sur,Cervezas,IPA lata 473ml,2300,1300,48,0.1,Lucia,Efectivo
+654,2023-08-16,Sur,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Valentina,Transferencia
+1443,2024-04-24,Sur,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Tomas,Tarjeta
+1350,2024-03-21,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.15,Martin,Transferencia
+1606,2024-06-25,Sur,Vinos,Espumante 750ml,10625,6250,12,0.1,Diego,Transferencia
+187,2023-02-22,Oeste,Aguas,Agua sin gas 2L,1100,600,6,0.0,Lucia,Efectivo
+2001,2024-11-14,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Valentina,Tarjeta
+2198,2024-12-06,Centro,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Martin,Efectivo
+1245,2024-02-01,Sur,Cervezas,Rubia lata 473ml,1875,1125,48,0.05,Tomas,Transferencia
+302,2023-03-21,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Martin,Transferencia
+2149,2024-12-18,Norte,Aguas,Agua con gas 2L,1500,812,48,0.0,Martin,Transferencia
+809,2023-10-28,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.1,Lucia,Transferencia
+1147,2024-01-20,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.0,Valentina,Efectivo
+120,2023-02-04,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Martin,Transferencia
+354,2023-04-10,Centro,Aguas,Agua saborizada 1.5L,1400,800,24,0.0,Valentina,Efectivo
+1936,2024-10-07,Norte,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Tomas,Transferencia
+2128,2024-12-13,Norte,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Valentina,Tarjeta
+621,2023-08-20,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Valentina,Efectivo
+1837,2024-09-06,Centro,Vinos,Malbec 750ml,8125,4750,48,0.15,Martin,Transferencia
+415,2023-05-13,Centro,Cervezas,Negra botella 1L,2800,1700,6,0.0,Martin,Transferencia
+1172,2024-01-14,Centro,Aguas,Agua con gas 2L,1500,812,12,0.0,Tomas,Transferencia
+367,2023-04-09,Norte,Vinos,Cabernet 750ml,6900,4000,24,0.0,,Tarjeta
+1354,2024-03-16,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Sofia,Transferencia
+1484,2024-04-13,Norte,Jugos,Jugo naranja 1L,2250,1375,6,0.05,Diego,Transferencia
+1645,2024-07-05,Oeste,Gaseosas,Cola 2.25L,2750,1875,6,0.0,Valentina,Efectivo
+364,2023-04-23,Norte,Vinos,Malbec 750ml,6500,3800,96,0.05,Valentina,Transferencia
+937,2023-11-05,Norte,Jugos,Jugo manzana 1L,1800,1100,48,0.05,Martin,Tarjeta
+734,2023-09-07,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.05,Tomas,Efectivo
+1760,2024-08-10,Sur,Vinos,Espumante 750ml,10625,6250,48,0.05,Sofia,Transferencia
+1241,2024-02-14,Norte,Cervezas,Negra botella 1L,3500,2125,24,0.05,Diego,Transferencia
+686,2023-09-22,Centro,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Lucia,Efectivo
+1782,2024-09-19,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.15,Diego,Efectivo
+224,2023-02-08,Norte,Jugos,Jugo manzana 1L,1800,1100,24,0.05,Sofia,Tarjeta
+2016,2024-11-05,Norte,Aguas,Agua sin gas 2L,1375,750,96,0.0,Lucia,Efectivo
+814,2023-10-10,Centro,Vinos,Espumante 750ml,8500,5000,6,0.15,Sofia,Efectivo
+230,2023-03-17,Sur,Gaseosas,Lima limon 2.25L,2000,1350,12,0.1,Valentina,Transferencia
+397,2023-04-07,Sur,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Sofia,Transferencia
+1395,2024-03-24,Sur,Vinos,Malbec 750ml,8125,4750,48,0.05,Tomas,Tarjeta
+841,2023-11-27,Centro,Gaseosas,Naranja 1.5L,1700,1100,48,0.0,Martin,Transferencia
+433,2023-05-21,Centro,Vinos,Cabernet 750ml,6900,4000,24,0.05,Tomas,Efectivo
+1598,2024-06-24,Oeste,Aguas,Agua con gas 2L,1500,812,24,0.15,Valentina,Transferencia
+1250,2024-02-01,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.0,Tomas,Tarjeta
+1736,2024-08-09,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,Lucia,Tarjeta
+1948,2024-10-11,Norte,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Martin,Tarjeta
+878,2023-11-15,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Lucia,Efectivo
+2042,2024-11-10,Sur,Vinos,Malbec 750ml,8125,4750,24,0.05,Diego,Efectivo
+1993,2024-11-20,Oeste,Cervezas,Negra botella 1L,3500,2125,6,0.0,Tomas,Efectivo
+1569,2024-05-14,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Lucia,Tarjeta
+1915,2024-10-07,Sur,Vinos,Malbec 750ml,8125,4750,12,0.0,Lucia,Transferencia
+680,2023-09-28,Oeste,Gaseosas,Cola 2.25L,2200,1500,48,0.0,Diego,Tarjeta
+1173,2024-01-14,Norte,Aguas,Agua sin gas 2L,1375,750,24,0.1,Tomas,Efectivo
+1090,2024-01-16,Norte,Gaseosas,Lima limon 2.25L,2500,1688,12,0.1,Lucia,Transferencia
+1195,2024-01-13,Norte,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Lucia,Efectivo
+1699,2024-07-06,Oeste,Jugos,Jugo naranja 1L,2250,1375,24,0.05,Sofia,Transferencia
+560,2023-07-11,Oeste,Aguas,Agua sin gas 2L,1100,600,12,0.1,Sofia,Transferencia
+892,2023-11-26,Centro,Aguas,Agua sin gas 2L,1100,600,24,0.0,Sofia,Transferencia
+714,2023-09-16,Centro,Vinos,Espumante 750ml,8500,5000,24,0.05,Diego,Transferencia
+2021,2024-11-01,Norte,Aguas,Agua sin gas 2L,1375,750,12,0.05,Lucia,Transferencia
+651,2023-08-20,centro ,Vinos,Malbec 750ml,6500,3800,12,0.0,Lucia,Efectivo
+1228,2024-02-04,Centro,Cervezas,Rubia lata 473ml,1875,1125,96,,Tomas,Tarjeta
+207,2023-02-17,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.1,Valentina,Efectivo
+2195,2024-12-19,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.15,Martin,Efectivo
+1319,2024-02-03,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Lucia,Tarjeta
+1229,2024-02-24,Oeste,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Valentina,Transferencia
+1811,2024-09-15,Sur,Aguas,Agua saborizada 1.5L,1750,1000,12,0.1,Martin,Efectivo
+1893,2024-10-12,Oeste,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Diego,Efectivo
+1157,2024-01-26,Sur,Aguas,Agua con gas 2L,1500,812,6,0.0,Valentina,Transferencia
+2180,2024-12-20,Norte,Vinos,Cabernet 750ml,8625,5000,24,0.05,Diego,Transferencia
+661,2023-08-14,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Sofia,Efectivo
+2059,2024-11-19,Oeste,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Tomas,Tarjeta
+1026,2023-12-16,Centro,Aguas,Agua con gas 2L,1200,650,6,0.0,Lucia,Efectivo
+813,2023-10-17,Centro,Vinos,Cabernet 750ml,6900,4000,24,,Sofia,Transferencia
+873,2023-11-04,Norte,Cervezas,Negra botella 1L,2800,1700,12,,Sofia,Efectivo
+38,2023-01-01,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Tomas,Tarjeta
+1095,2024-01-22,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.1,Sofia,Transferencia
+645,2023-08-04,Sur,Vinos,Espumante 750ml,8500,5000,48,0.05,Sofia,Transferencia
+1618,2024-06-17,Sur,Vinos,Espumante 750ml,10625,6250,24,0.0,Sofia,Transferencia
+1923,2024-10-19,Centro,Vinos,Espumante 750ml,10625,6250,6,0.15,Valentina,Efectivo
+2099,2024-12-17,Norte,Cervezas,Rubia lata 473ml,1875,1125,48,,Martin,Transferencia
+1691,2024-07-16,Norte,Vinos,Cabernet 750ml,8625,5000,6,0.05,Valentina,Tarjeta
+1061,2023-12-06,Oeste,Vinos,Cabernet 750ml,6900,4000,12,0.05,Diego,Efectivo
+232,2023-03-21,Norte,Gaseosas,Lima limon 2.25L,2000,1350,48,0.15,Tomas,Transferencia
+1272,2024-02-22,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,24,0.05,Valentina,Tarjeta
+1094,2024-01-24,Centro,Gaseosas,Lima limon 2.25L,2500,1688,12,0.1,Tomas,Transferencia
+373,2023-04-01,Centro,Vinos,Espumante 750ml,8500,5000,24,0.05,Lucia,Efectivo
+138,2023-02-14,CENTRO,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Valentina,Efectivo
+1942,2024-10-25,Oeste,Jugos,Jugo naranja 1L,2250,1375,12,0.1,Tomas,Transferencia
+1505,2024-05-14,Oeste,Gaseosas,Cola 2.25L,2750,1875,24,0.1,Valentina,Tarjeta
+326,2023-04-22,Oeste,Gaseosas,Lima limon 2.25L,2000,1350,6,0.05,Tomas,Tarjeta
+558,2023-07-21,Centro,Aguas,Agua sin gas 2L,1100,600,6,0.05,Valentina,Transferencia
+352,2023-04-06,Norte,Aguas,Agua con gas 2L,1200,650,5000,0.15,Lucia,Transferencia
+1158,2024-01-02,Sur,Aguas,Agua sin gas 2L,1375,750,6,0.05,Tomas,Transferencia
+1559,2024-05-17,Sur,Jugos,Jugo naranja 1L,2250,1375,48,0.05,Martin,Transferencia
+469,2023-06-26,Sur,Gaseosas,Lima limon 2.25L,2000,1350,6,0.05,Diego,Transferencia
+1046,2023-12-26,Norte,Vinos,Espumante 750ml,8500,5000,12,0.0,Valentina,Efectivo
+1682,2024-07-18,Sur,Vinos,Cabernet 750ml,8625,5000,6,0.05,Sofia,Tarjeta
+920,2023-11-09,oeste,Vinos,Espumante 750ml,8500,5000,6,0.05,Martin,Efectivo
+193,2023-02-27,Norte,Aguas,Agua con gas 2L,1200,650,12,0.0,Valentina,Efectivo
+2100,2024-12-02,Sur,Cervezas,IPA lata 473ml,2875,1625,48,0.15,Sofia,Transferencia
+1331,2024-03-28,Centro,Gaseosas,Cola 2.25L,2750,1875,24,0.0,Diego,Efectivo
+2038,2024-11-09,Norte,Vinos,Cabernet 750ml,8625,5000,6,0.1,Sofia,Transferencia
+853,2023-11-04,Centro,Gaseosas,Lima limon 2.25L,2000,1350,48,0.05,Valentina,Transferencia
+1913,2024-10-14,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.05,Tomas,Tarjeta
+928,2023-11-12,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Diego,Efectivo
+1464,2024-04-06,Sur,Aguas,Agua con gas 2L,1500,812,12,0.0,Tomas,Efectivo
+1001,2023-12-08,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Valentina,Efectivo
+1565,2024-05-01,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.05,Sofia,Efectivo
+1356,2024-03-26,Norte,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Diego,Efectivo
+1935,2024-10-28,Sur,Jugos,Jugo naranja 1L,2250,1375,48,0.05,Sofia,Efectivo
+1688,2024-07-13,Oeste,Vinos,Malbec 750ml,8125,4750,12,0.05,Tomas,Tarjeta
+786,2023-10-25,Oeste,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Diego,Transferencia
+1269,2024-02-14,NORTE,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Valentina,Efectivo
+2119,2024-12-28,Norte,Cervezas,Negra botella 1L,3500,2125,12,0.0,Lucia,Efectivo
+1311,2024-02-20,Norte,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Sofia,Transferencia
+2069,2024-12-15,Norte,Gaseosas,Cola 2.25L,2750,1875,6,0.1,Diego,Efectivo
+1294,2024-02-13,Sur,Vinos,Espumante 750ml,10625,6250,24,0.1,Diego,Tarjeta
+927,2023-11-05,Centro,Jugos,Jugo manzana 1L,1800,1100,48,0.05,Sofia,Efectivo
+1220,2024-02-01,Sur,Gaseosas,Lima limon 2.25L,2500,1688,12,0.0,Martin,Tarjeta
+960,2023-12-26,Norte,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,,Transferencia
+1358,2024-03-04,Centro,Cervezas,Negra botella 1L,3500,2125,24,0.0,Valentina,Transferencia
+68,2023-01-03,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.0,Lucia,Transferencia
+791,2023-10-11,Centro,Aguas,Agua con gas 2L,1200,650,12,0.0,Tomas,Transferencia
+514,2023-06-04,Centro,Vinos,Espumante 750ml,8500,5000,48,0.05,Tomas,Transferencia
+2193,2024-12-11,Sur,Vinos,Cabernet 750ml,8625,5000,48,0.0,Martin,Transferencia
+2084,2024-12-18,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Sofia,Transferencia
+1437,2024-04-10,Sur,Cervezas,Negra botella 1L,3500,2125,24,0.05,Valentina,Efectivo
+332,2023-04-18,Centro,Cervezas,IPA lata 473ml,2300,1300,48,0.0,Tomas,Efectivo
+191,2023-02-14,Centro,Aguas,Agua sin gas 2L,1100,600,48,0.0,Diego,Transferencia
+310,2023-03-20,Sur,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Martin,Efectivo
+826,2023-10-15,Sur,Jugos,Jugo manzana 1L,1800,1100,24,0.05,Sofia,Tarjeta
+655,2023-08-27,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.15,Tomas,Transferencia
+1478,2024-04-08,Oeste,Vinos,Espumante 750ml,10625,6250,48,0.0,Martin,Efectivo
+1388,2024-03-07,Centro,Vinos,Espumante 750ml,10625,6250,12,0.15,Lucia,Efectivo
+599,2023-07-17,Norte,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Sofia,Efectivo
+1530,2024-05-25,Sur,Aguas,Agua sin gas 2L,1375,750,12,0.0,Valentina,Tarjeta
+1703,2024-07-05,Oeste,Jugos,Jugo naranja 1L,2250,1375,6,0.15,Martin,Efectivo
+1284,2024-02-09,Centro,Aguas,Agua con gas 2L,1500,812,12,0.05,Sofia,Transferencia
+628,2023-08-15,Oeste,Aguas,Agua sin gas 2L,1100,600,48,0.0,Sofia,Efectivo
+639,2023-08-09,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.0,Valentina,Efectivo
+1144,2024-01-26,Sur,Aguas,Agua sin gas 2L,1375,750,6,0.0,Tomas,Tarjeta
+126,2023-02-13,Centro,Gaseosas,Lima limon 2.25L,2000,1350,48,0.0,Tomas,Tarjeta
+401,2023-05-18,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Martin,Efectivo
+993,2023-12-10,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.05,Tomas,Transferencia
+614,2023-08-08,Sur,Gaseosas,Cola 2.25L,2200,1500,48,0.05,Valentina,Transferencia
+1822,2024-09-23,Norte,Vinos,Malbec 750ml,8125,4750,12,0.0,Martin,Transferencia
+221,2023-02-20,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Tomas,Transferencia
+2040,2024-11-20,Norte,Vinos,Cabernet 750ml,8625,5000,24,0.1,Lucia,Tarjeta
+150,2023-02-07,Norte,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Sofia,Transferencia
+919,2023-11-18,Sur,Vinos,Cabernet 750ml,6900,4000,24,0.0,Diego,Transferencia
+1810,2024-09-05,Centro,Aguas,Agua sin gas 2L,1375,750,12,0.05,Diego,Efectivo
+713,2023-09-26,Centro,Vinos,Malbec 750ml,6500,3800,12,0.05,Tomas,Transferencia
+1654,2024-07-21,Oeste,Cervezas,Rubia lata 473ml,1875,1125,96,0.0,Martin,Tarjeta
+1512,2024-05-06,Sur,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Sofia,Transferencia
+775,2023-10-09,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.05,Diego,Transferencia
+573,2023-07-26,Norte,Vinos,Cabernet 750ml,6900,4000,24,0.0,Martin,Transferencia
+1316,2024-02-26,Oeste,Jugos,Jugo naranja 1L,2250,1375,48,0.15,Diego,Tarjeta
+1360,2024-03-18,Norte,Cervezas,Negra botella 1L,3500,2125,48,0.0,Lucia,Transferencia
+1752,2024-08-18,Sur,Vinos,Espumante 750ml,10625,6250,96,0.0,Diego,Transferencia
+2002,2024-11-10,Centro,Aguas,Agua sin gas 2L,1375,750,12,0.0,Diego,Transferencia
+2144,2024-12-05,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.05,Martin,Efectivo
+265,2023-03-22,Oeste,Aguas,Agua saborizada 1.5L,1400,800,12,0.05,Sofia,Efectivo
+228,2023-03-19,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.0,Lucia,Transferencia
+300,2023-03-26,Norte,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Martin,Transferencia
+1449,2024-04-11,Oeste,Cervezas,Negra botella 1L,3500,2125,12,0.05,Martin,Tarjeta
+2005,2024-11-14,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.05,Lucia,Transferencia
+2076,2024-12-24,Centro,Gaseosas,Cola 2.25L,2750,1875,24,0.0,Valentina,Tarjeta
+399,2023-05-12,Centro,Gaseosas,Cola 2.25L,2200,1500,48,0.15,Martin,Tarjeta
+2006,2024-11-04,Centro,Aguas,Agua sin gas 2L,1375,750,12,0.0,Sofia,Transferencia
+1540,2024-05-07,Norte,Vinos,Cabernet 750ml,8625,5000,6,0.05,Martin,Tarjeta
+203,2023-02-04,Sur,Vinos,Cabernet 750ml,6900,4000,6,0.1,Lucia,Transferencia
+348,2023-04-26,Centro,Aguas,Agua sin gas 2L,1100,600,24,0.0,Lucia,Transferencia
+1168,2024-01-02,Oeste,Aguas,Agua con gas 2L,1500,812,12,0.05,Diego,Efectivo
+983,2023-12-10,Norte,Cervezas,Rubia lata 473ml,1500,900,12,0.1,Tomas,Tarjeta
+1353,2024-03-14,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Diego,Tarjeta
+61,2023-01-27,Norte,Aguas,Agua con gas 2L,1200,650,6,0.1,Sofia,Tarjeta
+1037,2023-12-20,Centro,Vinos,Malbec 750ml,6500,3800,24,0.0,Sofia,Transferencia
+1671,2024-07-21,Norte,Vinos,Cabernet 750ml,8625,5000,48,0.0,Lucia,Transferencia
+2019,2024-11-04,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.15,Sofia,Transferencia
+383,2023-04-09,centro ,Jugos,Jugo manzana 1L,1800,1100,48,0.1,Valentina,Transferencia
+1504,2024-05-03,Oeste,Gaseosas,Naranja 1.5L,2125,1375,48,0.0,Tomas,Efectivo
+1955,2024-11-13,Centro,Gaseosas,Cola 2.25L,2750,1875,48,0.1,Martin,Tarjeta
+268,2023-03-18,Sur,Aguas,Agua saborizada 1.5L,1400,800,24,0.1,Sofia,Transferencia
+792,2023-10-27,Sur,Aguas,Agua saborizada 1.5L,1400,800,12,0.1,Lucia,Tarjeta
+1490,2024-04-02,Oeste,Jugos,Jugo manzana 1L,2250,1375,24,0.1,Diego,Efectivo
+1908,2024-10-18,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Martin,Transferencia
+1214,2024-02-01,Centro,Gaseosas,Naranja 1.5L,2125,1375,12,0.05,Diego,Tarjeta
+99,2023-01-10,Oeste,Jugos,Jugo manzana 1L,1800,1100,24,0.0,,Tarjeta
+183,2023-02-13,Centro,Aguas,Agua con gas 2L,1200,650,48,0.05,Valentina,Efectivo
+261,2023-03-22,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Diego,Transferencia
+1253,2024-02-16,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.05,Valentina,Transferencia
+159,2023-02-09,oeste,Cervezas,Negra botella 1L,2800,1700,12,,Valentina,Efectivo
+2004,2024-11-15,Sur,Aguas,Agua saborizada 1.5L,1750,1000,12,0.1,Sofia,Efectivo
+1027,2023-12-24,CENTRO,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Martin,Transferencia
+706,2023-09-14,Oeste,Aguas,Agua con gas 2L,1200,650,48,0.1,Valentina,Transferencia
+994,2023-12-03,Centro,Cervezas,Rubia lata 473ml,1500,900,24,0.1,Tomas,Tarjeta
+725,2023-09-23,Norte,Vinos,Cabernet 750ml,6900,4000,96,0.0,Tomas,Transferencia
+1085,2023-12-13,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Lucia,Tarjeta
+1324,2024-03-20,Centro,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Lucia,Transferencia
+559,2023-07-17,Centro,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Lucia,Transferencia
+1971,2024-11-18,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.0,Sofia,Tarjeta
+83,2023-01-03,Centro,Aguas,Agua saborizada 1.5L,1400,800,6,0.15,Tomas,Transferencia
+1629,2024-06-15,Norte,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Valentina,Efectivo
+1477,2024-04-06,Centro,Vinos,Espumante 750ml,10625,6250,48,0.1,Diego,Tarjeta
+1987,2024-11-03,Oeste,Cervezas,Negra botella 1L,3500,2125,6,0.05,Tomas,Transferencia
+1018,2023-12-02,Oeste,Aguas,Agua con gas 2L,1200,650,48,0.0,Sofia,Efectivo
+105,2023-01-27,Centro,Jugos,Jugo naranja 1L,1800,1100,12,,Tomas,Efectivo
+1612,2024-06-03,Sur,Vinos,Cabernet 750ml,8625,5000,48,0.1,Tomas,Tarjeta
+1960,2024-11-20,Oeste,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Lucia,Transferencia
+1938,2024-10-24,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Lucia,Efectivo
+2134,2024-12-26,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.05,,Transferencia
+1650,2024-07-01,Oeste,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Tomas,Transferencia
+1497,2024-04-06,Oeste,Jugos,Jugo naranja 1L,2250,1375,6,0.05,Martin,Tarjeta
+1656,2024-07-06,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.15,Diego,Transferencia
+583,2023-07-02,Oeste,Vinos,Espumante 750ml,8500,5000,24,0.15,Sofia,Tarjeta
+996,2023-12-21,Norte,Cervezas,Negra botella 1L,2800,1700,6,0.0,Sofia,Tarjeta
+673,2023-09-25,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.1,Tomas,Tarjeta
+1372,2024-03-21,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.0,Martin,Tarjeta
+1231,2024-02-13,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Lucia,Transferencia
+1438,2024-04-21,Oeste,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Diego,Transferencia
+1571,2024-05-12,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Lucia,Efectivo
+746,2023-09-03,Oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Diego,Transferencia
+331,2023-04-24,Norte,Gaseosas,Cola 2.25L,2200,1500,12,0.05,Tomas,Transferencia
+852,2023-11-04,Norte,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Tomas,Transferencia
+1498,2024-04-07,Norte,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Martin,Tarjeta
+1237,2024-02-21,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.0,,Efectivo
+134,2023-02-27,Oeste,Gaseosas,Cola 2.25L,2200,1500,96,0.0,Tomas,Transferencia
+1771,2024-08-12,Centro,Jugos,Jugo naranja 1L,2250,1375,24,,Diego,Transferencia
+2068,2024-12-13,Centro,Gaseosas,Cola 2.25L,2750,1875,24,0.15,Martin,Transferencia
+1010,2023-12-05,Centro,Aguas,Agua saborizada 1.5L,1400,800,24,0.1,Sofia,Efectivo
+471,2023-06-25,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.15,Diego,Transferencia
+1263,2024-02-23,Oeste,Aguas,Agua sin gas 2L,1375,750,6,0.15,,Transferencia
+889,2023-11-23,Oeste,Aguas,Agua con gas 2L,1200,650,12,0.05,Valentina,Efectivo
+92,2023-01-17,Norte,Vinos,Malbec 750ml,6500,3800,6,,Valentina,Efectivo
+436,2023-05-09,Sur,Vinos,Espumante 750ml,8500,5000,24,0.0,Lucia,Tarjeta
+1672,2024-07-24,Sur,Vinos,Malbec 750ml,8125,4750,12,0.05,Sofia,Efectivo
+2140,2024-12-16,Oeste,Aguas,Agua sin gas 2L,1375,750,96,0.05,,Efectivo
+1927,2024-10-06,Norte,Vinos,Malbec 750ml,8125,4750,6,0.1,Lucia,Transferencia
+1896,2024-10-14,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.1,Diego,Transferencia
+12,2023-01-25,Centro,Gaseosas,Cola 2.25L,2200,1500,48,0.0,Lucia,Tarjeta
+211,2023-02-17,NORTE,Jugos,Jugo naranja 1L,1800,1100,12,0.0,,Tarjeta
+54,2023-01-01,Sur,Aguas,Agua con gas 2L,1200,650,12,0.0,Tomas,Tarjeta
+2182,2024-12-18,Oeste,Vinos,Malbec 750ml,8125,4750,12,0.05,Lucia,Efectivo
+387,2023-04-03,Centro,Jugos,Jugo naranja 1L,1800,1100,96,0.0,Diego,Tarjeta
+1609,2024-06-11,Sur,Vinos,Cabernet 750ml,8625,5000,6,0.0,Diego,Transferencia
+606,2023-08-10,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Diego,Efectivo
+1899,2024-10-02,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.1,Valentina,Transferencia
+2081,2024-12-11,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.1,Diego,Efectivo
+1480,2024-04-23,Norte,Vinos,Cabernet 750ml,8625,5000,24,0.0,Valentina,Transferencia
+578,2023-07-21,Centro,Vinos,Cabernet 750ml,6900,4000,24,0.1,Martin,Transferencia
+1238,2024-02-28,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.05,Martin,Transferencia
+1521,2024-05-19,Norte,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Martin,Tarjeta
+168,2023-02-09,Norte,Aguas,Agua con gas 2L,1200,650,12,0.0,Lucia,Transferencia
+726,2023-09-01,Centro,Vinos,Cabernet 750ml,6900,4000,24,0.15,Tomas,Transferencia
+597,2023-07-26,Sur,Jugos,Jugo manzana 1L,1800,1100,12,0.1,Martin,Tarjeta
+995,2023-12-26,Sur,Cervezas,Rubia lata 473ml,1500,900,12,0.05,Martin,Transferencia
+899,2023-11-04,Norte,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Diego,Transferencia
+1202,2024-01-28,Centro,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Sofia,Transferencia
+702,2023-09-24,Centro,Aguas,Agua sin gas 2L,1100,600,6,0.05,Tomas,Tarjeta
+2162,2024-12-10,Sur,Aguas,Agua con gas 2L,1500,812,6,0.05,Valentina,Transferencia
+1856,2024-09-28,Centro,Jugos,Jugo manzana 1L,2250,1375,96,0.0,Tomas,Transferencia
+1448,2024-04-28,Norte,Cervezas,Negra botella 1L,3500,2125,48,,Tomas,Tarjeta
+1711,2024-08-10,Sur,Gaseosas,Lima limon 2.25L,2500,1688,48,0.0,Valentina,Efectivo
+2171,2024-12-14,Centro,Vinos,Espumante 750ml,10625,6250,12,0.0,Diego,Transferencia
+1336,2024-03-22,Centro,Gaseosas,Lima limon 2.25L,2500,1688,12,0.0,Valentina,Tarjeta
+1407,2024-03-11,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Sofia,Transferencia
+1589,2024-06-25,Oeste,Cervezas,Rubia lata 473ml,1875,1125,48,0.0,Martin,Tarjeta
+1439,2024-04-24,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.1,Diego,Efectivo
+2085,2024-12-08,Centro,Gaseosas,Cola 2.25L,2750,1875,24,0.15,Valentina,Efectivo
+249,2023-03-18,Oeste,Cervezas,Rubia lata 473ml,1500,900,48,0.1,Sofia,Tarjeta
+701,2023-09-25,Centro,Aguas,Agua con gas 2L,1200,650,48,,Diego,Transferencia
+60,2023-01-26,Norte,Aguas,Agua sin gas 2L,1100,600,24,0.05,Martin,Efectivo
+1365,2024-03-12,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,Valentina,Tarjeta
+1389,2024-03-24,Centro,Vinos,Malbec 750ml,8125,4750,24,0.1,Tomas,Tarjeta
+282,2023-03-01,Oeste,Aguas,Agua sin gas 2L,1100,600,24,0.05,Tomas,Efectivo
+1005,2023-12-10,Norte,Aguas,Agua sin gas 2L,1100,600,6,0.15,Tomas,Transferencia
+1812,2024-09-11,Oeste,Aguas,Agua con gas 2L,1500,812,6,0.05,Lucia,Transferencia
+1658,2024-07-02,Oeste,Cervezas,Rubia lata 473ml,1875,1125,6,0.15,Martin,Transferencia
+2067,2024-12-07,Centro,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Lucia,Transferencia
+442,2023-05-21,Norte,Vinos,Malbec 750ml,6500,3800,12,0.05,Tomas,Efectivo
+709,2023-09-19,Centro,Aguas,Agua con gas 2L,1200,650,12,0.1,Sofia,Tarjeta
+1577,2024-06-14,Norte,Gaseosas,Naranja 1.5L,2125,1375,48,0.05,Martin,Transferencia
+1914,2024-10-02,Norte,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Martin,Transferencia
+2121,2024-12-03,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Sofia,Tarjeta
+1136,2024-01-06,Oeste,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Sofia,Efectivo
+303,2023-03-28,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Tomas,Transferencia
+738,2023-09-01,Oeste,Jugos,Jugo manzana 1L,1800,1100,96,0.0,Lucia,Tarjeta
+1546,2024-05-09,Sur,Vinos,Cabernet 750ml,8625,5000,12,0.0,Diego,Transferencia
+1880,2024-10-26,Oeste,Cervezas,Negra botella 1L,3500,2125,48,0.05,Martin,Tarjeta
+260,2023-03-15,Sur,Cervezas,Rubia lata 473ml,1500,900,6,0.15,Diego,Tarjeta
+1403,2024-03-15,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Diego,Transferencia
+1884,2024-10-08,CENTRO,Cervezas,Negra botella 1L,3500,2125,24,0.15,Lucia,Tarjeta
+663,2023-08-22,NORTE,Jugos,Jugo manzana 1L,1800,1100,24,0.15,Valentina,Tarjeta
+1974,2024-11-09,Norte,Cervezas,IPA lata 473ml,2875,1625,12,0.0,Martin,Transferencia
+2028,2024-11-19,Sur,Vinos,Malbec 750ml,8125,4750,12,0.05,Tomas,Efectivo
+2184,2024-12-09,Oeste,Vinos,Malbec 750ml,8125,4750,12,0.15,Tomas,Efectivo
+2120,2024-12-25,Norte,Cervezas,Negra botella 1L,3500,2125,24,,Martin,Tarjeta
+50,2023-01-06,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.05,Valentina,Efectivo
+547,2023-07-25,Centro,Cervezas,Rubia lata 473ml,1500,900,48,0.15,Diego,Transferencia
+773,2023-10-25,Sur,Cervezas,Negra botella 1L,2800,1700,12,0.0,Martin,Efectivo
+535,2023-07-05,Centro,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Sofia,Efectivo
+1404,2024-03-10,Centro,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Lucia,Transferencia
+1632,2024-06-13,Norte,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Martin,Efectivo
+867,2023-11-24,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Diego,Efectivo
+956,2023-12-03,Sur,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Valentina,Tarjeta
+425,2023-05-11,Norte,Aguas,Agua con gas 2L,1200,650,48,0.0,Sofia,Transferencia
+417,2023-05-10,Norte,Cervezas,Rubia lata 473ml,1500,900,12,0.15,Lucia,Tarjeta
+1603,2024-06-02,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.05,Martin,Efectivo
+1,2023-01-07,NORTE,Gaseosas,Cola 2.25L,2200,1500,24,0.05,Martin,Efectivo
+817,2023-10-19,Norte,Vinos,Malbec 750ml,6500,3800,48,0.0,Martin,Efectivo
+1300,2024-02-13,Sur,Vinos,Espumante 750ml,10625,6250,48,0.0,,Transferencia
+386,2023-04-20,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Valentina,Efectivo
+1429,2024-04-12,Norte,Gaseosas,Naranja 1.5L,2125,1375,12,,Valentina,Efectivo
+1580,2024-06-06,Sur,Gaseosas,Cola 2.25L,2750,1875,24,0.0,Lucia,Efectivo
+177,2023-02-13,Sur,Aguas,Agua con gas 2L,1200,650,12,0.0,Diego,Transferencia
+1398,2024-03-18,Norte,Vinos,Espumante 750ml,10625,6250,12,0.0,Valentina,Transferencia
+513,2023-06-16,Norte,Vinos,Cabernet 750ml,6900,4000,12,0.0,Martin,Tarjeta
+537,2023-07-19,NORTE,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Tomas,Tarjeta
+2199,2024-12-14,NORTE,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Valentina,Transferencia
+2018,2024-11-22,oeste,Aguas,Agua con gas 2L,1500,812,12,0.05,Valentina,Efectivo
+362,2023-04-06,Norte,Vinos,Malbec 750ml,6500,3800,6,0.0,Diego,Tarjeta
+1175,2024-01-23,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.15,Lucia,Efectivo
+116,2023-02-06,Norte,Gaseosas,Lima limon 2.25L,2000,1350,48,0.0,Tomas,Efectivo
+1222,2024-02-18,Centro,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Diego,Efectivo
+337,2023-04-28,Oeste,Cervezas,IPA lata 473ml,2300,1300,96,0.0,Diego,Transferencia
+2050,2024-11-01,Sur,Jugos,Jugo manzana 1L,2250,1375,96,0.0,Lucia,Tarjeta
+435,2023-05-25,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.1,Valentina,Tarjeta
+703,2023-09-26,Centro,Aguas,Agua con gas 2L,1200,650,24,0.0,Tomas,Tarjeta
+31,2023-01-11,Centro,Cervezas,Rubia lata 473ml,1500,900,48,0.1,Sofia,Efectivo
+894,2023-11-23,Oeste,Aguas,Agua sin gas 2L,1100,600,12,0.1,Sofia,Transferencia
+1622,2024-06-22,Sur,Vinos,Cabernet 750ml,8625,5000,24,0.0,Martin,Efectivo
+1401,2024-03-04,Norte,Vinos,Malbec 750ml,8125,4750,12,0.05,Tomas,Tarjeta
+408,2023-05-03,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.1,Diego,Efectivo
+1080,2023-12-26,Oeste,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Diego,Tarjeta
+1363,2024-03-09,Norte,Cervezas,Negra botella 1L,3500,2125,12,0.0,Valentina,Efectivo
+1761,2024-08-18,Centro,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Martin,Tarjeta
+2174,2024-12-21,Centro,Vinos,Espumante 750ml,10625,6250,12,0.15,Valentina,Transferencia
+294,2023-03-11,Centro,Vinos,Cabernet 750ml,6900,4000,24,0.15,Sofia,Efectivo
+306,2023-03-28,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Lucia,Transferencia
+1593,2024-06-02,Centro,Cervezas,IPA lata 473ml,2875,1625,48,0.05,,Transferencia
+147,2023-02-16,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.0,Martin,Transferencia
+1234,2024-02-28,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.05,Lucia,Transferencia
+1033,2023-12-22,Sur,Aguas,Agua sin gas 2L,1100,600,48,0.05,Martin,Transferencia
+1267,2024-02-27,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.05,Lucia,Transferencia
+1087,2024-01-23,Norte,Gaseosas,Cola 2.25L,2750,1875,6,0.0,Valentina,Transferencia
+2158,2024-12-15,Centro,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Valentina,Transferencia
+479,2023-06-25,Norte,Cervezas,IPA lata 473ml,2300,1300,48,0.0,Tomas,Transferencia
+1178,2024-01-15,Centro,Vinos,Malbec 750ml,8125,4750,6,0.0,Lucia,Efectivo
+1180,2024-01-17,Oeste,Vinos,Cabernet 750ml,8625,5000,48,0.05,Valentina,Efectivo
+1929,2024-10-14,centro ,Vinos,Malbec 750ml,8125,4750,6,0.0,Tomas,Transferencia
+626,2023-08-09,Oeste,Aguas,Agua con gas 2L,1200,650,6,0.05,Tomas,Transferencia
+643,2023-08-01,Oeste,Vinos,Cabernet 750ml,6900,4000,48,0.0,Tomas,Transferencia
+40,2023-01-01,Centro,Cervezas,Rubia lata 473ml,1500,900,12,,Lucia,Efectivo
+1177,2024-01-01,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.05,Valentina,Transferencia
+457,2023-05-23,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.15,Diego,Tarjeta
+1972,2024-11-27,Oeste,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Martin,Efectivo
+1501,2024-04-03,Norte,Jugos,Jugo manzana 1L,2250,1375,48,0.15,Diego,Transferencia
+81,2023-01-21,Sur,Aguas,Agua con gas 2L,1200,650,48,0.0,Sofia,Tarjeta
+74,2023-01-06,Norte,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Sofia,Tarjeta
+102,2023-01-24,Sur,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Martin,Transferencia
+557,2023-07-19,Sur,Aguas,Agua sin gas 2L,1100,600,24,0.05,Valentina,Transferencia
+1554,2024-05-17,Centro,Vinos,Cabernet 750ml,8625,5000,12,0.0,Sofia,Transferencia
+229,2023-03-28,Norte,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Lucia,Tarjeta
+1768,2024-08-17,Centro,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Martin,Efectivo
+1355,2024-03-12,Oeste,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Sofia,Transferencia
+2023,2024-11-21,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.0,Diego,Efectivo
+850,2023-11-16,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Lucia,Tarjeta
+542,2023-07-11,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Valentina,Transferencia
+1242,2024-02-11,Norte,Cervezas,IPA lata 473ml,2875,1625,6,0.05,Lucia,Efectivo
+508,2023-06-09,Centro,Vinos,Malbec 750ml,6500,3800,-24,0.0,Lucia,Tarjeta
+1848,2024-09-03,Sur,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Tomas,Tarjeta
+2063,2024-11-28,Oeste,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Valentina,Tarjeta
+1887,2024-10-15,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Diego,Efectivo
+2041,2024-11-23,Sur,Vinos,Espumante 750ml,10625,6250,6,0.0,Valentina,Efectivo
+234,2023-03-15,Centro,Gaseosas,Cola 2.25L,2200,1500,24,0.15,Martin,Efectivo
+1759,2024-08-07,Oeste,Vinos,Espumante 750ml,10625,6250,48,0.05,Lucia,Efectivo
+1801,2024-09-20,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.15,Martin,Transferencia
+1370,2024-03-21,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.15,Tomas,Efectivo
+1686,2024-07-13,Sur,Vinos,Cabernet 750ml,8625,5000,6,0.0,Lucia,Transferencia
+882,2023-11-04,Centro,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Valentina,Transferencia
+1895,2024-10-17,Norte,Cervezas,IPA lata 473ml,2875,1625,24,0.05,Valentina,Efectivo
+1809,2024-09-12,Centro,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Valentina,Transferencia
+463,2023-05-20,Oeste,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Martin,Tarjeta
+1871,2024-10-28,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Tomas,Efectivo
+912,2023-11-17,Sur,Vinos,Malbec 750ml,6500,3800,6,0.05,Lucia,Tarjeta
+895,2023-11-12,Sur,Aguas,Agua con gas 2L,1200,650,24,0.0,Lucia,Tarjeta
+1519,2024-05-01,Oeste,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,,Efectivo
+1275,2024-02-15,Sur,Aguas,Agua con gas 2L,1500,812,12,0.15,Lucia,Tarjeta
+284,2023-03-11,Centro,Aguas,Agua saborizada 1.5L,1400,800,12,0.05,Tomas,Tarjeta
+447,2023-05-26,Centro,Vinos,Malbec 750ml,6500,3800,6,0.05,Martin,Transferencia
+925,2023-11-07,Centro,Vinos,Cabernet 750ml,6900,4000,48,0.0,Martin,Efectivo
+1424,2024-04-01,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.15,Diego,Tarjeta
+1733,2024-08-11,Centro,Aguas,Agua saborizada 1.5L,1750,1000,5000,0.05,Diego,Efectivo
+1666,2024-07-06,Norte,Aguas,Agua con gas 2L,1500,812,48,0.15,Lucia,Efectivo
+65,2023-01-18,Sur,Aguas,Agua sin gas 2L,1100,600,6,0.0,Valentina,Efectivo
+59,2023-01-26,Sur,Aguas,Agua con gas 2L,1200,650,48,0.0,Martin,Transferencia
+1787,2024-09-23,Oeste,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Lucia,Efectivo
+256,2023-03-06,Norte,Cervezas,Negra botella 1L,2800,1700,6,0.05,Martin,Transferencia
+1379,2024-03-25,Sur,Aguas,Agua saborizada 1.5L,1750,1000,96,0.05,Sofia,Tarjeta
+988,2023-12-12,Oeste,Cervezas,Negra botella 1L,2800,1700,6,0.15,Lucia,Efectivo
+1669,2024-07-26,Oeste,Vinos,Espumante 750ml,10625,6250,24,0.0,Lucia,Transferencia
+805,2023-10-16,Centro,Vinos,Espumante 750ml,8500,5000,6,,Lucia,Efectivo
+958,2023-12-08,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Sofia,Transferencia
+2015,2024-11-20,Sur,Aguas,Agua con gas 2L,1500,812,12,0.0,Sofia,Efectivo
+1958,2024-11-09,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.1,Lucia,Efectivo
+644,2023-08-24,Centro,Vinos,Malbec 750ml,6500,3800,12,0.0,Diego,Tarjeta
+858,2023-11-02,Oeste,Cervezas,Rubia lata 473ml,1500,900,6,0.1,Sofia,Transferencia
+829,2023-10-03,Norte,Jugos,Jugo manzana 1L,1800,1100,48,0.0,Lucia,Transferencia
+1968,2024-11-21,Centro,Gaseosas,Lima limon 2.25L,2500,1688,12,0.0,Martin,Transferencia
+1717,2024-08-02,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Tomas,Efectivo
+632,2023-08-11,Centro,Aguas,Agua sin gas 2L,1100,600,6,0.0,Diego,Transferencia
+2020,2024-11-02,Sur,Aguas,Agua con gas 2L,1500,812,24,0.0,Valentina,Tarjeta
+35,2023-01-08,Oeste,Cervezas,Negra botella 1L,2800,1700,12,0.0,Lucia,Transferencia
+917,2023-11-17,Norte,Vinos,Malbec 750ml,6500,3800,6,0.0,Tomas,Efectivo
+1564,2024-05-10,Sur,Jugos,Jugo manzana 1L,2250,1375,12,0.05,Valentina,Transferencia
+1382,2024-03-12,oeste,Aguas,Agua con gas 2L,1500,812,96,0.1,Sofia,Efectivo
+676,2023-09-17,Sur,Gaseosas,Lima limon 2.25L,2000,1350,48,0.0,Tomas,Efectivo
+1451,2024-04-13,Norte,Aguas,Agua con gas 2L,1500,812,6,0.0,Diego,Transferencia
+656,2023-08-26,Norte,Jugos,Jugo naranja 1L,1800,1100,24,0.15,Martin,Transferencia
+20,2023-01-25,Sur,Gaseosas,Cola 2.25L,2200,1500,48,0.0,Tomas,Tarjeta
+1132,2024-01-10,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Martin,Tarjeta
+623,2023-08-27,Norte,Cervezas,Rubia lata 473ml,1500,900,12,0.1,Martin,Tarjeta
+370,2023-04-09,Norte,Vinos,Espumante 750ml,8500,5000,24,,Tomas,Tarjeta
+1953,2024-11-08,Norte,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Lucia,Tarjeta
+251,2023-03-28,Sur,Cervezas,Negra botella 1L,2800,1700,6,0.15,Lucia,Tarjeta
+1674,2024-07-20,Sur,Vinos,Malbec 750ml,8125,4750,12,0.05,Sofia,Efectivo
+1547,2024-05-18,Centro,Vinos,Espumante 750ml,10625,6250,12,0.1,Sofia,Efectivo
+164,2023-02-02,Oeste,Cervezas,Negra botella 1L,2800,1700,6,0.05,Martin,Efectivo
+730,2023-09-20,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Lucia,Transferencia
+1091,2024-01-18,Oeste,Gaseosas,Cola 2.25L,2750,1875,6,0.0,Valentina,Tarjeta
+1560,2024-05-23,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Martin,Tarjeta
+1843,2024-09-03,Centro,Jugos,Jugo manzana 1L,2250,1375,48,0.05,Tomas,Transferencia
+209,2023-02-24,Oeste,Jugos,Jugo manzana 1L,1800,1100,48,0.1,Diego,Transferencia
+289,2023-03-14,Norte,Vinos,Malbec 750ml,6500,3800,24,0.0,Sofia,Tarjeta
+1888,2024-10-27,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Martin,Transferencia
+1764,2024-08-12,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Valentina,Tarjeta
+749,2023-10-28,Sur,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Tomas,Tarjeta
+1909,2024-10-11,Centro,Aguas,Agua con gas 2L,1500,812,12,0.1,Valentina,Tarjeta
+409,2023-05-03,Sur,Gaseosas,Naranja 1.5L,1700,1100,48,0.0,Sofia,Transferencia
+1416,2024-03-11,Oeste,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Sofia,Transferencia
+23,2023-01-01,Centro,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Lucia,Transferencia
+205,2023-02-27,Norte,Vinos,Espumante 750ml,8500,5000,12,0.0,Lucia,Transferencia
+189,2023-02-20,Norte,Aguas,Agua con gas 2L,1200,650,6,0.05,Martin,Transferencia
+1383,2024-03-20,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,Valentina,Transferencia
+341,2023-04-07,Norte,Cervezas,IPA lata 473ml,2300,1300,12,0.05,Tomas,Efectivo
+642,2023-08-02,Sur,Vinos,Cabernet 750ml,6900,4000,24,0.1,Diego,Efectivo
+1985,2024-11-28,Sur,Cervezas,Rubia lata 473ml,1875,1125,96,0.0,Martin,Transferencia
+1911,2024-10-07,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Sofia,Tarjeta
+1511,2024-05-13,Norte,Gaseosas,Lima limon 2.25L,2500,1688,12,0.05,Valentina,Tarjeta
+1630,2024-06-23,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Tomas,Tarjeta
+1345,2024-03-25,Norte,Cervezas,IPA lata 473ml,2875,1625,6,0.15,Sofia,Efectivo
+1399,2024-03-07,Norte,Vinos,Cabernet 750ml,8625,5000,12,0.0,Valentina,Transferencia
+532,2023-06-25,Sur,Jugos,Jugo manzana 1L,1800,1100,48,0.05,Sofia,Efectivo
+2127,2024-12-13,Oeste,Cervezas,Rubia lata 473ml,1875,1125,48,0.0,Sofia,Efectivo
+82,2023-01-18,Norte,Aguas,Agua saborizada 1.5L,1400,800,24,0.0,Valentina,Transferencia
+708,2023-09-23,Centro,Aguas,Agua saborizada 1.5L,1400,800,48,0.0,Sofia,Transferencia
+1912,2024-10-21,Centro,Aguas,Agua saborizada 1.5L,1750,1000,24,0.1,Lucia,Transferencia
+52,2023-01-23,Sur,Aguas,Agua sin gas 2L,1100,600,24,0.0,Sofia,Transferencia
+772,2023-10-28,Norte,Cervezas,Negra botella 1L,2800,1700,48,0.05,Sofia,Tarjeta
+641,2023-08-23,Centro,Vinos,Espumante 750ml,8500,5000,24,0.0,Lucia,Transferencia
+720,2023-09-06,Norte,Vinos,Cabernet 750ml,6900,4000,24,0.0,Sofia,Tarjeta
+1264,2024-02-26,Oeste,Aguas,Agua sin gas 2L,1375,750,6,0.1,Lucia,Tarjeta
+391,2023-04-09,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.1,Martin,Transferencia
+1532,2024-05-28,Centro,Aguas,Agua con gas 2L,1500,812,12,0.05,Tomas,Transferencia
+139,2023-02-04,Oeste,Cervezas,Negra botella 1L,2800,1700,12,0.0,Sofia,Transferencia
+1778,2024-09-09,Sur,Gaseosas,Cola 2.25L,2750,1875,12,0.1,Sofia,Transferencia
+1805,2024-09-09,Oeste,Cervezas,Negra botella 1L,3500,2125,6,0.05,Martin,Tarjeta
+562,2023-07-16,Norte,Vinos,Malbec 750ml,6500,3800,12,0.1,Tomas,Transferencia
+95,2023-01-27,Norte,Vinos,Malbec 750ml,6500,3800,12,0.0,Valentina,Transferencia
+2156,2024-12-22,Sur,Aguas,Agua sin gas 2L,1375,750,48,0.0,Tomas,Efectivo
+1751,2024-08-13,Centro,Vinos,Cabernet 750ml,8625,5000,96,0.15,Martin,Transferencia
+1413,2024-03-08,Sur,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Lucia,Tarjeta
+665,2023-08-06,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Martin,Tarjeta
+1545,2024-05-02,Sur,Vinos,Espumante 750ml,10625,6250,6,0.0,Lucia,Transferencia
+1179,2024-01-02,Norte,Vinos,Espumante 750ml,10625,6250,6,0.0,Sofia,Tarjeta
+1194,2024-01-20,Sur,Jugos,Jugo naranja 1L,2250,1375,6,,Diego,Efectivo
+609,2023-08-14,Centro,Gaseosas,Naranja 1.5L,1700,1100,6,0.1,Lucia,Transferencia
+1905,2024-10-20,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Lucia,Transferencia
+1614,2024-06-27,Sur,Vinos,Espumante 750ml,10625,6250,48,0.0,Diego,Tarjeta
+2012,2024-11-02,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.05,Tomas,Transferencia
+1302,2024-02-23,Sur,Vinos,Cabernet 750ml,8625,5000,12,0.0,Diego,Tarjeta
+1624,2024-06-26,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Martin,Transferencia
+1196,2024-01-17,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Tomas,Transferencia
+860,2023-11-19,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.0,Valentina,Transferencia
+1232,2024-02-22,Sur,Cervezas,Negra botella 1L,3500,2125,24,0.0,Lucia,Tarjeta
+1872,2024-10-19,Centro,Gaseosas,Naranja 1.5L,2125,1375,12,,Diego,Efectivo
+1230,2024-02-13,Centro,Cervezas,IPA lata 473ml,2875,1625,24,0.05,Sofia,Transferencia
+1315,2024-02-12,Norte,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Diego,Efectivo
+1726,2024-08-25,Norte,Cervezas,Negra botella 1L,3500,2125,12,0.05,Valentina,Efectivo
+1858,2024-10-02,Centro,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Valentina,Tarjeta
+161,2023-02-02,Norte,Cervezas,Rubia lata 473ml,1500,900,12,0.05,Valentina,Efectivo
+1566,2024-05-21,Norte,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Martin,Transferencia
+1207,2024-02-26,Sur,Gaseosas,Naranja 1.5L,2125,1375,48,0.0,Sofia,Transferencia
+1226,2024-02-23,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.05,Lucia,Transferencia
+2030,2024-11-17,Sur,Vinos,Espumante 750ml,10625,6250,96,0.1,Sofia,Transferencia
+1007,2023-12-21,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.0,,Transferencia
+1130,2024-01-24,Norte,Cervezas,IPA lata 473ml,2875,1625,12,0.1,Martin,Transferencia
+421,2023-05-12,Sur,Aguas,Agua sin gas 2L,1100,600,12,0.0,Diego,Transferencia
+1683,2024-07-22,Norte,Vinos,Espumante 750ml,10625,6250,6,0.05,Valentina,Transferencia
+287,2023-03-07,Centro,Vinos,Cabernet 750ml,6900,4000,12,,Martin,Efectivo
+1146,2024-01-20,Oeste,Aguas,Agua con gas 2L,1500,812,48,0.05,Valentina,Transferencia
+2185,2024-12-17,Centro,Vinos,Espumante 750ml,10625,6250,6,0.0,Valentina,Efectivo
+17,2023-01-14,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Diego,Efectivo
+1592,2024-06-28,Sur,Cervezas,IPA lata 473ml,2875,1625,24,0.1,Tomas,Tarjeta
+1910,2024-10-16,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Martin,Transferencia
+1129,2024-01-12,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.05,Diego,Efectivo
+131,2023-02-01,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.0,Martin,Transferencia
+1006,2023-12-26,Sur,Aguas,Agua saborizada 1.5L,1400,800,24,0.1,Martin,Tarjeta
+488,2023-06-27,Centro,Aguas,Agua con gas 2L,1200,650,24,0.0,Diego,Transferencia
+136,2023-02-01,Oeste,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Diego,Tarjeta
+1145,2024-01-18,Centro,Aguas,Agua con gas 2L,1500,812,12,0.05,Diego,Efectivo
+1060,2023-12-07,Norte,Vinos,Espumante 750ml,8500,5000,48,0.0,Tomas,Efectivo
+2032,2024-11-01,Centro,Vinos,Malbec 750ml,8125,4750,12,0.05,Diego,Transferencia
+212,2023-02-14,Sur,Jugos,Jugo naranja 1L,1800,1100,24,0.1,Tomas,Transferencia
+1447,2024-04-13,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.15,Valentina,Efectivo
+1339,2024-03-18,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Diego,Efectivo
+275,2023-03-07,Norte,Aguas,Agua sin gas 2L,1100,600,6,0.1,Sofia,Transferencia
+89,2023-01-26,Centro,Vinos,Espumante 750ml,8500,5000,48,0.05,Lucia,Transferencia
+2056,2024-11-07,Oeste,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Diego,Transferencia
+1444,2024-04-21,Norte,Cervezas,IPA lata 473ml,2875,1625,12,0.15,Valentina,Transferencia
+299,2023-03-23,Centro,Vinos,Cabernet 750ml,6900,4000,12,0.1,Valentina,Tarjeta
+991,2023-12-12,Oeste,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Lucia,Transferencia
+2092,2024-12-13,Sur,Cervezas,Negra botella 1L,3500,2125,12,0.05,Martin,Transferencia
+1213,2024-02-27,Centro,Gaseosas,Cola 2.25L,2750,1875,48,0.0,Diego,Tarjeta
+603,2023-08-19,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Martin,Transferencia
+1696,2024-07-13,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Martin,Transferencia
+907,2023-11-25,Oeste,Vinos,Malbec 750ml,6500,3800,24,0.05,Martin,Transferencia
+1166,2024-01-11,Oeste,Aguas,Agua sin gas 2L,1375,750,6,0.05,Martin,Transferencia
+1337,2024-03-10,Sur,Gaseosas,Cola 2.25L,2750,1875,6,0.1,Diego,Transferencia
+1266,2024-02-16,Oeste,Aguas,Agua sin gas 2L,1375,750,6,0.05,Diego,Tarjeta
+551,2023-07-05,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.0,Valentina,Efectivo
+104,2023-01-01,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Tomas,Transferencia
+1823,2024-09-22,Sur,Vinos,Malbec 750ml,8125,4750,6,0.15,Lucia,Transferencia
+217,2023-02-18,Sur,Jugos,Jugo manzana 1L,1800,1100,24,0.05,Lucia,Tarjeta
+46,2023-01-10,Norte,Cervezas,IPA lata 473ml,2300,1300,6,0.05,Diego,Transferencia
+1832,2024-09-18,Norte,Vinos,Cabernet 750ml,8625,5000,96,0.0,Diego,Tarjeta
+1518,2024-05-24,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Sofia,Tarjeta
+2103,2024-12-27,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.0,Valentina,Transferencia
+1951,2024-11-26,Oeste,Gaseosas,Lima limon 2.25L,2500,1688,12,0.05,Valentina,Transferencia
+1838,2024-09-24,Oeste,Vinos,Espumante 750ml,10625,6250,48,0.0,Lucia,Transferencia
+529,2023-06-25,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Lucia,Transferencia
+45,2023-01-10,Centro,Cervezas,Negra botella 1L,2800,1700,48,0.0,Tomas,Transferencia
+2207,2024-12-15,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Diego,Transferencia
+482,2023-06-04,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.1,Diego,Transferencia
+2148,2024-12-23,Sur,Aguas,Agua sin gas 2L,1375,750,6,0.0,Sofia,Tarjeta
+449,2023-05-19,Oeste,Vinos,Malbec 750ml,6500,3800,12,0.1,Sofia,Transferencia
+1078,2023-12-25,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.15,Sofia,Transferencia
+572,2023-07-28,Oeste,Vinos,Cabernet 750ml,6900,4000,48,0.1,Sofia,Transferencia
+111,2023-01-17,Norte,Jugos,Jugo naranja 1L,1800,1100,24,0.1,Valentina,Transferencia
+1408,2024-03-04,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.1,Lucia,Transferencia
+2147,2024-12-07,Sur,Aguas,Agua sin gas 2L,1375,750,6,0.05,Diego,Transferencia
+1113,2024-01-27,Centro,Cervezas,Rubia lata 473ml,1875,1125,96,0.0,Tomas,Transferencia
+1578,2024-06-12,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.15,Lucia,Transferencia
+971,2023-12-01,Norte,Gaseosas,Naranja 1.5L,1700,1100,48,0.15,Valentina,Tarjeta
+1308,2024-02-20,Norte,Jugos,Jugo naranja 1L,2250,1375,6,,Diego,Efectivo
+309,2023-03-24,Sur,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Tomas,Tarjeta
+834,2023-10-23,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Martin,Tarjeta
+63,2023-01-14,Centro,Aguas,Agua con gas 2L,1200,650,24,0.0,Martin,Transferencia
+1708,2024-08-12,Norte,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Martin,Tarjeta
+1994,2024-11-10,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Lucia,Tarjeta
+333,2023-04-24,Oeste,Cervezas,Rubia lata 473ml,1500,900,96,0.0,Diego,Transferencia
+1898,2024-10-14,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Valentina,Transferencia
+2,2023-01-11,Sur,Gaseosas,Naranja 1.5L,1700,1100,24,0.05,Tomas,Efectivo
+1210,2024-02-28,Sur,Gaseosas,Cola 2.25L,2750,1875,48,0.05,Lucia,Tarjeta
+1380,2024-03-27,Centro,Aguas,Agua con gas 2L,1500,812,48,0.0,Tomas,Tarjeta
+143,2023-02-07,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.1,Sofia,Transferencia
+630,2023-08-01,Oeste,Aguas,Agua con gas 2L,1200,650,12,0.15,Tomas,Transferencia
+400,2023-05-25,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.1,Lucia,Transferencia
+1639,2024-06-15,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.05,Martin,Transferencia
+1248,2024-02-28,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Martin,Efectivo
+2010,2024-11-05,Oeste,Aguas,Agua sin gas 2L,1375,750,48,0.1,Diego,Transferencia
+1422,2024-04-17,Sur,Gaseosas,Naranja 1.5L,2125,1375,48,0.0,Lucia,Transferencia
+1597,2024-06-05,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Valentina,Efectivo
+1198,2024-01-03,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.15,Sofia,Transferencia
+2000,2024-11-18,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Martin,Efectivo
+199,2023-02-11,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.1,Tomas,Tarjeta
+1489,2024-04-10,Centro,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Tomas,Transferencia
+1305,2024-02-20,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.1,Valentina,Tarjeta
+461,2023-05-04,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Lucia,Tarjeta
+1125,2024-01-28,Oeste,Cervezas,Negra botella 1L,3500,2125,12,0.1,Sofia,Transferencia
+160,2023-02-23,Centro,Cervezas,Rubia lata 473ml,1500,900,48,0.0,Diego,Transferencia
+740,2023-09-21,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.15,Diego,Tarjeta
+2164,2024-12-20,Centro,Vinos,Espumante 750ml,10625,6250,6,0.0,Martin,Efectivo
+1538,2024-05-10,Oeste,Vinos,Malbec 750ml,8125,4750,24,0.0,Diego,Efectivo
+949,2023-12-01,Oeste,Gaseosas,Lima limon 2.25L,2000,1350,24,0.1,Tomas,Tarjeta
+1806,2024-09-05, sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Tomas,Efectivo
+1984,2024-11-06,Norte,Cervezas,Negra botella 1L,3500,2125,12,0.0,Diego,Tarjeta
+1697,2024-07-21,Sur,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Diego,Efectivo
+84,2023-01-28,Centro,Vinos,Malbec 750ml,6500,3800,6,0.0,Martin,Efectivo
+1715,2024-08-07,Oeste,Gaseosas,Cola 2.25L,2750,1875,12,0.05,Lucia,Efectivo
+1803,2024-09-02,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.0,Diego,Efectivo
+1902,2024-10-23,Sur,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Tomas,Tarjeta
+1277,2024-02-07,Oeste,Aguas,Agua con gas 2L,1500,812,12,0.1,Martin,Tarjeta
+2117,2024-12-15,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.15,Sofia,Efectivo
+428,2023-05-11,Norte,Aguas,Agua sin gas 2L,1100,600,12,0.05,Lucia,Transferencia
+290,2023-03-06,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.0,Diego,Efectivo
+1995,2024-11-22,Norte,Cervezas,Negra botella 1L,3500,2125,12,0.0,Lucia,Transferencia
+530,2023-06-19,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Tomas,Tarjeta
+240,2023-03-12,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Sofia,Tarjeta
+1859,2024-10-25,Centro,Gaseosas,Lima limon 2.25L,2500,1688,12,0.05,Lucia,Efectivo
+2027,2024-11-18,Centro,Vinos,Espumante 750ml,10625,6250,48,0.05,Lucia,Tarjeta
+1619,2024-06-20,Sur,Vinos,Cabernet 750ml,8625,5000,96,0.0,Tomas,Transferencia
+770,2023-10-02,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Martin,Tarjeta
+600,2023-07-13,Sur,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Lucia,Tarjeta
+402,2023-05-15,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Martin,Transferencia
+640,2023-08-27,Centro,Vinos,Malbec 750ml,6500,3800,6,0.05,Martin,Tarjeta
+1368,2024-03-10,Sur,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,Sofia,Tarjeta
+155,2023-02-18,Sur,Cervezas,Negra botella 1L,2800,1700,24,0.0,Martin,Transferencia
+1937,2024-10-15,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Martin,Efectivo
+1815,2024-09-22,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Tomas,Tarjeta
+2173,2024-12-12,Sur,Vinos,Espumante 750ml,10625,6250,6,0.05,Valentina,Transferencia
+296,2023-03-04,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,Valentina,Transferencia
+1813,2024-09-26,CENTRO,Aguas,Agua con gas 2L,1500,812,12,0.0,Diego,Transferencia
+985,2023-12-18,Centro,Cervezas,Rubia lata 473ml,1500,900,48,0.15,Sofia,Transferencia
+453,2023-05-21,Oeste,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Valentina,Transferencia
+582,2023-07-14,Norte,Vinos,Espumante 750ml,8500,5000,24,0.0,Valentina,Tarjeta
+2115,2024-12-03,Oeste,Cervezas,Negra botella 1L,3500,2125,24,0.0,Valentina,Tarjeta
+280,2023-03-03,Centro,Aguas,Agua con gas 2L,1200,650,12,0.0,Valentina,Tarjeta
+1082,2023-12-07,Norte,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Sofia,Efectivo
+1705,2024-07-22,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.05,Valentina,Transferencia
+1836,2024-09-26,Centro,Vinos,Cabernet 750ml,8625,5000,12,0.05,Diego,Efectivo
+719,2023-09-23,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.15,Martin,Transferencia
+824,2023-10-17,Oeste,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Lucia,Efectivo
+633,2023-08-06,Centro,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Valentina,Tarjeta
+1790,2024-09-16,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Valentina,Efectivo
+1601,2024-06-08,Norte,Vinos,Espumante 750ml,10625,6250,6,0.15,Diego,Efectivo
+596,2023-07-11,Oeste,Jugos,Jugo naranja 1L,1800,1100,48,0.15,Sofia,Transferencia
+970,2023-12-04,Norte,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Lucia,Transferencia
+576,2023-07-19,Norte,Vinos,Cabernet 750ml,6900,4000,96,0.0,Tomas,Transferencia
+1454,2024-04-25,Sur,Aguas,Agua con gas 2L,1500,812,24,0.05,Sofia,Tarjeta
+699,2023-09-25,Norte,Aguas,Agua con gas 2L,1200,650,6,0.0,Martin,Efectivo
+977,2023-12-04,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Martin,Transferencia
+1724,2024-08-01,Norte,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Lucia,Efectivo
+1160,2024-01-09,Centro,Aguas,Agua con gas 2L,1500,812,48,0.15,Tomas,Efectivo
+751,2023-10-17,Sur,Gaseosas,Cola 2.25L,2200,1500,96,0.1,Tomas,Transferencia
+315,2023-03-10,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Sofia,Transferencia
+1038,2023-12-07,Oeste,Vinos,Malbec 750ml,6500,3800,48,0.15,Valentina,Tarjeta
+1430,2024-04-10,Sur,Gaseosas,Cola 2.25L,2750,1875,6,0.0,Valentina,Efectivo
+951,2023-12-07,Sur,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Sofia,Efectivo
+1864,2024-10-12,Oeste,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Valentina,Transferencia
+954,2023-12-03,Oeste,Gaseosas,Lima limon 2.25L,2000,1350,48,0.05,Martin,Tarjeta
+1021,2023-12-07,Oeste,Aguas,Agua sin gas 2L,1100,600,6,0.05,Valentina,Tarjeta
+1828,2024-09-28,Oeste,Vinos,Malbec 750ml,8125,4750,6,0.0,Lucia,Tarjeta
+427,2023-05-19,Sur,Aguas,Agua con gas 2L,1200,650,12,0.1,Martin,Transferencia
+1731,2024-08-06,Sur,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Diego,Transferencia
+176,2023-02-18,Oeste,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Sofia,Transferencia
+900,2023-11-02,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.0,Valentina,Transferencia
+80,2023-01-24,Centro,Aguas,Agua sin gas 2L,1100,600,96,0.0,Valentina,Efectivo
+594,2023-07-01,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Tomas,Transferencia
+1901,2024-10-11,Sur,Aguas,Agua sin gas 2L,1375,750,48,0.0,,Transferencia
+491,2023-06-13,Sur,Aguas,Agua sin gas 2L,1100,600,12,0.0,Sofia,Transferencia
+522,2023-06-26,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Sofia,Transferencia
+1600,2024-06-06,Sur,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Lucia,Efectivo
+1044,2023-12-19,Centro,Vinos,Espumante 750ml,8500,5000,12,0.1,Martin,Efectivo
+492,2023-06-12,Oeste,Aguas,Agua con gas 2L,1200,650,6,0.0,Martin,Tarjeta
+1730,2024-08-10,Oeste,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Tomas,Transferencia
+423,2023-05-18,Norte,Aguas,Agua con gas 2L,1200,650,24,0.0,Valentina,Efectivo
+1098,2024-01-02,Sur,Gaseosas,Lima limon 2.25L,2500,1688,12,0.15,Tomas,Transferencia
+1282,2024-02-13,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.05,Valentina,Tarjeta
+825,2023-10-21,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Martin,Efectivo
+495,2023-06-04,Sur,Vinos,Cabernet 750ml,6900,4000,12,0.0,Sofia,Tarjeta
+800,2023-10-15, sur,Aguas,Agua con gas 2L,1200,650,12,0.0,Valentina,Efectivo
+2155,2024-12-08,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Valentina,Efectivo
+848,2023-11-20,Centro,Gaseosas,Cola 2.25L,2200,1500,24,0.1,Lucia,Tarjeta
+2204,2024-12-01,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Lucia,Transferencia
+1626,2024-06-06,Sur,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Diego,Transferencia
+888,2023-11-05,Norte,Aguas,Agua saborizada 1.5L,1400,800,48,0.05,Tomas,Efectivo
+1755,2024-08-26,Norte,Vinos,Cabernet 750ml,8625,5000,6,0.0,Tomas,Transferencia
+1476,2024-04-26,Sur,Vinos,Cabernet 750ml,8625,5000,6,0.1,Lucia,Transferencia
+2197,2024-12-22,Norte,Jugos,Jugo naranja 1L,2250,1375,96,0.1,Martin,Efectivo
+1045,2023-12-12,Norte,Vinos,Cabernet 750ml,6900,4000,24,0.05,Tomas,Transferencia
+1270,2024-02-22,Norte,Aguas,Agua con gas 2L,1500,812,12,0.0,Valentina,Tarjeta
+1436,2024-04-12,Oeste,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Tomas,Transferencia
+410,2023-05-26,Norte,Cervezas,IPA lata 473ml,2300,1300,24,0.05,Martin,Efectivo
+13,2023-01-12,Oeste,Gaseosas,Naranja 1.5L,1700,1100,24,0.05,Lucia,Transferencia
+1516,2024-05-27,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.0,Lucia,Transferencia
+405,2023-05-06,Norte,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Tomas,Transferencia
+1785,2024-09-10,Norte,Gaseosas,Cola 2.25L,2750,1875,24,0.0,Sofia,Efectivo
+952,2023-12-12,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Diego,Tarjeta
+2124,2024-12-02,Sur,Cervezas,Negra botella 1L,3500,2125,24,0.0,Diego,Efectivo
+975,2023-12-16,Centro,Cervezas,Negra botella 1L,2800,1700,6,0.0,Martin,Transferencia
+1299,2024-02-17,Sur,Vinos,Cabernet 750ml,8625,5000,12,0.0,Martin,Transferencia
+216,2023-02-24,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Martin,Transferencia
+2123,2024-12-18,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Sofia,Efectivo
+1652,2024-07-20,Sur,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Tomas,Transferencia
+472,2023-06-28,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.15,Tomas,Transferencia
+1291,2024-02-04,Norte,Aguas,Agua sin gas 2L,1375,750,6,,Tomas,Tarjeta
+539,2023-07-11,Centro,Gaseosas,Cola 2.25L,2200,1500,48,0.15,Valentina,Transferencia
+1508,2024-05-26,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Tomas,Tarjeta
+991,2023-12-12,Oeste,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Lucia,Transferencia
+2212,2024-12-05,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.1,Diego,Transferencia
+1009,2023-12-06,Centro,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Lucia,Efectivo
+2107,2024-12-28,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.0,Tomas,Transferencia
+875,2023-11-22,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Martin,Transferencia
+497,2023-06-23,Centro,Vinos,Malbec 750ml,6500,3800,12,0.0,Tomas,Transferencia
+312,2023-03-08,Centro,Jugos,Jugo manzana 1L,1800,1100,96,0.05,Sofia,Efectivo
+132,2023-02-06,Centro,Gaseosas,Cola 2.25L,2200,1500,48,0.0,Valentina,Transferencia
+252,2023-03-13,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Martin,Transferencia
+1048,2023-12-12,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,Lucia,Tarjeta
+137,2023-02-05,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.05,Tomas,Efectivo
+648,2023-08-16,Oeste,Vinos,Cabernet 750ml,6900,4000,6,0.05,Diego,Efectivo
+595,2023-07-15,Oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Lucia,Transferencia
+1841,2024-09-19,Sur,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Sofia,Transferencia
+585,2023-07-15,Norte,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Sofia,Tarjeta
+811,2023-10-18,Oeste,Vinos,Espumante 750ml,8500,5000,6,0.05,,Tarjeta
+1719,2024-08-01,Norte,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Diego,Tarjeta
+279,2023-03-10,Norte,Aguas,Agua con gas 2L,1200,650,48,0.0,Diego,Tarjeta
+360,2023-04-23,Centro,Aguas,Agua sin gas 2L,1100,600,48,0.05,Martin,Transferencia
+1890,2024-10-04,Oeste,Cervezas,IPA lata 473ml,2875,1625,6,0.15,Valentina,Efectivo
+1663,2024-07-12,Sur,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Martin,Tarjeta
+351,2023-04-28,Norte,Aguas,Agua con gas 2L,1200,650,24,0.05,Martin,Efectivo
+1225,2024-02-09,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Diego,Efectivo
+1420,2024-04-27,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.05,Martin,Tarjeta
+1209,2024-02-27,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Tomas,Transferencia
+28,2023-01-06,Norte,Cervezas,Negra botella 1L,2800,1700,6,0.1,Diego,Transferencia
+1922,2024-10-08,Norte,Vinos,Espumante 750ml,10625,6250,48,0.0,Valentina,Transferencia
+660,2023-08-17,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Valentina,Transferencia
+1240,2024-02-03,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.15,Martin,Efectivo
+571,2023-07-03,Centro,Vinos,Malbec 750ml,6500,3800,24,,Diego,Efectivo
+1868,2024-10-18,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.1,Diego,Tarjeta
+1557,2024-05-02,Oeste,Jugos,Jugo naranja 1L,2250,1375,6,0.15,Diego,Transferencia
+1594,2024-06-26,Oeste,Aguas,Agua con gas 2L,1500,812,12,0.0,Valentina,Efectivo
+650,2023-08-26,Centro,Vinos,Cabernet 750ml,6900,4000,96,0.0,Martin,Efectivo
+869,2023-11-23,Norte,Cervezas,Negra botella 1L,2800,1700,12,0.0,Lucia,Tarjeta
+2176,2024-12-24,Sur,Vinos,Cabernet 750ml,8625,5000,24,0.1,Martin,Tarjeta
+891,2023-11-26,Centro,Aguas,Agua sin gas 2L,1100,600,6,0.05,Martin,Transferencia
+1052,2023-12-02,Norte,Vinos,Cabernet 750ml,6900,4000,12,0.0,Valentina,Transferencia
+828,2023-10-03,Norte,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Lucia,Tarjeta
+1808,2024-09-08,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.0,Diego,Transferencia
+1455,2024-04-08,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.0,Tomas,Efectivo
+1544,2024-05-27,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.0,Valentina,Transferencia
+1481,2024-04-22,Sur,Vinos,Malbec 750ml,8125,4750,12,0.0,,Transferencia
+1347,2024-03-17,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.1,Tomas,Transferencia
+1058,2023-12-28,Sur,Vinos,Cabernet 750ml,6900,4000,24,0.0,Diego,Tarjeta
+598,2023-07-26,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Valentina,Transferencia
+1011,2023-12-18, sur,Aguas,Agua sin gas 2L,1100,600,6,0.0,Sofia,Transferencia
+861,2023-11-25,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Diego,Transferencia
+2013,2024-11-01,Centro,Aguas,Agua con gas 2L,1500,812,12,0.0,Tomas,Efectivo
+91,2023-01-05,Sur,Vinos,Cabernet 750ml,6900,4000,12,0.05,Martin,Tarjeta
+1415,2024-03-07,Oeste,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Valentina,Efectivo
+790,2023-10-17,Norte,Aguas,Agua con gas 2L,1200,650,12,0.0,Martin,Efectivo
+263,2023-03-04,Centro,Aguas,Agua con gas 2L,1200,650,6,0.05,Martin,Tarjeta
+712,2023-09-22,Norte,Vinos,Espumante 750ml,8500,5000,48,0.15,Tomas,Transferencia
+2086,2024-12-14,Oeste,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Lucia,Efectivo
+1506,2024-05-19,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Valentina,Transferencia
+149,2023-02-03,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.0,Diego,Tarjeta
+1926,2024-10-21,Norte,Vinos,Malbec 750ml,8125,4750,6,0.0,Lucia,Tarjeta
+2057,2024-11-20,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.05,Lucia,Transferencia
+79,2023-01-07,Oeste,Aguas,Agua sin gas 2L,1100,600,6,0.0,Diego,Efectivo
+1747,2024-08-28,Sur,Vinos,Malbec 750ml,8125,4750,6,0.0,Diego,Transferencia
+1550,2024-05-27,CENTRO,Vinos,Cabernet 750ml,8625,5000,12,0.1,Martin,Tarjeta
+998,2023-12-19,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Sofia,Efectivo
+36,2023-01-18,Norte,Cervezas,Negra botella 1L,2800,1700,24,0.05,Lucia,Efectivo
+235,2023-03-14,Centro,Gaseosas,Lima limon 2.25L,2000,1350,48,,Tomas,Efectivo
+758,2023-10-19,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.15,Valentina,Efectivo
+324,2023-04-01,Norte,Gaseosas,Naranja 1.5L,1700,1100,48,0.0,Martin,Tarjeta
+1596,2024-06-28,Oeste,Aguas,Agua con gas 2L,1500,812,12,0.1,Tomas,Transferencia
+1031,2023-12-23,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.05,Tomas,Tarjeta
+1537,2024-05-16,Sur,Vinos,Malbec 750ml,8125,4750,6,0.0,Sofia,Efectivo
+1391,2024-03-12,Sur,Vinos,Cabernet 750ml,8625,5000,48,0.05,Tomas,Efectivo
+816,2023-10-25,Centro,Vinos,Espumante 750ml,8500,5000,12,0.0,Sofia,Tarjeta
+1049,2023-12-11,Centro,Vinos,Espumante 750ml,8500,5000,48,0.0,Diego,Efectivo
+1661,2024-07-28,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Martin,Tarjeta
+396,2023-04-09,Oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.1,Valentina,Transferencia
+1966,2024-11-01,Oeste,Gaseosas,Cola 2.25L,2750,1875,24,0.15,Valentina,Efectivo
+2080,2024-12-17,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.05,Sofia,Transferencia
+2022,2024-11-05,Oeste,Aguas,Agua con gas 2L,1500,812,6,0.0,Tomas,Transferencia
+2075,2024-12-15,Sur,Gaseosas,Lima limon 2.25L,2500,1688,12,0.05,Sofia,Tarjeta
+504,2023-06-09,Sur,Vinos,Malbec 750ml,6500,3800,6,0.0,Diego,Tarjeta
+1906,2024-10-02,Sur,Aguas,Agua sin gas 2L,1375,750,48,0.1,Martin,Tarjeta
+384,2023-04-09,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Lucia,Efectivo
+311,2023-03-22,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Diego,Tarjeta
+1197,2024-01-23,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.15,Lucia,Efectivo
+905,2023-11-06,Sur,Aguas,Agua sin gas 2L,1100,600,12,,Tomas,Transferencia
+521,2023-06-10,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.15,Lucia,Tarjeta
+1638,2024-06-01,Norte,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Lucia,Transferencia
+760,2023-10-12,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Diego,Tarjeta
+190,2023-02-24,Oeste,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Lucia,Transferencia
+2112,2024-12-21,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.05,Martin,Tarjeta
+664,2023-08-07,NORTE,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Sofia,Efectivo
+1016,2023-12-25,Norte,Aguas,Agua sin gas 2L,1100,600,48,0.0,Diego,Transferencia
+575,2023-07-12,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.0,Martin,Efectivo
+316,2023-03-26,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.15,Diego,Efectivo
+743,2023-09-23,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.1,Diego,Transferencia
+1371,2024-03-05,Centro,Aguas,Agua con gas 2L,1500,812,12,0.0,Sofia,Transferencia
+2110,2024-12-17,Sur,Cervezas,IPA lata 473ml,2875,1625,96,0.05,Diego,Efectivo
+1714,2024-08-13,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Sofia,Efectivo
+787,2023-10-19,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.0,Martin,Transferencia
+1903,2024-10-09,Sur,Aguas,Agua saborizada 1.5L,1750,1000,24,0.1,Martin,Efectivo
+962,2023-12-21,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.15,,Efectivo
+27,2023-01-04,Oeste,Cervezas,IPA lata 473ml,2300,1300,6,0.05,Valentina,Transferencia
+1457,2024-04-25,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Martin,Transferencia
+1221,2024-02-17,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.15,Sofia,Tarjeta
+667,2023-08-23,Centro,Jugos,Jugo manzana 1L,1800,1100,48,0.0,Lucia,Transferencia
+257,2023-03-03,Sur,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Valentina,Tarjeta
+1961,2024-11-06,Norte,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Diego,Transferencia
+1766,2024-08-24,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Lucia,Efectivo
+967,2023-12-20,Sur,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Sofia,Tarjeta
+683,2023-09-15,NORTE,Gaseosas,Naranja 1.5L,1700,1100,6,0.05,Valentina,Tarjeta
+689,2023-09-12,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.05,Diego,Tarjeta
+864,2023-11-24,Norte,Cervezas,IPA lata 473ml,2300,1300,12,0.05,Tomas,Tarjeta
+499,2023-06-07,Centro,Vinos,Espumante 750ml,8500,5000,12,0.0,Sofia,Efectivo
+42,2023-01-17,Sur,Cervezas,Negra botella 1L,2800,1700,96,0.1,Valentina,Transferencia
+992,2023-12-12,Sur,Cervezas,IPA lata 473ml,2300,1300,12,0.1,Martin,Efectivo
+1797,2024-09-05,Centro,Cervezas,Negra botella 1L,3500,2125,24,,Diego,Tarjeta
+100,2023-01-21,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Sofia,Transferencia
+1526,2024-05-22,Centro,Aguas,Agua sin gas 2L,1375,750,12,0.0,Sofia,Transferencia
+923,2023-11-25,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.15,Diego,Efectivo
+1249,2024-02-21,Norte,Cervezas,IPA lata 473ml,2875,1625,96,0.0,Diego,Tarjeta
+1366,2024-03-12,Norte,Aguas,Agua con gas 2L,1500,812,6,0.1,Martin,Efectivo
+721,2023-09-27,Sur,Vinos,Cabernet 750ml,6900,4000,6,0.15,Diego,Efectivo
+437,2023-05-14,Centro,Vinos,Cabernet 750ml,6900,4000,12,0.05,Tomas,Tarjeta
+1101,2024-01-06,Norte,Gaseosas,Naranja 1.5L,2125,1375,24,0.05,Tomas,Tarjeta
+1916,2024-10-12,Sur,Vinos,Cabernet 750ml,8625,5000,24,0.05,Lucia,Efectivo
+2113,2024-12-13,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.0,Valentina,Efectivo
+1830,2024-09-04,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.15,Martin,Tarjeta
+517,2023-06-25,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.0,Martin,Transferencia
+820,2023-10-06,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Diego,Transferencia
+1117,2024-01-18,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.0,Sofia,Transferencia
+157,2023-02-20,Oeste,Cervezas,Negra botella 1L,2800,1700,6,0.1,Sofia,Tarjeta
+1681,2024-07-09,Norte,Vinos,Espumante 750ml,10625,6250,48,0.0,Sofia,Transferencia
+420,2023-05-03,Oeste,Aguas,Agua con gas 2L,1200,650,24,0.0,Valentina,Transferencia
+832,2023-10-24,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.1,Lucia,Efectivo
+1745,2024-08-18,Sur,Vinos,Espumante 750ml,10625,6250,24,0.05,Diego,Transferencia
+778,2023-10-18,Oeste,Cervezas,IPA lata 473ml,2300,1300,48,0.15,Martin,Efectivo
+503,2023-06-21,Centro,Vinos,Malbec 750ml,6500,3800,12,,Sofia,Efectivo
+2188,2024-12-13,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.0,Diego,Tarjeta
+830,2023-10-20,Sur,Jugos,Jugo manzana 1L,1800,1100,24,0.1,Tomas,Tarjeta
+1442,2024-04-21,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.0,Tomas,Transferencia
+1716,2024-08-04,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Sofia,Transferencia
+1735,2024-08-21,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Tomas,Tarjeta
+1783,2024-09-15,Oeste,Gaseosas,Lima limon 2.25L,2500,1688,12,0.05,Lucia,Efectivo
+350,2023-04-10,Sur,Aguas,Agua sin gas 2L,1100,600,12,0.05,Valentina,Efectivo
+1552,2024-05-03,Sur,Vinos,Cabernet 750ml,8625,5000,12,0.0,Valentina,Tarjeta
+1057,2023-12-22,Centro,Vinos,Cabernet 750ml,6900,4000,48,0.0,Martin,Transferencia
+636,2023-08-08,Oeste,Vinos,Espumante 750ml,8500,5000,6,0.15,Lucia,Tarjeta
+2146,2024-12-16,Norte,Aguas,Agua sin gas 2L,1375,750,24,,Sofia,Tarjeta
+319,2023-04-07,Oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.05,Sofia,Efectivo
+1323,2024-02-18,Oeste,Jugos,Jugo manzana 1L,2250,1375,12,0.15,Lucia,Transferencia
+544,2023-07-06,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Valentina,Tarjeta
+356,2023-04-14,Sur,Aguas,Agua saborizada 1.5L,1400,800,12,0.1,Lucia,Efectivo
+1722,2024-08-20,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.05,Diego,Tarjeta
+2141,2024-12-17,Sur,Aguas,Agua sin gas 2L,1375,750,12,0.0,Diego,Transferencia
+494,2023-06-08,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.0,Tomas,Efectivo
+2170,2024-12-15,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.0,Martin,Transferencia
+2101,2024-12-02,Norte,Cervezas,Rubia lata 473ml,1875,1125,48,0.0,Sofia,Tarjeta
+724,2023-09-11,Oeste,Vinos,Malbec 750ml,6500,3800,12,0.0,Lucia,Efectivo
+181,2023-02-17,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.05,Diego,Tarjeta
+1851,2024-09-18,Sur,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Valentina,Tarjeta
+245,2023-03-18,Sur,Cervezas,Rubia lata 473ml,1500,900,12,0.05,Martin,Transferencia
+167,2023-02-20,Norte,Aguas,Agua saborizada 1.5L,1400,800,6,0.0,Valentina,Efectivo
+2033,2024-11-02,Centro,Vinos,Cabernet 750ml,8625,5000,-48,0.1,Lucia,Efectivo
+393,2023-04-13,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Diego,Efectivo
+1244,2024-02-27,Sur,Cervezas,Negra botella 1L,3500,2125,48,0.1,Sofia,Transferencia
+941,2023-11-15,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.1,Lucia,Transferencia
+1059,2023-12-17,Centro,Vinos,Cabernet 750ml,6900,4000,12,0.0,Lucia,Tarjeta
+86,2023-01-21,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.15,Valentina,Tarjeta
+747,2023-10-13,Norte,Gaseosas,Cola 2.25L,2200,1500,12,0.1,Diego,Transferencia
+1181,2024-01-12,Sur,Vinos,Cabernet 750ml,8625,5000,6,0.1,Diego,Transferencia
+1774,2024-08-04,Sur,Jugos,Jugo manzana 1L,2250,1375,12,0.15,Sofia,Efectivo
+2108,2024-12-12,Oeste,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Lucia,Efectivo
+913,2023-11-08,Centro,Vinos,Malbec 750ml,6500,3800,6,0.0,Diego,Transferencia
+2048,2024-11-23,Norte,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Martin,Efectivo
+1553,2024-05-22,Norte,Vinos,Espumante 750ml,10625,6250,24,0.05,Tomas,Tarjeta
+1513,2024-05-24,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.1,Sofia,Efectivo
+1586,2024-06-07,Sur,Cervezas,Negra botella 1L,3500,2125,6,,Martin,Efectivo
+381,2023-04-14,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Tomas,Efectivo
+1292,2024-02-21,Centro,Aguas,Agua sin gas 2L,1375,750,96,0.05,Sofia,Tarjeta
+2150,2024-12-17,Oeste,Aguas,Agua con gas 2L,1500,812,24,0.0,Valentina,Transferencia
+1039,2023-12-14,Sur,Vinos,Cabernet 750ml,6900,4000,12,0.05,Sofia,Tarjeta
+510,2023-06-04,Centro,Vinos,Cabernet 750ml,6900,4000,24,0.0,Tomas,Tarjeta
+1777,2024-09-04,Centro,Gaseosas,Cola 2.25L,2750,1875,24,,Tomas,Transferencia
+22,2023-01-25,Sur,Gaseosas,Cola 2.25L,2200,1500,6,0.05,Lucia,Transferencia
+1495,2024-04-09,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.15,Valentina,Efectivo
+1460,2024-04-04,Sur,Aguas,Agua sin gas 2L,1375,750,12,0.1,Tomas,Tarjeta
+188,2023-02-17,Oeste,Aguas,Agua con gas 2L,1200,650,12,0.0,Lucia,Transferencia
+1015,2023-12-25,Centro,Aguas,Agua sin gas 2L,1100,600,24,0.1,Tomas,Tarjeta
+1423,2024-04-28,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Diego,Efectivo
+394,2023-04-13,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Sofia,Tarjeta
+171,2023-02-10,Norte,Aguas,Agua sin gas 2L,1100,600,6,,Sofia,Tarjeta
+1586,2024-06-07,Sur,Cervezas,Negra botella 1L,3500,2125,6,,Martin,Efectivo
+75,2023-01-05,Centro,Aguas,Agua sin gas 2L,1100,600,96,0.0,Lucia,Tarjeta
+1159,2024-01-27,Norte,Aguas,Agua sin gas 2L,1375,750,12,0.05,Valentina,Tarjeta
+1503,2024-05-11,Norte,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Martin,Transferencia
+10,2023-01-02,Sur,Gaseosas,Lima limon 2.25L,2000,1350,12,0.15,Tomas,Efectivo
+11,2023-01-25,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Valentina,Transferencia
+1348,2024-03-27,Oeste,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Diego,Tarjeta
+1952,2024-11-10,Sur,Gaseosas,Cola 2.25L,2750,1875,96,0.1,Tomas,Transferencia
+827,2023-10-02,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Tomas,Transferencia
+1239,2024-02-24,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Diego,Tarjeta
+1702,2024-07-14,Oeste,Jugos,Jugo manzana 1L,2250,1375,12,0.1,Sofia,Tarjeta
+1387,2024-03-10,Norte,Aguas,Agua sin gas 2L,1375,750,96,0.0,Lucia,Tarjeta
+285,2023-03-11,Sur,Aguas,Agua saborizada 1.5L,1400,800,48,0.0,Lucia,Efectivo
+1392,2024-03-01,Oeste,Vinos,Cabernet 750ml,8625,5000,6,0.0,Lucia,Transferencia
+617,2023-08-13,Oeste,Cervezas,Negra botella 1L,2800,1700,6,0.15,Tomas,Efectivo
+1288,2024-02-15,Centro,Aguas,Agua sin gas 2L,1375,750,24,0.05,Tomas,Transferencia
+2007,2024-11-11,Oeste,Aguas,Agua con gas 2L,1500,812,6,0.1,Martin,Transferencia
+1991,2024-11-26,Sur,Cervezas,Negra botella 1L,3500,2125,24,0.0,Diego,Transferencia
+1150,2024-01-17,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Tomas,Tarjeta
+2160,2024-12-16,Centro,Aguas,Agua con gas 2L,1500,812,6,0.05,Tomas,Efectivo
+1894,2024-10-13,oeste,Cervezas,Negra botella 1L,3500,2125,48,0.05,Martin,Transferencia
+474,2023-06-09,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Martin,Efectivo
+140,2023-02-21,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.1,Valentina,Transferencia
+1190,2024-01-15,Sur,Jugos,Jugo manzana 1L,2250,1375,48,0.05,Lucia,Efectivo
+1251,2024-02-01,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.15,Martin,Transferencia
+1943,2024-10-14,Norte,Jugos,Jugo manzana 1L,2250,1375,96,0.0,Martin,Transferencia
+192,2023-02-03,Sur,Aguas,Agua sin gas 2L,1100,600,6,0.0,Lucia,Transferencia
+1257,2024-02-18,Norte,Cervezas,Negra botella 1L,3500,2125,12,0.0,Lucia,Efectivo
+56,2023-01-23,Centro,Aguas,Agua saborizada 1.5L,1400,800,12,0.1,Lucia,Transferencia
+483,2023-06-22,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Valentina,Transferencia
+1989,2024-11-27,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Diego,Tarjeta
+1720,2024-08-01,Sur,Cervezas,IPA lata 473ml,2875,1625,6,0.05,Sofia,Tarjeta
+321,2023-04-15,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Valentina,Transferencia
+2088,2024-12-18,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Lucia,Efectivo
+755,2023-10-14,Centro,Gaseosas,Cola 2.25L,2200,1500,96,0.05,Tomas,Transferencia
+1042,2023-12-28,Sur,Vinos,Espumante 750ml,8500,5000,6,0.05,Sofia,Efectivo
+2039,2024-11-06,Oeste,Vinos,Espumante 750ml,10625,6250,24,0.15,Tomas,Transferencia
+431,2023-05-08,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,Tomas,Efectivo
+210,2023-02-25,Sur,Jugos,Jugo naranja 1L,1800,1100,12,0.1,Martin,Efectivo
+1712,2024-08-07,Oeste,Gaseosas,Naranja 1.5L,2125,1375,24,0.05,Tomas,Transferencia
+1601,2024-06-08,Norte,Vinos,Espumante 750ml,10625,6250,6,0.15,Diego,Efectivo
+1878,2024-10-25,Oeste,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Sofia,Transferencia
+208,2023-02-02,Oeste,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Lucia,Tarjeta
+238,2023-03-24,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.1,Tomas,Efectivo
+1004,2023-12-06,Sur,Aguas,Agua con gas 2L,1200,650,6,0.05,Lucia,Transferencia
+2065,2024-12-24,Sur,Gaseosas,Lima limon 2.25L,2500,1688,12,0.0,Diego,Transferencia
+346,2023-04-27,Centro,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Sofia,Tarjeta
+963,2023-12-19,Norte,Gaseosas,Cola 2.25L,2200,1500,12,0.05,Valentina,Tarjeta
+1411,2024-03-23,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.05,Lucia,Transferencia
+1729,2024-08-27,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Sofia,Transferencia
+1441,2024-04-02,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Lucia,Tarjeta
+1685,2024-07-10,Centro,Vinos,Espumante 750ml,10625,6250,6,0.05,Martin,Transferencia
+458,2023-05-28,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.05,Tomas,Transferencia
+1200,2024-01-15,Norte,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Diego,Tarjeta
+301,2023-03-21,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Lucia,Transferencia
+1458,2024-04-06,Centro,Aguas,Agua sin gas 2L,1375,750,12,0.0,Martin,Efectivo
+460,2023-05-12,Oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Martin,Efectivo
+943,2023-11-10,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.1,Lucia,Efectivo
+1607,2024-06-10,Oeste,Vinos,Malbec 750ml,8125,4750,96,0.1,Sofia,Transferencia
+1335,2024-03-04,Oeste,Gaseosas,Cola 2.25L,2750,1875,96,0.05,Martin,Efectivo
+1260,2024-02-24,Oeste,Cervezas,Negra botella 1L,3500,2125,12,0.0,Diego,Tarjeta
+1762,2024-08-20,Sur,Jugos,Jugo naranja 1L,2250,1375,96,0.05,,Tarjeta
+475,2023-06-26,Sur,Gaseosas,Cola 2.25L,2200,1500,24,0.15,Tomas,Transferencia
+1329,2024-03-17,Sur,Gaseosas,Cola 2.25L,2750,1875,24,0.0,Tomas,Tarjeta
+2062,2024-11-15,NORTE,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Martin,Efectivo
+1109,2024-01-05,Sur,Cervezas,Negra botella 1L,3500,2125,12,0.0,Lucia,Efectivo
+464,2023-05-22,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Valentina,Efectivo
+6,2023-01-03,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Diego,Tarjeta
+842,2023-11-26,Sur,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Martin,Tarjeta
+327,2023-04-21,Oeste,Gaseosas,Cola 2.25L,2200,1500,24,0.1,Tomas,Tarjeta
+1396,2024-03-22,Oeste,Vinos,Malbec 750ml,8125,4750,6,0.0,Valentina,Tarjeta
+1433,2024-04-28,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Tomas,Transferencia
+1374,2024-03-10,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.05,Tomas,Transferencia
+1900,2024-10-12,Norte,Aguas,Agua sin gas 2L,1375,750,24,0.1,Lucia,Transferencia
+893,2023-11-07,Centro,Aguas,Agua saborizada 1.5L,1400,800,24,0.05,Sofia,Transferencia
+1084,2023-12-09,Sur,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Diego,Efectivo
+14,2023-01-10, sur,Gaseosas,Naranja 1.5L,1700,1100,48,0.1,Diego,Transferencia
+1154,2024-01-20,Norte,Aguas,Agua sin gas 2L,1375,750,24,0.05,Tomas,Efectivo
+695,2023-09-13,NORTE,Cervezas,IPA lata 473ml,2300,1300,24,0.05,Martin,Tarjeta
+388,2023-04-14,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Tomas,Transferencia
+524,2023-06-11,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.15,Sofia,Transferencia
+1575,2024-06-05,NORTE,Gaseosas,Lima limon 2.25L,2500,1688,12,0.05,Sofia,Transferencia
+1710,2024-08-26,Centro,Gaseosas,Lima limon 2.25L,2500,1688,12,0.05,Lucia,Transferencia
+1637,2024-06-03,Oeste,Jugos,Jugo manzana 1L,2250,1375,12,0.05,Lucia,Transferencia
+1286,2024-02-12,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.05,Lucia,Tarjeta
+604,2023-08-18,Sur,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Diego,Tarjeta
+843,2023-11-19,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Sofia,Transferencia
+323,2023-04-05,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.1,Diego,Tarjeta
+1482,2024-04-24,Centro,Vinos,Espumante 750ml,10625,6250,48,0.1,Tomas,Transferencia
+2159,2024-12-07,Centro,Aguas,Agua saborizada 1.5L,1750,1000,24,0.05,Sofia,Efectivo
+1014,2023-12-23,Oeste,Aguas,Agua con gas 2L,1200,650,48,0.0,Sofia,Transferencia
+1748,2024-08-14,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.0,Valentina,Transferencia
+1956,2024-11-27,Centro,Gaseosas,Cola 2.25L,2750,1875,24,0.1,Tomas,Transferencia
+457,2023-05-23,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.15,Diego,Tarjeta
+1427,2024-04-02,Oeste,Gaseosas,Lima limon 2.25L,2500,1688,48,0.0,Diego,Transferencia
+555,2023-07-22,Oeste,Aguas,Agua saborizada 1.5L,1400,800,12,0.15,Lucia,Transferencia
+1281,2024-02-28,Sur,Aguas,Agua con gas 2L,1500,812,96,0.0,Martin,Efectivo
+831,2023-10-28,Norte,Jugos,Jugo naranja 1L,1800,1100,96,0.05,Sofia,Transferencia
+1750,2024-08-08,Norte,Vinos,Espumante 750ml,10625,6250,6,0.05,Martin,Transferencia
+456,2023-05-16,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.1,Lucia,Tarjeta
+308,2023-03-08,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Sofia,Efectivo
+73,2023-01-11,Centro,Aguas,Agua saborizada 1.5L,1400,800,6,0.1,Diego,Tarjeta
+258,2023-03-25,Centro,Cervezas,Rubia lata 473ml,1500,900,12,0.05,Sofia,Tarjeta
+1662,2024-07-26,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.1,Martin,Tarjeta
+3,2023-01-24,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Diego,Transferencia
+1303,2024-02-10,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.1,Sofia,Tarjeta
+1924,2024-10-02,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.0,Sofia,Efectivo
+1501,2024-04-03,Norte,Jugos,Jugo manzana 1L,2250,1375,48,0.15,Diego,Transferencia
+2196,2024-12-08,Sur,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Martin,Efectivo
+2139,2024-12-19,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Sofia,Transferencia
+930,2023-11-19,Centro,Jugos,Jugo naranja 1L,1800,1100,96,0.15,Sofia,Transferencia
+1863,2024-10-16,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Valentina,Tarjeta
+480,2023-06-26,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.15,Martin,Transferencia
+2192,2024-12-27,Oeste,Vinos,Cabernet 750ml,8625,5000,24,0.0,Tomas,Transferencia
+1725,2024-08-21,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Lucia,Transferencia
+910,2023-11-17,Oeste,Vinos,Espumante 750ml,8500,5000,24,0.15,Tomas,Efectivo
+118,2023-02-12,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Lucia,Tarjeta
+1861,2024-10-21,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Martin,Transferencia
+2051,2024-11-18,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.05,Sofia,Tarjeta
+1030,2023-12-18,Oeste,Aguas,Agua sin gas 2L,1100,600,6,0.05,Lucia,Efectivo
+1235,2024-02-17,Centro,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Sofia,Transferencia
+467,2023-06-11,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Sofia,Transferencia
+1907,2024-10-09,Sur,Aguas,Agua sin gas 2L,1375,750,48,0.0,Tomas,Transferencia
+1634,2024-06-24,Centro,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Valentina,Efectivo
+1393,2024-03-04,Centro,Vinos,Malbec 750ml,8125,4750,24,0.0,Martin,Efectivo
+446,2023-05-24,Oeste,Vinos,Cabernet 750ml,6900,4000,6,0.0,Lucia,Efectivo
+1977,2024-11-20,Norte,Cervezas,Rubia lata 473ml,1875,1125,48,0.1,Diego,Efectivo
+1036,2023-12-21,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.0,Tomas,Transferencia
+1199,2024-01-06,Norte,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Valentina,Tarjeta
+2017,2024-11-11,Norte,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Valentina,Transferencia
+777,2023-10-26,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.1,Valentina,Transferencia
+605,2023-08-25,Oeste,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Tomas,Efectivo
+569,2023-07-17,Centro,Vinos,Malbec 750ml,6500,3800,48,0.1,Lucia,Transferencia
+1585,2024-06-14,Centro,Cervezas,Rubia lata 473ml,1875,1125,24,0.05,Martin,Transferencia
+2211,2024-12-02,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Diego,Efectivo
+1079,2023-12-10,Centro,Jugos,Jugo naranja 1L,1800,1100,96,0.0,Diego,Transferencia
+1093,2024-01-25,Oeste,Gaseosas,Naranja 1.5L,2125,1375,96,0.0,Sofia,Transferencia
+1258,2024-02-13,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.05,Lucia,Efectivo
+85,2023-01-28,Sur,Vinos,Malbec 750ml,6500,3800,96,0.05,Lucia,Efectivo
+2135,2024-12-03,Sur,Aguas,Agua con gas 2L,1500,812,6,0.0,Martin,Tarjeta
+2008,2024-11-27,Norte,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Valentina,Efectivo
+1453,2024-04-24,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.15,,Tarjeta
+1212,2024-02-03,Sur,Gaseosas,Lima limon 2.25L,2500,1688,12,0.1,Diego,Transferencia
+756,2023-10-05,Centro,Gaseosas,Cola 2.25L,2200,1500,24,0.0,Martin,Transferencia
+1852,2024-09-25,Oeste,Jugos,Jugo manzana 1L,2250,1375,6,0.1,Sofia,Tarjeta
+152,2023-02-02,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.1,Sofia,Tarjeta
+1904,2024-10-16,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.15,Lucia,Transferencia
+1465,2024-04-01,Oeste,Aguas,Agua sin gas 2L,1375,750,24,0.0,Valentina,Tarjeta
+389,2023-04-19,Norte,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Diego,Efectivo
+1162,2024-01-22,Sur,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Valentina,Efectivo
+732,2023-09-24,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Tomas,Efectivo
+173,2023-02-12,Oeste,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Martin,Transferencia
+1962,2024-11-01,Sur,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Valentina,Transferencia
+531,2023-06-17,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Sofia,Efectivo
+1509,2024-05-09,Sur,Gaseosas,Cola 2.25L,2750,1875,12,0.15,Tomas,Efectivo
+766,2023-10-18,Oeste,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Diego,Transferencia
+736,2023-09-01,Sur,Jugos,Jugo naranja 1L,1800,1100,-96,0.0,Tomas,Transferencia
+1362,2024-03-20,Norte,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Valentina,Transferencia
+1874,2024-10-28, sur,Cervezas,Negra botella 1L,3500,2125,6,0.15,Sofia,Transferencia
+1698,2024-07-12,Sur,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Diego,Efectivo
+1700,2024-07-09,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Martin,Transferencia
+375,2023-04-12,Oeste,Vinos,Malbec 750ml,6500,3800,24,0.05,Martin,Transferencia
+1996,2024-11-05,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.05,Diego,Transferencia
+710,2023-09-05,Norte,Aguas,Agua sin gas 2L,1100,600,48,0.0,Martin,Transferencia
+938,2023-11-03,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.0,,Efectivo
+2138,2024-12-03,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.0,Lucia,Tarjeta
+1185,2024-01-09,Norte,Vinos,Cabernet 750ml,8625,5000,12,0.05,Martin,Tarjeta
+1075,2023-12-28,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.1,Lucia,Transferencia
+1941,2024-10-09,Sur,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Sofia,Tarjeta
+1949,2024-10-27,Norte,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Tomas,Transferencia
+671,2023-09-03,Norte,Gaseosas,Cola 2.25L,2200,1500,24,0.05,Lucia,Transferencia
+33,2023-01-12,Sur,Cervezas,Rubia lata 473ml,1500,900,24,0.0,Sofia,Tarjeta
+239,2023-03-10,Centro,Gaseosas,Cola 2.25L,2200,1500,48,0.0,Diego,Transferencia
+128,2023-02-02,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.05,Tomas,Tarjeta
+355,2023-04-04,Oeste,Aguas,Agua con gas 2L,1200,650,6,0.0,Tomas,Efectivo
+165,2023-02-11,Centro,Aguas,Agua saborizada 1.5L,1400,800,24,0.0,Sofia,Tarjeta
+1678,2024-07-06,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.05,Tomas,Transferencia
+1657,2024-07-28,Centro,Cervezas,Negra botella 1L,3500,2125,48,0.0,Tomas,Tarjeta
+1536,2024-05-13,Centro,Vinos,Espumante 750ml,10625,6250,6,0.0,Diego,Tarjeta
+1973,2024-11-19,Norte,Cervezas,IPA lata 473ml,2875,1625,24,0.05,Valentina,Tarjeta
+493,2023-06-21,Oeste,Aguas,Agua con gas 2L,1200,650,12,0.0,Diego,Efectivo
+473,2023-06-15,Oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Valentina,Transferencia
+974,2023-12-07,Oeste,Cervezas,Negra botella 1L,2800,1700,6,0.05,Diego,Efectivo
+1684,2024-07-05,Sur,Vinos,Cabernet 750ml,8625,5000,48,0.1,Valentina,Transferencia
+1798,2024-09-27,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Martin,Tarjeta
+1587,2024-06-27,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.05,Martin,Transferencia
+90,2023-01-03,Centro,Vinos,Espumante 750ml,8500,5000,6,,Lucia,Transferencia
+1590,2024-06-04,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.0,Sofia,Tarjeta
+98,2023-01-24,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.1,Valentina,Tarjeta
+1067,2023-12-19,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.0,Martin,Efectivo
+1024,2023-12-03,Centro,Aguas,Agua con gas 2L,1200,650,24,0.0,Tomas,Tarjeta
+1818,2024-09-27,Norte,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Diego,Efectivo
+1740,2024-08-24,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.0,Tomas,Tarjeta
+450,2023-05-17,Centro,Vinos,Cabernet 750ml,6900,4000,96,0.0,Martin,Efectivo
+551,2023-07-05,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.0,Valentina,Efectivo
+1992,2024-11-19,Norte,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Lucia,Transferencia
+1520,2024-05-21,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.05,Martin,Transferencia
+219,2023-02-14,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Lucia,Transferencia
+179,2023-02-10,Norte,Aguas,Agua con gas 2L,1200,650,12,0.15,Sofia,Tarjeta
+434,2023-05-19,Oeste,Vinos,Cabernet 750ml,6900,4000,48,0.0,Sofia,Tarjeta
+1341,2024-03-07,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Lucia,Tarjeta
+1321,2024-02-13,Oeste,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Tomas,Efectivo
+568,2023-07-28,Oeste,Vinos,Espumante 750ml,8500,5000,24,0.0,Sofia,Tarjeta
+1954,2024-11-18,Sur,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Martin,Tarjeta
+1410,2024-03-11,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Valentina,Tarjeta
+742,2023-09-17,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.1,Tomas,Transferencia
+1306,2024-02-16,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Lucia,Efectivo
+1576,2024-06-08,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Martin,Transferencia
+484,2023-06-28,Oeste,Cervezas,Negra botella 1L,2800,1700,6,0.1,Martin,Transferencia
+1834,2024-09-02,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.0,Diego,Tarjeta
+1946,2024-10-24,Oeste,Jugos,Jugo naranja 1L,2250,1375,12,0.15,Diego,Transferencia
+2208,2024-12-20,Centro,Jugos,Jugo manzana 1L,2250,1375,96,0.0,Martin,Efectivo
+438,2023-05-13,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.1,Martin,Efectivo
+781,2023-10-24,Oeste,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Valentina,Tarjeta
+549,2023-07-19, sur,Cervezas,Rubia lata 473ml,1500,900,6,0.1,Martin,Tarjeta
+854,2023-11-07,Centro,Gaseosas,Naranja 1.5L,1700,1100,48,0.0,Sofia,Transferencia
+1086,2023-12-12,Centro,Jugos,Jugo naranja 1L,1800,1100,48,0.15,Sofia,Transferencia
+2129,2024-12-11,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Martin,Tarjeta
+783,2023-10-23,Centro,Aguas,Agua sin gas 2L,1100,600,96,0.0,Diego,Efectivo
+1784,2024-09-16,Centro,Gaseosas,Naranja 1.5L,2125,1375,24,0.15,Martin,Transferencia
+1502,2024-05-12,Oeste,Gaseosas,Naranja 1.5L,2125,1375,6,0.15,Sofia,Tarjeta
+1709,2024-08-07,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Valentina,Transferencia
+1008,2023-12-13,Oeste,Aguas,Agua con gas 2L,1200,650,12,0.05,Martin,Tarjeta
+2116,2024-12-15,Oeste,Cervezas,Negra botella 1L,3500,2125,6,0.0,Sofia,Efectivo
+1779,2024-09-06,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.05,Martin,Tarjeta
+674,2023-09-14,Centro,Gaseosas,Lima limon 2.25L,2000,1350,48,0.0,Sofia,Transferencia
+2202,2024-12-01,Norte,Jugos,Jugo naranja 1L,2250,1375,48,0.1,Sofia,Transferencia
+687,2023-09-19,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.1,,Transferencia
+2154,2024-12-08,NORTE,Aguas,Agua con gas 2L,1500,812,24,0.0,Lucia,Efectivo
+459,2023-05-21,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.1,Tomas,Transferencia
+818,2023-10-17,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.1,Tomas,Tarjeta
+1268,2024-02-18,Norte,Aguas,Agua sin gas 2L,1375,750,24,0.0,Lucia,Transferencia
+753,2023-10-13,oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Lucia,Efectivo
+122,2023-02-09, sur,Gaseosas,Naranja 1.5L,1700,1100,24,0.1,Lucia,Tarjeta
+700,2023-09-02,Norte,Aguas,Agua saborizada 1.5L,1400,800,12,0.05,Tomas,Efectivo
+877,2023-11-05,Sur,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Tomas,Tarjeta
+1543,2024-05-10,Oeste,Vinos,Malbec 750ml,8125,4750,12,0.0,Diego,Tarjeta
+1041,2023-12-27,Centro,Vinos,Malbec 750ml,6500,3800,6,0.0,Valentina,Tarjeta
+897,2023-11-23,Norte,Aguas,Agua con gas 2L,1200,650,6,0.15,Valentina,Transferencia
+579,2023-07-15,Oeste,Vinos,Espumante 750ml,8500,5000,24,0.0,Diego,Tarjeta
+1445,2024-04-21,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Martin,Efectivo
+856,2023-11-17, sur,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Martin,Transferencia
+1706,2024-07-02,Oeste,Jugos,Jugo manzana 1L,2250,1375,48,0.05,Diego,Efectivo
+39,2023-01-19,Sur,Cervezas,Negra botella 1L,2800,1700,12,0.0,Lucia,Transferencia
+1318,2024-02-23,Oeste,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Tomas,Transferencia
+32,2023-01-16,Sur,Cervezas,Negra botella 1L,2800,1700,12,0.0,Lucia,Efectivo
+1721,2024-08-25,Norte,Cervezas,IPA lata 473ml,2875,1625,6,,Valentina,Efectivo
+107,2023-01-15,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Tomas,Transferencia
+24,2023-01-17,Sur,Cervezas,Negra botella 1L,2800,1700,6,0.0,Lucia,Efectivo
+711,2023-09-28,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,Sofia,Tarjeta
+70,2023-01-28,Oeste,Aguas,Agua con gas 2L,1200,650,12,0.0,Valentina,Efectivo
+200,2023-02-12,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,,Transferencia
+1919,2024-10-11,Sur,Vinos,Cabernet 750ml,8625,5000,12,0.0,Martin,Tarjeta
+1120,2024-01-02,Centro,Cervezas,Negra botella 1L,3500,2125,48,0.1,Sofia,Tarjeta
+2114,2024-12-21,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.0,Tomas,Transferencia
+1128,2024-01-01,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.1,Valentina,Tarjeta
+1191,2024-01-10,CENTRO,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Tomas,Efectivo
+1833,2024-09-22,Sur,Vinos,Cabernet 750ml,8625,5000,12,0.0,Sofia,Efectivo
+1271,2024-02-17,centro ,Aguas,Agua saborizada 1.5L,1750,1000,24,0.1,Martin,Efectivo
+1174,2024-01-19,Norte,Aguas,Agua con gas 2L,1500,812,12,0.0,Lucia,Transferencia
+1099,2024-01-03,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Lucia,Tarjeta
+2143,2024-12-22,Sur,Aguas,Agua sin gas 2L,1375,750,12,0.05,Martin,Efectivo
+1243,2024-02-23,Norte,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Tomas,Transferencia
+385,2023-04-12,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Valentina,Efectivo
+1149,2024-01-17,Sur,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Tomas,Efectivo
+266,2023-03-22,Norte,Aguas,Agua con gas 2L,1200,650,12,0.1,Martin,Efectivo
+1608,2024-06-02,Centro,Vinos,Cabernet 750ml,8625,5000,12,0.0,Tomas,Efectivo
+1017,2023-12-13,Sur,Aguas,Agua sin gas 2L,1100,600,6,0.15,Diego,Tarjeta
+1459,2024-04-06,Sur,Aguas,Agua con gas 2L,1500,812,48,0.0,Martin,Tarjeta
+1135,2024-01-28,Centro,Cervezas,Rubia lata 473ml,1875,1125,24,0.1,Sofia,Efectivo
+1065,2023-12-25,Sur,Vinos,Espumante 750ml,8500,5000,6,0.0,Martin,Transferencia
+505,2023-06-15,Centro,Vinos,Malbec 750ml,6500,3800,12,0.1,Lucia,Efectivo
+277,2023-03-06,Sur,Aguas,Agua con gas 2L,1200,650,24,0.05,Martin,Transferencia
+810,2023-10-18,Centro,Vinos,Cabernet 750ml,6900,4000,12,0.05,Martin,Tarjeta
+340,2023-04-05,Norte,Cervezas,Rubia lata 473ml,1500,900,48,0.05,Martin,Efectivo
+1857,2024-10-09,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Sofia,Transferencia
+946,2023-12-27,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Tomas,Transferencia
+1883,2024-10-08,Centro,Cervezas,IPA lata 473ml,2875,1625,96,0.15,Martin,Efectivo
+186,2023-02-13,Centro,Aguas,Agua con gas 2L,1200,650,96,0.0,Diego,Tarjeta
+799,2023-10-08,Centro,Aguas,Agua sin gas 2L,1100,600,6,0.05,Lucia,Efectivo
+931,2023-11-05,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Lucia,Tarjeta
+745,2023-09-10,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Valentina,Efectivo
+979,2023-12-19,Norte,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Tomas,Transferencia
+1121,2024-01-13,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Valentina,Transferencia
+62,2023-01-03,Sur,Aguas,Agua sin gas 2L,1100,600,48,0.0,Valentina,Efectivo
+798,2023-10-18,NORTE,Aguas,Agua saborizada 1.5L,1400,800,6,0.15,Lucia,Efectivo
+1795,2024-09-06,Sur,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Sofia,Tarjeta
+547,2023-07-25,Centro,Cervezas,Rubia lata 473ml,1500,900,48,0.15,Diego,Transferencia
+1986,2024-11-09,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Valentina,Transferencia
+142,2023-02-27,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.15,Tomas,Efectivo
+2089,2024-12-06,Oeste,Cervezas,IPA lata 473ml,2875,1625,12,0.15,Tomas,Efectivo
+2087,2024-12-07,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Diego,Efectivo
+1332,2024-03-15,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Lucia,Efectivo
+194,2023-02-18,Sur,Aguas,Agua con gas 2L,1200,650,6,0.1,Valentina,Tarjeta
+647,2023-08-21,Centro,Vinos,Espumante 750ml,8500,5000,6,0.05,Valentina,Efectivo
+1527,2024-05-17,Centro,Aguas,Agua saborizada 1.5L,1750,1000,6,0.05,Valentina,Transferencia
+34,2023-01-16,Sur,Cervezas,IPA lata 473ml,2300,1300,12,0.1,Diego,Efectivo
+1847,2024-09-02,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,,Efectivo
+801,2023-10-25,Centro,Vinos,Cabernet 750ml,6900,4000,12,0.0,Valentina,Transferencia
+58,2023-01-26,Norte,Aguas,Agua con gas 2L,1200,650,12,0.0,Tomas,Transferencia
+939,2023-11-20,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Lucia,Transferencia
+1655,2024-07-13,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Tomas,Efectivo
+359,2023-04-12,Centro,Aguas,Agua con gas 2L,1200,650,12,0.1,Valentina,Transferencia
+1070,2023-12-01,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.1,Sofia,Efectivo
+1959,2024-11-08,Centro,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Lucia,Tarjeta
+1555,2024-05-09,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.0,Martin,Efectivo
+69,2023-01-27,Centro,Aguas,Agua saborizada 1.5L,1400,800,6,0.15,Diego,Transferencia
+1343,2024-03-04,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Martin,Transferencia
+292,2023-03-20,Centro,Vinos,Cabernet 750ml,6900,4000,48,0.0,Sofia,Transferencia
+47,2023-01-25,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Tomas,Tarjeta
+924,2023-11-06,Norte,Vinos,Espumante 750ml,8500,5000,12,0.05,Martin,Tarjeta
+278,2023-03-20,Norte,Aguas,Agua con gas 2L,1200,650,96,0.0,Lucia,Efectivo
+2161,2024-12-19,Sur,Aguas,Agua con gas 2L,1500,812,12,0.0,Lucia,Transferencia
+2213,2024-12-24,Sur,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Sofia,Tarjeta
+225,2023-02-04,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.05,Lucia,Efectivo
+865,2023-11-22,Sur,Cervezas,Negra botella 1L,2800,1700,6,0.05,Martin,Efectivo
+382,2023-04-01,Centro,Jugos,Jugo manzana 1L,1800,1100,48,0.0,Lucia,Efectivo
+1794,2024-09-03,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.0,Sofia,Efectivo
+365,2023-04-28,Sur,Vinos,Cabernet 750ml,6900,4000,24,0.0,Valentina,Transferencia
+1791,2024-09-17,Norte,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Martin,Tarjeta
+1391,2024-03-12,Sur,Vinos,Cabernet 750ml,8625,5000,48,0.05,Tomas,Efectivo
+934,2023-11-22,Centro,Jugos,Jugo naranja 1L,1800,1100,48,0.1,Diego,Tarjeta
+1025,2023-12-21,Centro,Aguas,Agua saborizada 1.5L,1400,800,24,0.1,Martin,Transferencia
+774,2023-10-08,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.05,Valentina,Transferencia
+2102,2024-12-17,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.1,Sofia,Efectivo
+67,2023-01-07,Sur,Aguas,Agua saborizada 1.5L,1400,800,48,0.0,Valentina,Tarjeta
+1204,2024-01-12,Oeste,Jugos,Jugo naranja 1L,2250,1375,6,0.15,Martin,Transferencia
+1056,2023-12-12,Sur,Vinos,Malbec 750ml,6500,3800,24,0.0,Valentina,Tarjeta
+868,2023-11-27,Norte,Cervezas,Negra botella 1L,2800,1700,24,0.0,Martin,Transferencia
+29,2023-01-16,Sur,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Martin,Transferencia
+295,2023-03-21,centro ,Vinos,Malbec 750ml,6500,3800,6,0.0,Diego,Transferencia
+114,2023-01-05,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Diego,Tarjeta
+246,2023-03-06,Centro,Cervezas,IPA lata 473ml,2300,1300,12,0.05,Martin,Tarjeta
+1440,2024-04-12,Sur,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Valentina,Transferencia
+1023,2023-12-01,Centro,Aguas,Agua sin gas 2L,1100,600,48,0.05,Lucia,Efectivo
+1186,2024-01-16,Norte,Vinos,Espumante 750ml,10625,6250,24,0.0,Sofia,Transferencia
+981,2023-12-19,Sur,Cervezas,IPA lata 473ml,2300,1300,12,0.05,Tomas,Transferencia
+412,2023-05-10,Norte,Cervezas,Negra botella 1L,2800,1700,12,0.0,Tomas,Transferencia
+1931,2024-10-26,Norte,Vinos,Espumante 750ml,10625,6250,12,0.1,Tomas,Transferencia
+1788,2024-09-15,Centro,Gaseosas,Cola 2.25L,2750,1875,48,0.0,Valentina,Tarjeta
+117,2023-02-24,Oeste,Gaseosas,Lima limon 2.25L,2000,1350,48,0.05,Martin,Efectivo
+2168,2024-12-26,Centro,Vinos,Espumante 750ml,10625,6250,6,0.0,Sofia,Transferencia
+1988,2024-11-27,Norte,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Sofia,Efectivo
+248,2023-03-22,Oeste,Cervezas,IPA lata 473ml,2300,1300,48,0.15,Martin,Efectivo
+1514,2024-05-05,NORTE,Cervezas,Negra botella 1L,3500,2125,48,0.05,Sofia,Tarjeta
+666,2023-08-13,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.1,Tomas,Efectivo
+752,2023-10-09,Centro,Gaseosas,Cola 2.25L,2200,1500,24,0.05,Lucia,Efectivo
+1839,2024-09-25,Centro,Jugos,Jugo manzana 1L,2250,1375,48,0.05,Lucia,Tarjeta
+1352,2024-03-24,Sur,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Martin,Transferencia
+93,2023-01-01,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.0,Martin,Transferencia
+1406,2024-03-28,Norte,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Martin,Efectivo
+115,2023-02-24,Oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Valentina,Tarjeta
+1377,2024-03-18,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.05,Sofia,Transferencia
+255,2023-03-15,Centro,Cervezas,Rubia lata 473ml,1500,900,12,0.05,Lucia,Transferencia
+430,2023-05-03,Centro,Vinos,Espumante 750ml,8500,5000,48,0.0,Lucia,Efectivo
+589,2023-07-19,Oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.05,,Tarjeta
+1958,2024-11-09,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.1,Lucia,Efectivo
+1981,2024-11-05,Sur,Cervezas,IPA lata 473ml,2875,1625,96,0.0,Tomas,Efectivo
+119,2023-02-12,Oeste,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Tomas,Efectivo
+1414,2024-03-28,Sur,Jugos,Jugo naranja 1L,2250,1375,48,0.1,Lucia,Tarjeta
+133,2023-02-15,Oeste,Gaseosas,Cola 2.25L,2200,1500,24,0.05,Diego,Tarjeta
+2024,2024-11-14,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Lucia,Efectivo
+264,2023-03-07,Centro,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Diego,Transferencia
+1892,2024-10-21,Centro,Cervezas,IPA lata 473ml,2875,1625,48,0.15,Sofia,Efectivo
+1314,2024-02-15,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Lucia,Transferencia
+247,2023-03-08,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.0,Tomas,Tarjeta
+1615,2024-06-11,Oeste,Vinos,Cabernet 750ml,8625,5000,12,0.05,Sofia,Transferencia
+776,2023-10-24,Oeste,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Lucia,Transferencia
+553,2023-07-17,CENTRO,Cervezas,Negra botella 1L,2800,1700,-48,0.0,Martin,Transferencia
+1114,2024-01-02,Oeste,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Tomas,Transferencia
+1217,2024-02-02,Sur,Gaseosas,Naranja 1.5L,2125,1375,24,0.0,Valentina,Tarjeta
+1676,2024-07-04,Centro,Vinos,Malbec 750ml,8125,4750,96,0.05,Valentina,Tarjeta
+581,2023-07-03,Norte,Vinos,Espumante 750ml,8500,5000,6,0.05,Tomas,Transferencia
+1885,2024-10-13,Oeste,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Martin,Tarjeta
+1461,2024-04-13,Norte,Aguas,Agua con gas 2L,1500,812,48,0.0,Tomas,Transferencia
+1677,2024-07-14,Norte,Vinos,Espumante 750ml,10625,6250,12,0.05,Tomas,Transferencia
+652,2023-08-10,Sur,Vinos,Cabernet 750ml,6900,4000,24,0.0,Sofia,Transferencia
+1643,2024-07-20,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.1,Valentina,Transferencia
+1171,2024-01-11,Norte,Aguas,Agua sin gas 2L,1375,750,96,0.05,,Efectivo
+1143,2024-01-05,Sur,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Valentina,Tarjeta
+1744,2024-08-13,Oeste,Vinos,Cabernet 750ml,8625,5000,12,0.05,Lucia,Efectivo
+197,2023-02-27,NORTE,Vinos,Malbec 750ml,6500,3800,6,0.15,Diego,Transferencia
+534,2023-07-07,CENTRO,Gaseosas,Cola 2.25L,2200,1500,6,0.15,Lucia,Efectivo
+863,2023-11-16,Oeste,Cervezas,Negra botella 1L,2800,1700,48,0.0,Tomas,Tarjeta
+1689,2024-07-26,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.0,Martin,Tarjeta
+1999,2024-11-18,Oeste,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Valentina,Transferencia
+1369,2024-03-27,Sur,Aguas,Agua con gas 2L,1500,812,6,0.05,Lucia,Transferencia
+898,2023-11-17,Oeste,Aguas,Agua con gas 2L,1200,650,24,0.05,Tomas,Efectivo
+1704,2024-07-04,Centro,Jugos,Jugo manzana 1L,2250,1375,48,0.15,Martin,Transferencia
+1051,2023-12-05,Centro,Vinos,Malbec 750ml,6500,3800,6,0.05,Lucia,Tarjeta
+677,2023-09-16,Centro,Gaseosas,Cola 2.25L,2200,1500,48,0.05,Tomas,Tarjeta
+15,2023-01-16,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,,Tomas,Tarjeta
+501,2023-06-18,Centro,Vinos,Cabernet 750ml,6900,4000,24,0.1,Tomas,Efectivo
+2011,2024-11-24,Centro,Aguas,Agua saborizada 1.5L,1750,1000,24,0.15,Martin,Transferencia
+1107,2024-01-13,Oeste,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Sofia,Transferencia
+2064,2024-12-06,Centro,Gaseosas,Cola 2.25L,2750,1875,96,0.1,Sofia,Tarjeta
+241,2023-03-05,Oeste,Gaseosas,Cola 2.25L,2200,1500,24,0.0,Tomas,Efectivo
+1765,2024-08-22,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Diego,Efectivo
+601,2023-08-20,Sur,Gaseosas,Cola 2.25L,2200,1500,24,0.15,Valentina,Efectivo
+876,2023-11-12,Centro,Cervezas,Negra botella 1L,2800,1700,96,0.0,Tomas,Transferencia
+274,2023-03-08,Sur,Aguas,Agua sin gas 2L,1100,600,6,0.0,Sofia,Transferencia
+685,2023-09-18,Oeste,Cervezas,Rubia lata 473ml,1500,900,12,,Martin,Efectivo
+1844,2024-09-26,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Diego,Transferencia
+1491,2024-04-11,Sur,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Lucia,Efectivo
+1640,2024-07-07,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Sofia,Efectivo
+1134,2024-01-07,Centro,Cervezas,IPA lata 473ml,2875,1625,48,0.15,Valentina,Efectivo
+1472,2024-04-19,Sur,Vinos,Espumante 750ml,10625,6250,48,0.05,Tomas,Transferencia
+372,2023-04-02,Oeste,Vinos,Espumante 750ml,8500,5000,6,0.0,Lucia,Transferencia
+2125,2024-12-04,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.05,Sofia,Transferencia
+272,2023-03-18,Norte,Aguas,Agua saborizada 1.5L,1400,800,12,0.05,Sofia,Tarjeta
+606,2023-08-10,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Diego,Efectivo
+1474,2024-04-13,Centro,Vinos,Cabernet 750ml,8625,5000,24,0.0,Tomas,Transferencia
+1254,2024-02-16,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Valentina,Tarjeta
+1548,2024-05-03,Oeste,Vinos,Espumante 750ml,10625,6250,24,0.1,Martin,Efectivo
+215,2023-02-09,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Valentina,Efectivo
+1849,2024-09-22,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.1,Lucia,Efectivo
+345,2023-04-24,Centro,Cervezas,IPA lata 473ml,2300,1300,48,0.0,Diego,Transferencia
+839,2023-11-20,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.1,Valentina,Transferencia
+1616,2024-06-24,Norte,Vinos,Cabernet 750ml,8625,5000,24,0.05,Diego,Efectivo
+148,2023-02-17,Norte,Cervezas,Negra botella 1L,2800,1700,24,0.0,Valentina,Efectivo
+1022,2023-12-06,Centro,Aguas,Agua con gas 2L,1200,650,24,0.0,Lucia,Efectivo
+1866,2024-10-21,Sur,Gaseosas,Cola 2.25L,2750,1875,6,,Lucia,Tarjeta
+413,2023-05-17,Oeste,Cervezas,Negra botella 1L,2800,1700,12,0.1,Diego,Transferencia
+1224,2024-02-15,Oeste,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Diego,Transferencia
+784,2023-10-06,Centro,Aguas,Agua saborizada 1.5L,1400,800,12,0.05,Valentina,Efectivo
+343,2023-04-10,NORTE,Cervezas,Negra botella 1L,2800,1700,6,0.0,Tomas,Efectivo
+948,2023-12-22,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Valentina,Tarjeta
+748,2023-10-19,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.05,Sofia,Tarjeta
+174,2023-02-17,Norte,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Valentina,Tarjeta
+378,2023-04-17,Norte,Vinos,Malbec 750ml,6500,3800,6,0.15,Tomas,Tarjeta
+1492,2024-04-14,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Sofia,Efectivo
+739,2023-09-12,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Martin,Transferencia
+1330,2024-03-03,Sur,Gaseosas,Cola 2.25L,2750,1875,6,0.0,Diego,Transferencia
+1568,2024-05-14,Centro,Jugos,Jugo naranja 1L,2250,1375,96,0.0,Valentina,Transferencia
+1769,2024-08-21,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Diego,Transferencia
+53,2023-01-23,Centro,Aguas,Agua con gas 2L,1200,650,96,0.1,Lucia,Transferencia
+19,2023-01-04,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Martin,Transferencia
+1310,2024-02-15,Oeste,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Valentina,Efectivo
+222,2023-02-15,Centro,Jugos,Jugo manzana 1L,1800,1100,24,0.15,Valentina,Tarjeta
+1734,2024-08-04,Oeste,Aguas,Agua con gas 2L,1500,812,12,0.0,Valentina,Tarjeta
+1873,2024-10-13,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Diego,Tarjeta
+2206,2024-12-24,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.05,Diego,Tarjeta
+1390,2024-03-27,Centro,Vinos,Malbec 750ml,8125,4750,12,0.0,Tomas,Efectivo
+1141,2024-01-03,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.05,Diego,Transferencia
+1963,2024-11-08,Centro,Gaseosas,Cola 2.25L,2750,1875,12,0.05,Lucia,Transferencia
+1386,2024-03-03,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Lucia,Transferencia
+96,2023-01-02,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Tomas,Transferencia
+1500,2024-04-11,Centro,Jugos,Jugo manzana 1L,2250,1375,6,,Diego,Efectivo
+262,2023-03-15,Norte,Cervezas,IPA lata 473ml,2300,1300,6,0.05,Martin,Efectivo
+1979,2024-11-24,Sur,Cervezas,IPA lata 473ml,2875,1625,12,0.1,Tomas,Tarjeta
+1982,2024-11-04,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Valentina,Efectivo
+1793,2024-09-01,Oeste,Cervezas,IPA lata 473ml,2875,1625,6,0.0,Sofia,Transferencia
+180,2023-02-13,Sur,Aguas,Agua con gas 2L,1200,650,24,0.15,Diego,Efectivo
+1127,2024-01-24,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.0,Martin,Tarjeta
+1599,2024-06-28,Sur,Aguas,Agua sin gas 2L,1375,750,12,0.0,Valentina,Tarjeta
+717,2023-09-11,Centro,Vinos,Espumante 750ml,8500,5000,12,0.05,Sofia,Transferencia
+2194,2024-12-07,Oeste,Vinos,Espumante 750ml,10625,6250,24,0.05,Valentina,Transferencia
+1588,2024-06-10,Oeste,Cervezas,Rubia lata 473ml,1875,1125,12,0.1,Martin,Transferencia
+185,2023-02-26,Oeste,Aguas,Agua sin gas 2L,1100,600,6,0.0,Tomas,Transferencia
+468,2023-06-03,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Diego,Transferencia
+2044,2024-11-21,Norte,Vinos,Malbec 750ml,8125,4750,96,0.1,Diego,Transferencia
+904,2023-11-14,Norte,Aguas,Agua sin gas 2L,1100,600,24,0.15,Diego,Transferencia
+2003,2024-11-12,Centro,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,Valentina,Efectivo
+72,2023-01-21,Sur,Aguas,Agua con gas 2L,1200,650,96,0.0,Sofia,Tarjeta
+1170,2024-01-11,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,,Tarjeta
+1817,2024-09-26,Centro,Aguas,Agua saborizada 1.5L,1750,1000,48,0.15,Martin,Tarjeta
+1792,2024-09-06,Norte,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Martin,Efectivo
+347,2023-04-15,Centro,Aguas,Agua saborizada 1.5L,1400,800,48,0.1,Tomas,Tarjeta
+1732,2024-08-03,Oeste,Cervezas,Negra botella 1L,3500,2125,12,0.0,Valentina,Tarjeta
+1208,2024-02-26,Norte,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Tomas,Tarjeta
+30,2023-01-19,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.0,Martin,Tarjeta
+2152,2024-12-27,Sur,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Diego,Efectivo
+797,2023-10-17,Norte,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Tomas,Transferencia
+1064,2023-12-09,Norte,Vinos,Espumante 750ml,8500,5000,6,0.1,Diego,Efectivo
+1529,2024-05-02,Norte,Aguas,Agua con gas 2L,1500,812,48,0.05,Lucia,Tarjeta
+158,2023-02-17,Centro,Cervezas,Negra botella 1L,2800,1700,6,0.05,Valentina,Transferencia
+933,2023-11-09,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Sofia,Tarjeta
+659,2023-08-03,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.15,Diego,Tarjeta
+1660,2024-07-21,Oeste,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Lucia,Tarjeta
+2118,2024-12-03,Oeste,Cervezas,IPA lata 473ml,2875,1625,12,0.05,Diego,Efectivo
+395,2023-04-01,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Martin,Efectivo
+1077,2023-12-26,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Valentina,Transferencia
+989,2023-12-01,centro ,Cervezas,Negra botella 1L,2800,1700,6,0.1,Martin,Transferencia
+2039,2024-11-06,Oeste,Vinos,Espumante 750ml,10625,6250,24,0.15,Tomas,Transferencia
+1384,2024-03-28,Centro,Aguas,Agua con gas 2L,1500,812,12,0.0,Valentina,Efectivo
+1754,2024-08-02,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.15,Tomas,Efectivo
+403,2023-05-09,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Martin,Efectivo
+990,2023-12-09,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.05,Sofia,Efectivo
+1446,2024-04-18,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Valentina,Transferencia
+1473,2024-04-16,Centro,Vinos,Malbec 750ml,8125,4750,6,0.05,Valentina,Transferencia
+678,2023-09-11,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Diego,Tarjeta
+1309,2024-02-24,oeste,Jugos,Jugo manzana 1L,2250,1375,12,0.1,Tomas,Tarjeta
+1617,2024-06-02,Centro,Vinos,Espumante 750ml,10625,6250,48,0.05,Tomas,Efectivo
+1252,2024-02-20,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.0,Lucia,Transferencia
+1378,2024-03-13,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.05,Diego,Transferencia
+823,2023-10-04,Norte,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Martin,Efectivo
+964,2023-12-10,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.05,Valentina,Transferencia
+836,2023-10-17,Sur,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Tomas,Tarjeta
+1034,2023-12-04,Centro,Aguas,Agua con gas 2L,1200,650,48,0.0,Martin,Efectivo
+2045,2024-11-15,Centro,Vinos,Malbec 750ml,8125,4750,6,0.0,Tomas,Transferencia
+940,2023-11-06,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Tomas,Transferencia
+1055,2023-12-06,Sur,Vinos,Cabernet 750ml,6900,4000,6,0.05,Lucia,Tarjeta
+1102,2024-01-08,Norte,Gaseosas,Naranja 1.5L,2125,1375,12,0.15,Martin,Transferencia
+692,2023-09-11,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Martin,Efectivo
+1990,2024-11-19,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.05,Sofia,Transferencia
+1781,2024-09-12,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.05,Diego,Transferencia
+335,2023-04-17,Oeste,Cervezas,IPA lata 473ml,2300,1300,24,0.05,Tomas,Transferencia
+874,2023-11-01,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.15,Valentina,Efectivo
+806,2023-10-11,Oeste,Vinos,Cabernet 750ml,6900,4000,24,0.0,Tomas,Tarjeta
+2177,2024-12-27,Oeste,Vinos,Malbec 750ml,8125,4750,24,0.1,Sofia,Efectivo
+8,2023-01-07,Oeste,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Martin,Transferencia
+518,2023-06-19,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Diego,Tarjeta
+198,2023-02-06,Sur,Vinos,Espumante 750ml,8500,5000,96,0.0,Martin,Efectivo
+297,2023-03-28,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.1,Tomas,Transferencia
+1417,2024-03-05,Centro,Jugos,Jugo manzana 1L,2250,1375,-12,0.0,Lucia,Tarjeta
+1819,2024-09-26,Sur,Aguas,Agua con gas 2L,1500,812,12,0.0,Lucia,Transferencia
+220,2023-02-18,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.1,Tomas,Efectivo
+1255,2024-02-20,Oeste,Cervezas,Negra botella 1L,3500,2125,48,0.1,Diego,Tarjeta
+1531,2024-05-07,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Valentina,Transferencia
+1535,2024-05-21,Norte,Vinos,Malbec 750ml,8125,4750,6,0.05,Valentina,Tarjeta
+1746,2024-08-06,Centro,Vinos,Malbec 750ml,8125,4750,48,0.0,Sofia,Transferencia
+123,2023-02-28,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.15,Diego,Transferencia
+1713,2024-08-27,Centro,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Tomas,Efectivo
+379,2023-04-19,Sur,Vinos,Cabernet 750ml,6900,4000,24,0.1,Diego,Tarjeta
+1063,2023-12-03,Sur,Vinos,Espumante 750ml,8500,5000,48,0.0,,Tarjeta
+723,2023-09-16,Sur,Vinos,Malbec 750ml,6500,3800,48,0.0,Diego,Transferencia
+1826,2024-09-02,oeste,Vinos,Malbec 750ml,8125,4750,6,0.05,Lucia,Efectivo
+163,2023-02-21,Norte,Cervezas,IPA lata 473ml,2300,1300,48,0.0,Tomas,Transferencia
+1187,2024-01-02,Sur,Vinos,Espumante 750ml,10625,6250,6,0.0,Tomas,Efectivo
+1092,2024-01-26,Centro,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Martin,Tarjeta
+125,2023-02-03, sur,Gaseosas,Cola 2.25L,2200,1500,6,0.05,Tomas,Transferencia
+552,2023-07-08,Oeste,Cervezas,Rubia lata 473ml,1500,900,24,0.05,Tomas,Transferencia
+5,2023-01-15,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.0,Diego,Transferencia
+1570,2024-05-01,Centro,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Tomas,Tarjeta
+916,2023-11-28,Norte,Vinos,Malbec 750ml,6500,3800,24,0.0,Diego,Efectivo
+2046,2024-11-14,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.1,Diego,Transferencia
+959,2023-12-21,Norte,Gaseosas,Lima limon 2.25L,2000,1350,24,0.05,Lucia,Efectivo
+793,2023-10-08,Centro,Aguas,Agua con gas 2L,1200,650,48,0.0,Sofia,Tarjeta
+2058,2024-11-10,Norte,Jugos,Jugo manzana 1L,2250,1375,12,0.15,Tomas,Efectivo
+612,2023-08-09,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Diego,Transferencia
+1772,2024-08-03,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Diego,Efectivo
+288,2023-03-14,Norte,Vinos,Cabernet 750ml,6900,4000,48,,Tomas,Transferencia
+1773,2024-08-14,Norte,Jugos,Jugo naranja 1L,2250,1375,24,0.1,Tomas,Efectivo
+1452,2024-04-06,Oeste,Aguas,Agua con gas 2L,1500,812,6,0.0,Martin,Efectivo
+957,2023-12-27,centro ,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Lucia,Tarjeta
+1633,2024-06-09,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Diego,Transferencia
+706,2023-09-14,Oeste,Aguas,Agua con gas 2L,1200,650,48,0.1,Valentina,Transferencia
+1670,2024-07-15,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.05,Valentina,Transferencia
+1842,2024-09-23,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.05,Sofia,Efectivo
+1867,2024-10-27,Norte,Gaseosas,Naranja 1.5L,2125,1375,96,0.0,Valentina,Efectivo
+909,2023-11-13,Centro,Vinos,Cabernet 750ml,6900,4000,96,0.15,Sofia,Efectivo
+507,2023-06-15,Centro,Vinos,Espumante 750ml,8500,5000,48,0.0,Martin,Tarjeta
+357,2023-04-25,Centro,Aguas,Agua con gas 2L,1200,650,6,0.0,Sofia,Efectivo
+1424,2024-04-01,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.15,Diego,Tarjeta
+1342,2024-03-19,Oeste,Cervezas,Negra botella 1L,3500,2125,96,0.0,Tomas,Efectivo
+353,2023-04-02,Oeste,Aguas,Agua saborizada 1.5L,1400,800,12,0.0,Tomas,Tarjeta
+845,2023-11-16,Oeste,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Tomas,Transferencia
+1155,2024-01-10,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Lucia,Transferencia
+1549,2024-05-10,Oeste,Vinos,Malbec 750ml,8125,4750,48,0.05,Diego,Transferencia
+1723,2024-08-16,Norte,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Diego,Transferencia
+1976,2024-11-05,Oeste,Cervezas,Negra botella 1L,3500,2125,12,0.0,Diego,Tarjeta
+837,2023-11-04,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.05,Martin,Tarjeta
+947,2023-12-28,Sur,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Sofia,Tarjeta
+668,2023-08-20,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Sofia,Tarjeta
+887,2023-11-22,Norte,Aguas,Agua saborizada 1.5L,1400,800,24,,Diego,Efectivo
+1285,2024-02-14,CENTRO,Aguas,Agua sin gas 2L,1375,750,96,0.0,Martin,Efectivo
+785,2023-10-27,Norte,Aguas,Agua saborizada 1.5L,1400,800,48,,Lucia,Transferencia
+334,2023-04-16,Centro,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Martin,Transferencia
+154,2023-02-07,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Diego,Transferencia
+1421,2024-04-28,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Martin,Transferencia
+788,2023-10-20,Sur,Aguas,Agua saborizada 1.5L,1400,800,12,0.1,Sofia,Tarjeta
+502,2023-06-16,Sur,Vinos,Espumante 750ml,8500,5000,12,0.0,,Transferencia
+1737,2024-08-17,Sur,Aguas,Agua saborizada 1.5L,1750,1000,6,0.05,Martin,Tarjeta
+722,2023-09-26,Norte,Vinos,Cabernet 750ml,6900,4000,12,0.15,Tomas,Tarjeta
+374,2023-04-15,Centro,Vinos,Espumante 750ml,8500,5000,24,0.0,Diego,Tarjeta
+591,2023-07-12,Norte,Jugos,Jugo manzana 1L,1800,1100,5000,0.05,Lucia,Transferencia
+313,2023-03-04,Centro,Jugos,Jugo manzana 1L,1800,1100,96,0.0,Martin,Transferencia
+1623,2024-06-15,Oeste,Vinos,Malbec 750ml,8125,4750,24,0.05,Sofia,Tarjeta
+43,2023-01-23,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Tomas,Transferencia
+1918,2024-10-09,Centro,Vinos,Cabernet 750ml,8625,5000,48,0.05,Sofia,Transferencia
+646,2023-08-10,Sur,Vinos,Malbec 750ml,6500,3800,6,0.0,Valentina,Efectivo
+2078,2024-12-22,Sur,Gaseosas,Cola 2.25L,2750,1875,96,0.1,Lucia,Transferencia
+972,2023-12-18,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.05,Sofia,Transferencia
+2106,2024-12-17,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.0,Sofia,Tarjeta
+523,2023-06-02,Oeste,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Tomas,Tarjeta
+1998,2024-11-10,Centro,Cervezas,Negra botella 1L,3500,2125,6,,Valentina,Efectivo
+763,2023-10-12,centro ,Gaseosas,Naranja 1.5L,1700,1100,48,0.15,Lucia,Transferencia
+658,2023-08-07,Centro,Jugos,Jugo manzana 1L,1800,1100,12,0.1,Diego,Transferencia
+1165,2024-01-27,Norte,Aguas,Agua con gas 2L,1500,812,6,0.0,Diego,Tarjeta
+1853,2024-09-10,Centro,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Lucia,Transferencia
+705,2023-09-13,NORTE,Aguas,Agua saborizada 1.5L,1400,800,48,0.0,Sofia,Transferencia
+733,2023-09-28,Sur,Jugos,Jugo manzana 1L,1800,1100,12,0.1,Diego,Transferencia
+2132,2024-12-13,CENTRO,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Tomas,Transferencia
+2049,2024-11-15,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Sofia,Tarjeta
+1939,2024-10-12,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Diego,Transferencia
+945,2023-12-28,Centro,Gaseosas,Cola 2.25L,2200,1500,24,0.05,Tomas,Efectivo
+169,2023-02-11,Norte,Aguas,Agua con gas 2L,1200,650,6,0.0,Diego,Transferencia
+2108,2024-12-12,Oeste,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Lucia,Efectivo
+1567,2024-05-13,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.15,Martin,Efectivo
+361,2023-04-06,Centro,Aguas,Agua con gas 2L,1200,650,48,0.15,Martin,Efectivo
+1807,2024-09-06,Centro,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Diego,Transferencia
+1019,2023-12-27,Centro,Aguas,Agua sin gas 2L,1100,600,96,0.0,Tomas,Efectivo
+1470,2024-04-27,Norte,Vinos,Malbec 750ml,8125,4750,12,0.0,Lucia,Tarjeta
+908,2023-11-09,Oeste,Vinos,Espumante 750ml,8500,5000,12,0.0,Diego,Transferencia
+1694,2024-07-04,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Martin,Efectivo
+744,2023-09-19,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.1,Valentina,Transferencia
+273,2023-03-28,Centro,Aguas,Agua con gas 2L,1200,650,24,0.05,Valentina,Efectivo
+1494,2024-04-20,Norte,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Sofia,Transferencia
+520,2023-06-20,Centro,Jugos,Jugo naranja 1L,1800,1100,48,0.15,Martin,Transferencia
+815,2023-10-01,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.0,,Transferencia
+819,2023-10-23,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.1,Lucia,Tarjeta
+1402,2024-03-08,Centro,Jugos,Jugo naranja 1L,2250,1375,48,0.1,Valentina,Efectivo
+735,2023-09-11,Norte,Jugos,Jugo manzana 1L,1800,1100,48,0.1,Valentina,Efectivo
+1523,2024-05-19,NORTE,Cervezas,Negra botella 1L,3500,2125,6,0.0,Lucia,Transferencia
+1639,2024-06-15,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.05,Martin,Transferencia
+2183,2024-12-08,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.05,Diego,Efectivo
+1510,2024-05-10,Oeste,Gaseosas,Cola 2.25L,2750,1875,48,0.0,Diego,Tarjeta
+2109,2024-12-15,Oeste,Cervezas,IPA lata 473ml,2875,1625,12,0.0,Lucia,Transferencia
+1925,2024-10-28,Oeste,Vinos,Cabernet 750ml,8625,5000,6,0.05,Diego,Transferencia
+915,2023-11-17,Oeste,Vinos,Cabernet 750ml,6900,4000,6,0.0,Diego,Efectivo
+1701,2024-07-13,Centro,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Martin,Transferencia
+2181,2024-12-01,Norte,Vinos,Espumante 750ml,10625,6250,96,0.0,Diego,Efectivo
+1122,2024-01-08,Centro,Cervezas,IPA lata 473ml,2875,1625,24,0.1,Lucia,Tarjeta
+2066,2024-12-20,Oeste,Gaseosas,Lima limon 2.25L,2500,1688,12,0.1,Tomas,Tarjeta
+129,2023-02-07,Centro,Gaseosas,Naranja 1.5L,1700,1100,6,0.1,Valentina,Transferencia
+999,2023-12-26,Norte,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Diego,Tarjeta
+690,2023-09-03,Norte,Cervezas,Rubia lata 473ml,1500,900,24,0.15,Martin,Transferencia
+1647,2024-07-21,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.15,Diego,Tarjeta
+545,2023-07-03,Oeste,Gaseosas,Cola 2.25L,2200,1500,12,0.1,Lucia,Transferencia
+380,2023-04-14,Norte,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Sofia,Tarjeta
+2047,2024-11-06,Sur,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Martin,Efectivo
+204,2023-02-01,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.1,Valentina,Transferencia
+344,2023-04-16,Norte,Cervezas,Negra botella 1L,2800,1700,48,0.0,,Transferencia
+2083,2024-12-10,Sur,Gaseosas,Lima limon 2.25L,2500,1688,12,0.0,Sofia,Efectivo
+1679,2024-07-25,Oeste,Vinos,Cabernet 750ml,8625,5000,48,0.15,Tomas,Efectivo
+2169,2024-12-19,Oeste,Vinos,Cabernet 750ml,8625,5000,48,0.0,Sofia,Transferencia
+519,2023-06-20,Oeste,Jugos,Jugo manzana 1L,1800,1100,6,0.1,Tomas,Transferencia
+1804,2024-09-17,centro ,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Martin,Efectivo
+2122,2024-12-14,Oeste,Cervezas,Rubia lata 473ml,1875,1125,48,0.0,Lucia,Tarjeta
+489,2023-06-18,Centro,Aguas,Agua sin gas 2L,1100,600,6,0.15,Diego,Efectivo
+1262,2024-02-12,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.05,Diego,Efectivo
+1002,2023-12-13,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Valentina,Transferencia
+1574,2024-06-24,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.0,Diego,Transferencia
+1425,2024-04-12,Norte,Gaseosas,Naranja 1.5L,2125,1375,24,0.1,Lucia,Efectivo
+1595,2024-06-28,Norte,Aguas,Agua con gas 2L,1500,812,6,0.05,Valentina,Transferencia
+918,2023-11-22,Oeste,Vinos,Cabernet 750ml,6900,4000,6,0.05,Sofia,Efectivo
+233,2023-03-19,Centro,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Martin,Transferencia
+795,2023-10-18,Oeste,Aguas,Agua saborizada 1.5L,1400,800,12,,Sofia,Tarjeta
+1707,2024-07-01,Sur,Jugos,Jugo manzana 1L,2250,1375,48,0.0,Martin,Transferencia
+1467,2024-04-21,Norte,Vinos,Malbec 750ml,8125,4750,24,0.05,Diego,Efectivo
+2178,2024-12-20,Sur,Vinos,Malbec 750ml,8125,4750,6,0.0,Sofia,Transferencia
+1743,2024-08-06,NORTE,Vinos,Espumante 750ml,10625,6250,6,0.1,Tomas,Efectivo
+1821,2024-09-23,Norte,Vinos,Malbec 750ml,8125,4750,12,0.0,Diego,Transferencia
+1123,2024-01-04,Oeste,Cervezas,Negra botella 1L,3500,2125,12,0.05,Sofia,Tarjeta
+515,2023-06-03,Oeste,Vinos,Cabernet 750ml,6900,4000,48,0.0,Diego,Efectivo
+1042,2023-12-28,Sur,Vinos,Espumante 750ml,8500,5000,6,0.05,Sofia,Efectivo
+512,2023-06-01,Norte,Vinos,Malbec 750ml,6500,3800,12,0.0,Tomas,Efectivo
+113,2023-01-09,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Sofia,Tarjeta
+1000,2023-12-19,Oeste,Cervezas,Rubia lata 473ml,1500,900,6,0.1,Martin,Efectivo
+218,2023-02-06,Centro,Jugos,Jugo naranja 1L,1800,1100,12,0.0,Lucia,Efectivo
+1385,2024-03-16,Centro,Aguas,Agua sin gas 2L,1375,750,6,0.0,Diego,Efectivo
+1583,2024-06-21,Sur,Cervezas,IPA lata 473ml,2875,1625,6,0.1,,Efectivo
+500,2023-06-04,Oeste,Vinos,Cabernet 750ml,6900,4000,24,0.0,Valentina,Transferencia
+954,2023-12-03,Oeste,Gaseosas,Lima limon 2.25L,2000,1350,48,0.05,Martin,Tarjeta
+935,2023-11-20,Sur,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Diego,Transferencia
+226,2023-03-14,Oeste,Gaseosas,Naranja 1.5L,1700,1100,12,0.05,Lucia,Tarjeta
+1043,2023-12-28,Centro,Vinos,Espumante 750ml,8500,5000,48,0.1,Diego,Tarjeta
+1193,2024-01-10,Sur,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Sofia,Efectivo
+741,2023-09-26,Oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Sofia,Transferencia
+1317,2024-02-11,Oeste,Jugos,Jugo manzana 1L,2250,1375,6,0.15,Valentina,Efectivo
+2166,2024-12-12,Norte,Vinos,Malbec 750ml,8125,4750,48,0.1,Martin,Efectivo
+1934,2024-10-05,Norte,Jugos,Jugo naranja 1L,2250,1375,96,0.05,Valentina,Efectivo
+398,2023-05-14,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.0,Valentina,Tarjeta
+1764,2024-08-12,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Valentina,Tarjeta
+1667,2024-07-06,Oeste,Aguas,Agua con gas 2L,1500,812,24,0.05,Diego,Tarjeta
+541,2023-07-08,Norte,Gaseosas,Lima limon 2.25L,2000,1350,48,0.0,Martin,Transferencia
+329,2023-04-05,Norte,Gaseosas,Lima limon 2.25L,2000,1350,24,0.0,Tomas,Efectivo
+796,2023-10-16,Oeste,Aguas,Agua saborizada 1.5L,1400,800,6,0.1,Valentina,Tarjeta
+849,2023-11-12,Oeste,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Martin,Transferencia
+1327,2024-03-20,Oeste,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Sofia,Efectivo
+622,2023-08-26,Sur,Cervezas,Negra botella 1L,2800,1700,48,0.05,Sofia,Efectivo
+1965,2024-11-19,Centro,Gaseosas,Naranja 1.5L,2125,1375,12,0.0,Sofia,Tarjeta
+94,2023-01-22,Oeste,Vinos,Cabernet 750ml,6900,4000,12,0.1,Diego,Transferencia
+214,2023-02-14,Norte,Jugos,Jugo naranja 1L,1800,1100,6,0.0,Diego,Efectivo
+771,2023-10-20,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Lucia,Efectivo
+338,2023-04-18,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.1,Valentina,Transferencia
+1450,2024-04-13,Centro,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Martin,Tarjeta
+804,2023-10-07,Oeste,Vinos,Cabernet 750ml,6900,4000,12,0.1,Valentina,Tarjeta
+213,2023-02-07,Oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.15,,Transferencia
+619,2023-08-05,Sur,Cervezas,Negra botella 1L,2800,1700,6,0.0,Valentina,Tarjeta
+1140,2024-01-28,Sur,Cervezas,IPA lata 473ml,2875,1625,96,0.05,Diego,Tarjeta
+1183,2024-01-25,Centro,Vinos,Malbec 750ml,8125,4750,6,0.15,Lucia,Transferencia
+1169,2024-01-01,Sur,Aguas,Agua sin gas 2L,1375,750,24,0.15,Martin,Efectivo
+1137,2024-01-19,Norte,Cervezas,Negra botella 1L,3500,2125,6,0.0,Valentina,Transferencia
+37,2023-01-04,Norte,Cervezas,Rubia lata 473ml,1500,900,6,0.0,Sofia,Transferencia
+106,2023-01-16,Centro,Jugos,Jugo naranja 1L,1800,1100,48,0.0,Sofia,Efectivo
+1932,2024-10-26,Centro,Vinos,Malbec 750ml,8125,4750,24,0.05,Diego,Efectivo
+363,2023-04-05,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.1,Diego,Tarjeta
+851,2023-11-28,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.05,Diego,Tarjeta
+1741,2024-08-18,Oeste,Aguas,Agua con gas 2L,1500,812,96,,Valentina,Transferencia
+757,2023-10-18,Sur,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Lucia,Transferencia
+1758,2024-08-26,Centro,Vinos,Malbec 750ml,8125,4750,6,0.05,Diego,Transferencia
+759,2023-10-09,Norte,Gaseosas,Cola 2.25L,2200,1500,96,0.0,Tomas,Efectivo
+366,2023-04-01,Oeste,Vinos,Malbec 750ml,6500,3800,6,0.0,Sofia,Efectivo
+857,2023-11-03,Sur,Gaseosas,Naranja 1.5L,1700,1100,24,,Diego,Efectivo
+1466,2024-04-25,Sur,Vinos,Cabernet 750ml,8625,5000,24,0.0,Diego,Transferencia
+682,2023-09-23,Oeste,Gaseosas,Lima limon 2.25L,2000,1350,6,,Valentina,Tarjeta
+1705,2024-07-22,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.05,Valentina,Transferencia
+566,2023-07-02,centro ,Vinos,Malbec 750ml,6500,3800,12,0.15,Sofia,Efectivo
+1376,2024-03-28,Sur,Aguas,Agua sin gas 2L,1375,750,6,,Tomas,Transferencia
+1515,2024-05-17,Centro,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Valentina,Transferencia
+250,2023-03-14,Norte,Cervezas,Rubia lata 473ml,1500,900,48,,Valentina,Transferencia
+477,2023-06-13,Oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.15,Martin,Tarjeta
+1659,2024-07-18,Sur,Cervezas,Rubia lata 473ml,1875,1125,12,0.15,Martin,Transferencia
+1475,2024-04-22,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.0,Tomas,Transferencia
+1431,2024-04-03,Centro,Gaseosas,Naranja 1.5L,2125,1375,24,0.0,Lucia,Efectivo
+2203,2024-12-13,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Valentina,Transferencia
+1189,2024-01-20,Norte,Jugos,Jugo naranja 1L,2250,1375,5000,0.05,Sofia,Transferencia
+782,2023-10-14,Oeste,Cervezas,Negra botella 1L,2800,1700,24,0.05,Martin,Transferencia
+455,2023-05-09,Sur,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Diego,Tarjeta
+318,2023-04-15,Norte,Gaseosas,Lima limon 2.25L,2000,1350,6,0.15,Tomas,Tarjeta
+1201,2024-01-26,Norte,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Sofia,Transferencia
+1776,2024-08-03,Norte,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Valentina,Transferencia
+1108,2024-01-16,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.1,Tomas,Transferencia
+231,2023-03-12,Sur,Gaseosas,Lima limon 2.25L,2000,1350,6,0.1,Lucia,Transferencia
+1320,2024-02-15,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.0,Diego,Transferencia
+653,2023-08-08,Oeste,Jugos,Jugo manzana 1L,1800,1100,12,0.0,Lucia,Tarjeta
+71,2023-01-12,Norte,Aguas,Agua sin gas 2L,1100,600,6,0.15,Lucia,Efectivo
+1668,2024-07-06,Centro,Aguas,Agua sin gas 2L,1375,750,12,0.05,Martin,Transferencia
+404,2023-05-09,Centro,Gaseosas,Cola 2.25L,2200,1500,6,0.05,Valentina,Tarjeta
+611,2023-08-16,Oeste,Gaseosas,Lima limon 2.25L,2000,1350,24,0.1,Valentina,Tarjeta
+1175,2024-01-23,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.15,Lucia,Efectivo
+1089,2024-01-23,Norte,Gaseosas,Lima limon 2.25L,2500,1688,24,0.05,Lucia,Tarjeta
+2172,2024-12-14,Sur,Vinos,Malbec 750ml,8125,4750,6,0.1,Lucia,Efectivo
+329,2023-04-05,Norte,Gaseosas,Lima limon 2.25L,2000,1350,24,0.0,Tomas,Efectivo
+2145,2024-12-02,Norte,Aguas,Agua saborizada 1.5L,1750,1000,12,0.0,Martin,Efectivo
+411,2023-05-05,Centro,Cervezas,IPA lata 473ml,2300,1300,48,0.0,Diego,Transferencia
+2163,2024-12-04,Oeste,Vinos,Cabernet 750ml,8625,5000,48,0.15,Lucia,Efectivo
+1152,2024-01-02,Centro,Aguas,Agua con gas 2L,1500,812,24,0.0,Martin,Efectivo
+339,2023-04-27,Oeste,Cervezas,Rubia lata 473ml,1500,900,6,0.1,Martin,Tarjeta
+1026,2023-12-16,Centro,Aguas,Agua con gas 2L,1200,650,6,0.0,Lucia,Efectivo
+44,2023-01-08,Centro,Cervezas,Negra botella 1L,2800,1700,24,0.15,Martin,Efectivo
+540,2023-07-24,Norte,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Diego,Tarjeta
+602,2023-08-20,Norte,Gaseosas,Naranja 1.5L,1700,1100,12,0.05,Martin,Tarjeta
+1333,2024-03-23,Centro,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Lucia,Efectivo
+1610,2024-06-02,Centro,Vinos,Malbec 750ml,8125,4750,6,0.05,Diego,Transferencia
+966,2023-12-06,Oeste,Gaseosas,Cola 2.25L,2200,1500,24,0.1,Diego,Transferencia
+2136,2024-12-14,Centro,Aguas,Agua con gas 2L,1500,812,48,0.0,Sofia,Efectivo
+1435,2024-04-05,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.1,Sofia,Transferencia
+172,2023-02-21, sur,Aguas,Agua sin gas 2L,1100,600,24,,Lucia,Tarjeta
+418,2023-05-13,Sur,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Tomas,Transferencia
+2096,2024-12-21,Norte,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Lucia,Tarjeta
+838,2023-11-21,Sur,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Martin,Tarjeta
+2186,2024-12-06,Centro,Vinos,Cabernet 750ml,8625,5000,6,0.15,Martin,Efectivo
+2053,2024-11-09,Oeste,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Valentina,Transferencia
+1628,2024-06-17,Sur,Jugos,Jugo manzana 1L,2250,1375,96,0.0,Tomas,Transferencia
+807,2023-10-01,Oeste,Vinos,Cabernet 750ml,6900,4000,6,0.05,Diego,Transferencia
+883,2023-11-01,NORTE,Aguas,Agua sin gas 2L,1100,600,48,0.0,Sofia,Efectivo
+1485,2024-04-03,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.15,Diego,Efectivo
+2175,2024-12-09,Centro,Vinos,Malbec 750ml,8125,4750,12,0.05,Sofia,Transferencia
+638,2023-08-23,Norte,Vinos,Cabernet 750ml,6900,4000,48,0.0,Tomas,Efectivo
+424,2023-05-05,Oeste,Aguas,Agua sin gas 2L,1100,600,48,,Sofia,Tarjeta
+728,2023-09-22,Centro,Vinos,Cabernet 750ml,6900,4000,48,0.15,Tomas,Efectivo
+968,2023-12-20,Norte,Gaseosas,Cola 2.25L,2200,1500,6,0.05,Sofia,Efectivo
+1997,2024-11-12,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.0,Lucia,Transferencia
+1947,2024-10-28,Centro,Jugos,Jugo naranja 1L,2250,1375,24,0.0,Tomas,Efectivo
+1340,2024-03-07,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Valentina,Transferencia
+377,2023-04-04,Norte,Vinos,Malbec 750ml,6500,3800,12,0.15,Tomas,Transferencia
+525,2023-06-20,Norte,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Valentina,Efectivo
+1357,2024-03-21,Oeste,Cervezas,IPA lata 473ml,2875,1625,5000,0.05,Sofia,Tarjeta
+439,2023-05-23,Oeste,Vinos,Cabernet 750ml,6900,4000,24,0.0,Martin,Tarjeta
+2091,2024-12-13,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.05,Valentina,Tarjeta
+151,2023-02-08,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.1,Diego,Efectivo
+485,2023-06-16,Centro,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Diego,Transferencia
+1581,2024-06-24,Norte,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Diego,Transferencia
+1950,2024-10-27,Sur,Jugos,Jugo manzana 1L,2250,1375,12,0.15,Diego,Transferencia
+1775,2024-08-03,Norte,Jugos,Jugo naranja 1L,2250,1375,24,0.05,Martin,Tarjeta
+627,2023-08-20,Oeste,Aguas,Agua sin gas 2L,1100,600,6,0.0,,Efectivo
+982,2023-12-03,Oeste,Cervezas,Rubia lata 473ml,1500,900,48,0.15,Lucia,Tarjeta
+955,2023-12-12,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.05,Lucia,Efectivo
+2142,2024-12-07,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.1,Tomas,Transferencia
+1749,2024-08-18,Sur,Vinos,Espumante 750ml,10625,6250,6,0.0,Diego,Transferencia
+1846,2024-09-04,CENTRO,Jugos,Jugo naranja 1L,2250,1375,6,0.05,Lucia,Tarjeta
+1434,2024-04-15,Oeste,Cervezas,Negra botella 1L,3500,2125,48,0.0,Tomas,Efectivo
+144,2023-02-28,Oeste,Cervezas,Negra botella 1L,2800,1700,6,0.15,Lucia,Transferencia
+718,2023-09-11,Norte,Vinos,Malbec 750ml,6500,3800,6,0.0,Sofia,Transferencia
+527,2023-06-04,Norte,Jugos,Jugo naranja 1L,1800,1100,48,0.15,Martin,Transferencia
+1533,2024-05-15,Norte,Aguas,Agua sin gas 2L,1375,750,6,0.1,Tomas,Efectivo
+584,2023-07-11,Oeste,Vinos,Malbec 750ml,6500,3800,48,0.1,Valentina,Transferencia
+976,2023-12-05,Centro,Cervezas,IPA lata 473ml,2300,1300,24,0.0,Valentina,Transferencia
+567,2023-07-03,Centro,Vinos,Espumante 750ml,8500,5000,24,0.05,Tomas,Transferencia
+1967,2024-11-06,Norte,Gaseosas,Cola 2.25L,2750,1875,12,0.1,Martin,Efectivo
+1233,2024-02-11,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Tomas,Transferencia
+1881,2024-10-05, sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.05,Lucia,Tarjeta
+441,2023-05-23,Centro,Vinos,Espumante 750ml,8500,5000,12,0.1,Lucia,Transferencia
+1156,2024-01-19,Centro,Aguas,Agua sin gas 2L,1375,750,24,0.15,Sofia,Transferencia
+1405,2024-03-24,Norte,Jugos,Jugo manzana 1L,2250,1375,48,0.1,Sofia,Efectivo
+175,2023-02-19,Norte,Aguas,Agua con gas 2L,1200,650,24,0.05,Diego,Tarjeta
+1558,2024-05-15,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Tomas,Transferencia
+1728,2024-08-02,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Tomas,Efectivo
+1295,2024-02-26,Norte,Vinos,Malbec 750ml,8125,4750,-12,0.0,Valentina,Transferencia
+1432,2024-04-03,Sur,Cervezas,Rubia lata 473ml,1875,1125,24,0.0,Tomas,Tarjeta
+2072,2024-12-02,Norte,Gaseosas,Lima limon 2.25L,2500,1688,24,,Diego,Transferencia
+880,2023-11-16,Centro,Cervezas,Rubia lata 473ml,1500,900,6,0.05,Valentina,Efectivo
+1076,2023-12-20,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.15,Valentina,Transferencia
+625,2023-08-11,Oeste,Aguas,Agua sin gas 2L,1100,600,6,0.05,Sofia,Transferencia
+2205,2024-12-18,Oeste,Jugos,Jugo naranja 1L,2250,1375,12,0.0,,Tarjeta
+349,2023-04-25,Norte,Aguas,Agua sin gas 2L,1100,600,12,0.0,Martin,Tarjeta
+1367,2024-03-22,Centro,Aguas,Agua saborizada 1.5L,1750,1000,24,0.15,Sofia,Transferencia
+618,2023-08-14,Sur,Cervezas,IPA lata 473ml,2300,1300,48,0.0,Sofia,Tarjeta
+1325,2024-03-03,Norte,Gaseosas,Lima limon 2.25L,2500,1688,48,0.0,Diego,Tarjeta
+1983,2024-11-08,Sur,Cervezas,IPA lata 473ml,2875,1625,48,0.05,Tomas,Tarjeta
+691,2023-09-10,Norte,Cervezas,Negra botella 1L,2800,1700,24,0.05,Tomas,Efectivo
+2111,2024-12-01,Sur,Cervezas,Rubia lata 473ml,1875,1125,6,0.15,Martin,Transferencia
+1690,2024-07-12,Sur,Vinos,Espumante 750ml,10625,6250,24,0.1,,Efectivo
+1351,2024-03-28,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.0,Valentina,Efectivo
+2137,2024-12-12,Norte,Aguas,Agua saborizada 1.5L,1750,1000,48,0.0,Tomas,Transferencia
+1831,2024-09-23,Norte,Vinos,Malbec 750ml,8125,4750,12,0.05,Valentina,Transferencia
+1687,2024-07-15,Norte,Vinos,Malbec 750ml,8125,4750,12,0.05,Lucia,Transferencia
+1693,2024-07-22,Centro,Jugos,Jugo naranja 1L,2250,1375,12,0.05,Sofia,Transferencia
+466,2023-05-16,Oeste,Jugos,Jugo naranja 1L,1800,1100,12,0.1,Sofia,Efectivo
+1188,2024-01-10,Centro,Jugos,Jugo naranja 1L,2250,1375,24,0.05,Lucia,Efectivo
+1192,2024-01-21,Sur,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Martin,Transferencia
+146,2023-02-19,Oeste,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Lucia,Efectivo
+325,2023-04-14, sur,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Lucia,Transferencia
+1763,2024-08-28,Norte,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Tomas,Tarjeta
+707,2023-09-15,Oeste,Aguas,Agua sin gas 2L,1100,600,48,0.05,Valentina,Tarjeta
+715,2023-09-13,Oeste,Vinos,Malbec 750ml,6500,3800,12,0.15,Sofia,Transferencia
+1835,2024-09-05,Norte,Vinos,Malbec 750ml,8125,4750,12,0.1,Martin,Transferencia
+1112,2024-01-11,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Lucia,Tarjeta
+902,2023-11-07,Centro,Aguas,Agua con gas 2L,1200,650,6,0.0,Valentina,Efectivo
+688,2023-09-18, sur,Cervezas,Negra botella 1L,2800,1700,24,0.05,Tomas,Transferencia
+1631,2024-06-21,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Sofia,Efectivo
+1940,2024-10-14,Norte,Jugos,Jugo manzana 1L,2250,1375,6,0.15,Tomas,Transferencia
+1825,2024-09-23,Norte,Vinos,Espumante 750ml,10625,6250,24,0.0,,Transferencia
+101,2023-01-23,Norte,Jugos,Jugo naranja 1L,1800,1100,12,0.05,Diego,Efectivo
+291,2023-03-04,Norte,Vinos,Malbec 750ml,6500,3800,96,0.0,Valentina,Tarjeta
+879,2023-11-18,Centro,Cervezas,IPA lata 473ml,2300,1300,48,0.1,Sofia,Transferencia
+1456,2024-04-08,Norte,Aguas,Agua con gas 2L,1500,812,48,0.0,Sofia,Efectivo
+392,2023-04-12,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Lucia,Transferencia
+87,2023-01-19,Norte,Vinos,Malbec 750ml,6500,3800,12,0.15,Martin,Transferencia
+1276,2024-02-13,Centro,Aguas,Agua sin gas 2L,1375,750,12,0.05,Sofia,Efectivo
+1524,2024-05-01,Norte,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Martin,Transferencia
+476,2023-06-10,Norte,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Valentina,Transferencia
+1695,2024-07-03,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.05,Lucia,Transferencia
+1296,2024-02-02,Sur,Vinos,Malbec 750ml,8125,4750,24,0.15,Martin,Transferencia
+2093,2024-12-08,Sur,Cervezas,IPA lata 473ml,2875,1625,12,0.0,Lucia,Transferencia
+1138,2024-01-02,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.0,Diego,Transferencia
+2073,2024-12-17,Sur,Gaseosas,Naranja 1.5L,2125,1375,12,0.05,Tomas,Tarjeta
+1236,2024-02-26,Sur,Cervezas,IPA lata 473ml,2875,1625,12,0.0,Lucia,Tarjeta
+833,2023-10-27,Norte,Jugos,Jugo manzana 1L,1800,1100,12,0.05,Valentina,Transferencia
+592,2023-07-11,Oeste,Jugos,Jugo naranja 1L,1800,1100,24,0.0,Sofia,Efectivo
+759,2023-10-09,Norte,Gaseosas,Cola 2.25L,2200,1500,96,0.0,Tomas,Efectivo
+1621,2024-06-13,Sur,Vinos,Espumante 750ml,10625,6250,12,0.0,Valentina,Efectivo
+1636,2024-06-20,Oeste,Jugos,Jugo manzana 1L,2250,1375,6,0.0,Lucia,Efectivo
+110,2023-01-28,Norte,Jugos,Jugo manzana 1L,1800,1100,48,0.0,Tomas,Efectivo
+1161,2024-01-17,Norte,Aguas,Agua saborizada 1.5L,1750,1000,48,0.15,Tomas,Transferencia
+223,2023-02-06,Sur,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Martin,Tarjeta
+1053,2023-12-15,Norte,Vinos,Espumante 750ml,8500,5000,12,0.0,Tomas,Efectivo
+1312,2024-02-03,Centro,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Diego,Tarjeta
+2104,2024-12-16,Centro,Cervezas,Negra botella 1L,3500,2125,12,0.05,Martin,Efectivo
+518,2023-06-19,Centro,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Diego,Tarjeta
+254,2023-03-01,Norte,Cervezas,Negra botella 1L,2800,1700,6,0.0,Diego,Transferencia
+1073,2023-12-25,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Tomas,Efectivo
+1620,2024-06-08,Norte,Vinos,Espumante 750ml,10625,6250,6,0.1,Diego,Tarjeta
+1493,2024-04-01,Centro,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Sofia,Transferencia
+546,2023-07-28,oeste,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Martin,Tarjeta
+950,2023-12-27,Oeste,Gaseosas,Naranja 1.5L,1700,1100,48,0.05,,Transferencia
+1572,2024-06-08,Norte,Gaseosas,Lima limon 2.25L,2500,1688,6,0.0,Diego,Transferencia
+844,2023-11-23,Centro,Gaseosas,Lima limon 2.25L,2000,1350,24,0.15,Tomas,Tarjeta
+64,2023-01-26,Centro,Aguas,Agua con gas 2L,1200,650,48,0.0,,Transferencia
+414,2023-05-04,Centro,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Sofia,Transferencia
+885,2023-11-06,Centro,Aguas,Agua sin gas 2L,1100,600,24,0.1,Sofia,Efectivo
+452,2023-05-13,Sur,Jugos,Jugo naranja 1L,1800,1100,24,0.15,Lucia,Efectivo
+1259,2024-02-12,Sur,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Sofia,Tarjeta
+657,2023-08-06,Oeste,Jugos,Jugo naranja 1L,1800,1100,96,0.05,Tomas,Tarjeta
+1880,2024-10-26,Oeste,Cervezas,Negra botella 1L,3500,2125,48,0.05,Martin,Tarjeta
+1582,2024-06-17,Centro,Cervezas,Rubia lata 473ml,1875,1125,48,0.05,Diego,Transferencia
+1487,2024-04-23,Centro,Jugos,Jugo manzana 1L,2250,1375,24,0.05,Martin,Tarjeta
+1486,2024-04-17,Sur,Jugos,Jugo naranja 1L,2250,1375,96,0.0,Sofia,Transferencia
+1328,2024-03-25,Sur,Gaseosas,Naranja 1.5L,2125,1375,6,0.1,Sofia,Tarjeta
+78,2023-01-13,Norte,Aguas,Agua con gas 2L,1200,650,6,0.0,Valentina,Tarjeta
+2070,2024-12-26,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.05,Valentina,Tarjeta
+870,2023-11-18,Norte,Cervezas,IPA lata 473ml,2300,1300,6,0.0,Martin,Transferencia
+451,2023-05-01,Norte,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Valentina,Tarjeta
+1020,2023-12-28,Norte,Aguas,Agua saborizada 1.5L,1400,800,6,0.05,Sofia,Tarjeta
+1561,2024-05-24,Sur,Jugos,Jugo naranja 1L,2250,1375,12,0.0,Sofia,Transferencia
+1980,2024-11-16,Sur,Cervezas,Negra botella 1L,3500,2125,48,0.0,Tomas,Transferencia
+697,2023-09-10,Norte,Cervezas,Rubia lata 473ml,1500,900,24,0.0,Valentina,Transferencia
+1742,2024-08-19,Sur,Vinos,Malbec 750ml,8125,4750,48,0.0,Valentina,Transferencia
+812,2023-10-24,Sur,Vinos,Cabernet 750ml,6900,4000,24,0.0,Lucia,Tarjeta
+911,2023-11-10,Norte,Vinos,Espumante 750ml,8500,5000,6,0.0,Tomas,Transferencia
+1522,2024-05-10,Sur,Cervezas,IPA lata 473ml,2875,1625,48,0.0,Martin,Transferencia
+1050,2023-12-23,Sur,Vinos,Malbec 750ml,6500,3800,6,0.0,Lucia,Tarjeta
+506,2023-06-17,Norte,Vinos,Malbec 750ml,6500,3800,6,0.0,Sofia,Tarjeta
+406,2023-05-11,Centro,Gaseosas,Cola 2.25L,2200,1500,12,0.15,Tomas,Transferencia
+184,2023-02-01,Sur,Aguas,Agua sin gas 2L,1100,600,12,0.0,Diego,Efectivo
+1877,2024-10-03,Sur,Cervezas,Negra botella 1L,3500,2125,6,0.0,Martin,Efectivo
+1718,2024-08-25,Centro,Gaseosas,Lima limon 2.25L,2500,1688,96,0.05,Martin,Transferencia
+610,2023-08-10,Oeste,Gaseosas,Cola 2.25L,2200,1500,6,0.0,Tomas,Tarjeta
+2034,2024-11-26,Centro,Vinos,Espumante 750ml,10625,6250,96,0.1,Sofia,Transferencia
+1969,2024-11-05,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.05,Lucia,Efectivo
+21,2023-01-26,Sur,Gaseosas,Naranja 1.5L,1700,1100,12,0.0,Lucia,Transferencia
+1426,2024-04-05,Oeste,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Martin,Transferencia
+1591,2024-06-14,Sur,Cervezas,Negra botella 1L,3500,2125,12,0.1,Sofia,Efectivo
+328,2023-04-05,Centro,Gaseosas,Lima limon 2.25L,2000,1350,12,0.05,Tomas,Transferencia
+1875,2024-10-12,Centro,Cervezas,IPA lata 473ml,2875,1625,96,0.1,Diego,Transferencia
+517,2023-06-25,Norte,Vinos,Cabernet 750ml,6900,4000,6,0.0,Martin,Transferencia
+267,2023-03-25,Sur,Aguas,Agua sin gas 2L,1100,600,24,0.05,Sofia,Tarjeta
+1891,2024-10-10,Sur,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Tomas,Transferencia
+1757,2024-08-09,Sur,Vinos,Malbec 750ml,8125,4750,6,0.0,Diego,Efectivo
+866,2023-11-19,Oeste,Cervezas,Negra botella 1L,2800,1700,12,0.0,Lucia,Efectivo
+1341,2024-03-07,Centro,Cervezas,Rubia lata 473ml,1875,1125,6,0.0,Lucia,Tarjeta
+2165,2024-12-16,Centro,Vinos,Espumante 750ml,10625,6250,6,0.05,Sofia,Efectivo
+490,2023-06-27,Oeste,Aguas,Agua saborizada 1.5L,1400,800,6,0.15,Tomas,Tarjeta
+607,2023-08-22,Oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.15,Tomas,Transferencia
+1739,2024-08-17,Centro,Aguas,Agua con gas 2L,1500,812,24,0.15,Lucia,Efectivo
+153,2023-02-20,Centro,Cervezas,Rubia lata 473ml,1500,900,12,0.0,Martin,Efectivo
+890,2023-11-28,Sur,Aguas,Agua con gas 2L,1200,650,6,,Lucia,Efectivo
+2209,2024-12-06,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Lucia,Transferencia
+270,2023-03-21,Centro,Aguas,Agua sin gas 2L,1100,600,12,0.0,Sofia,Efectivo
+97,2023-01-18,Norte,Jugos,Jugo manzana 1L,1800,1100,6,0.05,Lucia,Transferencia
+965,2023-12-23,Norte,Gaseosas,Lima limon 2.25L,2000,1350,12,0.0,Tomas,Transferencia
+1800,2024-09-18,Centro,Cervezas,Negra botella 1L,3500,2125,48,0.05,Martin,Efectivo
+872,2023-11-20,Sur,Cervezas,Rubia lata 473ml,1500,900,96,0.1,Valentina,Tarjeta
+1573,2024-06-12,Centro,Gaseosas,Lima limon 2.25L,2500,1688,24,0.0,Valentina,Tarjeta
+533,2023-06-24,Norte,Jugos,Jugo manzana 1L,1800,1100,24,0.0,Diego,Efectivo
+1068,2023-12-06,Centro,Jugos,Jugo naranja 1L,1800,1100,48,0.15,Martin,Tarjeta
+1100,2024-01-03,Sur,Gaseosas,Lima limon 2.25L,2500,1688,6,0.15,Martin,Transferencia
+2126,2024-12-19,Centro,Cervezas,Rubia lata 473ml,1875,1125,12,0.0,Tomas,Tarjeta
+716,2023-09-13,Centro,Vinos,Malbec 750ml,6500,3800,6,0.0,Valentina,Tarjeta
+1090,2024-01-16,Norte,Gaseosas,Lima limon 2.25L,2500,1688,12,0.1,Lucia,Transferencia
+1539,2024-05-08,Centro,Vinos,Espumante 750ml,10625,6250,6,0.1,Tomas,Transferencia
+1188,2024-01-10,Centro,Jugos,Jugo naranja 1L,2250,1375,24,0.05,Lucia,Efectivo
+470,2023-06-15,Centro,Gaseosas,Lima limon 2.25L,2000,1350,6,0.0,Martin,Tarjeta
+565,2023-07-15,Oeste,Vinos,Malbec 750ml,6500,3800,48,0.05,,Efectivo
+1799,2024-09-07,Centro,Cervezas,IPA lata 473ml,2875,1625,6,0.05,Sofia,Tarjeta
+462,2023-05-20,Oeste,Jugos,Jugo manzana 1L,1800,1100,48,0.0,Martin,Transferencia
+1278,2024-02-19,Norte,Aguas,Agua saborizada 1.5L,1750,1000,24,0.0,Martin,Tarjeta
+1796,2024-09-21,Sur,Cervezas,Rubia lata 473ml,1875,1125,96,0.0,Sofia,Tarjeta
+1870,2024-10-13,Centro,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Sofia,Efectivo
+1394,2024-03-20,Centro,Vinos,Malbec 750ml,8125,4750,48,0.0,Diego,Transferencia
+1346,2024-03-10,Centro,Cervezas,Negra botella 1L,3500,2125,24,0.15,Martin,Transferencia
+696,2023-09-02,Norte,Cervezas,Negra botella 1L,2800,1700,6,0.1,Valentina,Transferencia
+1176,2024-01-06,Sur,Vinos,Cabernet 750ml,8625,5000,24,0.15,Lucia,Tarjeta
+1753,2024-08-20,Sur,Vinos,Malbec 750ml,8125,4750,12,0.05,Tomas,Tarjeta
+929,2023-11-24,Centro,Jugos,Jugo naranja 1L,1800,1100,24,0.05,Lucia,Efectivo
+1215,2024-02-26,Norte,Gaseosas,Cola 2.25L,2750,1875,6,0.05,Valentina,Transferencia
+1373,2024-03-16,Oeste,Aguas,Agua saborizada 1.5L,1750,1000,6,0.0,Sofia,Tarjeta
+244,2023-03-12,Centro,Cervezas,Negra botella 1L,2800,1700,12,0.05,Tomas,Tarjeta
+1680,2024-07-14,centro ,Vinos,Malbec 750ml,8125,4750,6,0.0,Valentina,Transferencia
+1313,2024-02-13,Centro,Jugos,Jugo manzana 1L,2250,1375,6,0.05,Valentina,Tarjeta
+649,2023-08-07,Oeste,Vinos,Cabernet 750ml,6900,4000,24,0.05,Valentina,Tarjeta
+314,2023-03-04,Norte,Jugos,Jugo manzana 1L,1800,1100,6,0.0,Diego,Efectivo
+156,2023-02-23,Centro,Cervezas,Rubia lata 473ml,1500,900,24,0.0,Valentina,Efectivo
+1304,2024-02-08,Norte,Vinos,Espumante 750ml,10625,6250,6,0.0,Tomas,Transferencia
+1151,2024-01-03,oeste,Aguas,Agua sin gas 2L,1375,750,48,,Tomas,Efectivo
+1802,2024-09-11,Sur,Cervezas,Negra botella 1L,3500,2125,12,0.0,Lucia,Transferencia
+1047,2023-12-18,Centro,Vinos,Espumante 750ml,8500,5000,6,0.0,Lucia,Tarjeta
+1641,2024-07-25,Sur,Gaseosas,Cola 2.25L,2750,1875,12,0.05,Diego,Efectivo
+1307,2024-02-03,Oeste,Jugos,Jugo manzana 1L,2250,1375,48,0.15,Diego,Efectivo
+1928,2024-10-02,Oeste,Vinos,Espumante 750ml,10625,6250,12,0.0,Sofia,Efectivo
+1496,2024-04-13,Oeste,Jugos,Jugo naranja 1L,2250,1375,6,0.15,Diego,Transferencia
+26,2023-01-01,Oeste,Cervezas,IPA lata 473ml,2300,1300,12,0.0,Tomas,Efectivo
+16,2023-01-01,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.1,Martin,Efectivo
+1322,2024-02-12,Sur,Jugos,Jugo naranja 1L,2250,1375,6,0.0,Diego,Efectivo
+884,2023-11-14,Oeste,Aguas,Agua con gas 2L,1200,650,48,0.05,Tomas,Efectivo
+1361,2024-03-21,Centro,Cervezas,Negra botella 1L,3500,2125,6,0.1,Martin,Transferencia
+1845,2024-09-04,Oeste,Jugos,Jugo naranja 1L,2250,1375,48,0.0,Lucia,Tarjeta
+1613,2024-06-18,Centro,Vinos,Malbec 750ml,8125,4750,12,0.0,Valentina,Tarjeta
+498,2023-06-09,Norte,Vinos,Malbec 750ml,6500,3800,6,0.0,Lucia,Tarjeta
+516,2023-06-12,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.0,,Transferencia
+1282,2024-02-13,Norte,Aguas,Agua saborizada 1.5L,1750,1000,6,0.05,Valentina,Tarjeta
+1479,2024-04-05,Norte,Vinos,Espumante 750ml,10625,6250,24,0.1,Lucia,Efectivo
+1412,2024-03-10,Centro,Jugos,Jugo manzana 1L,2250,1375,12,0.05,Sofia,Efectivo
+1096,2024-01-23,Sur,Gaseosas,Cola 2.25L,2750,1875,24,0.05,Sofia,Transferencia
+543,2023-07-24,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Lucia,Efectivo
+634,2023-08-04,Centro,Vinos,Cabernet 750ml,6900,4000,6,0.15,Diego,Transferencia
+432,2023-05-23,Norte,Vinos,Cabernet 750ml,6900,4000,24,0.05,Tomas,Transferencia
+729,2023-09-17,Centro,Jugos,Jugo naranja 1L,1800,1100,6,0.05,Martin,Transferencia
+1289,2024-02-25,Oeste,Aguas,Agua sin gas 2L,1375,750,24,0.0,Valentina,Transferencia
+317,2023-03-14,oeste,Jugos,Jugo naranja 1L,1800,1100,6,0.1,Lucia,Efectivo
+1921,2024-10-20,Oeste,Vinos,Cabernet 750ml,8625,5000,48,0.15,Valentina,Transferencia
+1338,2024-03-08,Oeste,Gaseosas,Naranja 1.5L,2125,1375,6,0.0,Martin,Transferencia
+320,2023-04-28,Oeste,Gaseosas,Cola 2.25L,2200,1500,6,0.05,Diego,Tarjeta
+1032,2023-12-07,Oeste,Aguas,Agua sin gas 2L,1100,600,12,0.0,Martin,Transferencia
+2026,2024-11-23,Centro,Vinos,Malbec 750ml,8125,4750,12,0.05,Diego,Tarjeta
+2190,2024-12-19,oeste,Vinos,Malbec 750ml,8125,4750,12,0.0,Diego,Tarjeta
+1111,2024-01-28,Sur,Cervezas,Negra botella 1L,3500,2125,12,0.05,Martin,Tarjeta
+1889,2024-10-24,Sur,Cervezas,IPA lata 473ml,2875,1625,24,0.0,Valentina,Efectivo
+1528,2024-05-12,Sur,Aguas,Agua sin gas 2L,1375,750,6,0.0,Valentina,Transferencia
+754,2023-10-24,Oeste,Gaseosas,Naranja 1.5L,1700,1100,12,0.05,Diego,Transferencia
+563,2023-07-19,Norte,Vinos,Cabernet 750ml,6900,4000,12,0.0,Tomas,Transferencia
+669,2023-09-04,Centro,Gaseosas,Naranja 1.5L,1700,1100,24,0.0,Tomas,Tarjeta
+253,2023-03-14,Norte,Cervezas,Negra botella 1L,2800,1700,48,0.1,Sofia,Tarjeta
+358,2023-04-20,Oeste,Aguas,Agua saborizada 1.5L,1400,800,12,0.1,Sofia,Efectivo
+1279,2024-02-01,Sur,Aguas,Agua sin gas 2L,1375,750,24,0.0,Diego,Tarjeta
+1301,2024-02-15,Norte,Vinos,Espumante 750ml,10625,6250,12,0.0,Lucia,Tarjeta
+1203,2024-01-24,Sur,Jugos,Jugo manzana 1L,2250,1375,12,0.0,Valentina,Efectivo
+130,2023-02-07,Oeste,Gaseosas,Naranja 1.5L,1700,1100,6,0.0,Valentina,Tarjeta
+145,2023-02-22,Sur,Cervezas,IPA lata 473ml,2300,1300,12,0.05,Valentina,Transferencia
+961,2023-12-07,Centro,Gaseosas,Naranja 1.5L,1700,1100,6,0.05,Tomas,Efectivo
+906,2023-11-20,Centro,Vinos,Cabernet 750ml,6900,4000,96,0.0,Martin,Transferencia
+1097,2024-01-14,Centro,Gaseosas,Naranja 1.5L,2125,1375,24,0.0,Sofia,Transferencia
+236,2023-03-15,Norte,Gaseosas,Lima limon 2.25L,2000,1350,12,,Tomas,Transferencia
+1062,2023-12-12,Centro,Vinos,Espumante 750ml,8500,5000,96,0.0,Diego,Transferencia
